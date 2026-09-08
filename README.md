@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="repo_assets/logo.svg" width="120" alt="Tomorrow, Once More blue cup and clock logo">
+  <img src="repo_assets/logo.png" width="160" alt="Tomorrow, Once More illustrated tea cup, clock, and rewind logo">
 </p>
 
 <h1 align="center">Tomorrow, Once More</h1>
