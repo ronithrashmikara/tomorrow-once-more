@@ -1,0 +1,167 @@
+{
+  "id": 24,
+  "title": "Technology",
+  "overview": "Technology vocabulary with practical usage and nuance.",
+  "items": [
+    {
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "romaji": "gijutsu",
+      "meaning": "technology",
+      "pos": "noun",
+      "usage": "技術が進歩する",
+      "example": "最新の技術で通信速度が上がった。",
+      "example_reading": "さいしんのぎじゅつでつうしんそくどがあがった。",
+      "example_romaji": "saishin no gijutsu de tsuushinsokudo ga aga tta .",
+      "translation": "New technology increased the communication speed.",
+      "nuance": "技術 is a field or method based on applied scientific knowledge."
+    },
+    {
+      "word": "機械",
+      "reading": "きかい",
+      "romaji": "kikai",
+      "meaning": "machine",
+      "pos": "noun",
+      "usage": "機械を操作する",
+      "example": "この機械は自動で温度を調整します。",
+      "example_reading": "このきかいはじどうでおんどをちょうせいします。",
+      "example_romaji": "kono kikai ha jidou de ondo wo chousei shimasu .",
+      "translation": "This machine adjusts the temperature automatically.",
+      "nuance": "機械 is a machine with moving or mechanical parts."
+    },
+    {
+      "word": "装置",
+      "reading": "そうち",
+      "romaji": "souchi",
+      "meaning": "device",
+      "pos": "noun",
+      "usage": "装置を設置する",
+      "example": "装置の電源を入れてから操作してください。",
+      "example_reading": "そうちのでんげんをいれてからそうさしてください。",
+      "example_romaji": "souchi no dengen wo ire tekara sousa shitekudasai .",
+      "translation": "Turn on the device before operating it.",
+      "nuance": "装置 is an apparatus designed for a particular function."
+    },
+    {
+      "word": "画面",
+      "reading": "がめん",
+      "romaji": "gamen",
+      "meaning": "screen",
+      "pos": "noun",
+      "usage": "画面に表示する",
+      "example": "画面にエラーメッセージが表示された。",
+      "example_reading": "がめんにえらーめっせーじがひょうじされた。",
+      "example_romaji": "gamen ni eraamesseeji ga hyoujisa reta .",
+      "translation": "An error message appeared on the screen.",
+      "nuance": "画面 is the display surface of a device."
+    },
+    {
+      "word": "映像",
+      "reading": "えいぞう",
+      "romaji": "eizou",
+      "meaning": "video",
+      "pos": "noun",
+      "usage": "映像を再生する",
+      "example": "高画質の映像を会議室で再生した。",
+      "example_reading": "こうがしつのえいぞうをかいぎしつでさいせいした。",
+      "example_romaji": "kougashitsu no eizou wo kaigishitsu de saisei shita .",
+      "translation": "We played high-definition video in the conference room.",
+      "nuance": "映像 is moving visual footage, unlike a still 画像."
+    },
+    {
+      "word": "画像",
+      "reading": "がぞう",
+      "romaji": "gazou",
+      "meaning": "image",
+      "pos": "noun",
+      "usage": "画像を添付する",
+      "example": "画像をメールに添付して送った。",
+      "example_reading": "がぞうをめーるにてんぷしておくった。",
+      "example_romaji": "gazou wo meeru ni tenpu shite okutsu ta .",
+      "translation": "I attached the image to an email and sent it.",
+      "nuance": "画像 is a still image or graphic."
+    },
+    {
+      "word": "音声",
+      "reading": "おんせい",
+      "romaji": "onsei",
+      "meaning": "audio",
+      "pos": "noun",
+      "usage": "音声を録音する",
+      "example": "音声が小さいので、マイクを確認してください。",
+      "example_reading": "おんせいがちーさいので、まいくをかくにんしてください。",
+      "example_romaji": "onsei ga chiisai node , maiku wo kakuninshi tekudasai .",
+      "translation": "The audio is quiet, so please check the microphone.",
+      "nuance": "音声 is recorded or transmitted sound."
+    },
+    {
+      "word": "操作",
+      "reading": "そうさ",
+      "romaji": "sousa",
+      "meaning": "operation",
+      "pos": "noun",
+      "usage": "機械を操作する",
+      "example": "説明書を読んで装置を操作した。",
+      "example_reading": "せつめいしょをよんでそうちをそうさした。",
+      "example_romaji": "setsumeisho wo yonde souchi wo sousa shita .",
+      "translation": "I operated the device after reading the instructions.",
+      "nuance": "操作 means operating controls or a device."
+    },
+    {
+      "word": "設定",
+      "reading": "せってい",
+      "romaji": "setei",
+      "meaning": "settings",
+      "pos": "noun",
+      "usage": "設定を変更する",
+      "example": "設定を変更して通知を止めました。",
+      "example_reading": "せっていをへんこうしてつうちをとめました。",
+      "example_romaji": "settei wo henkou shite tsuuchi wo tome mashita .",
+      "translation": "I changed the settings and stopped the notifications.",
+      "nuance": "設定 means configurable settings."
+    },
+    {
+      "word": "接続",
+      "reading": "せつぞく",
+      "romaji": "setsuzoku",
+      "meaning": "connection",
+      "pos": "noun",
+      "usage": "機器を接続する",
+      "example": "無線でスマホとパソコンを接続した。",
+      "example_reading": "むせんですまほとぱそこんをせつぞくした。",
+      "example_romaji": "musen de sumaho to pasokon wo setsuzokushi ta .",
+      "translation": "I connected my smartphone and computer wirelessly.",
+      "nuance": "接続 means a physical or network connection."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "meaning",
+      "question": "What does 技術 mean?",
+      "options": [
+        "technology",
+        "machine",
+        "weather"
+      ],
+      "answer": "technology",
+      "explanation": "技術 means technology."
+    },
+    {
+      "type": "reading",
+      "question": "機械の読み方は？",
+      "options": [
+        "きかい",
+        "かいしゃ",
+        "せってい"
+      ],
+      "answer": "きかい",
+      "explanation": "The reading is きかい."
+    },
+    {
+      "type": "translation",
+      "question": "装置の電源を入れてから操作してください。",
+      "answer": "Turn on the device before operating it.",
+      "explanation": "装置 is used in this sentence."
+    }
+  ]
+}

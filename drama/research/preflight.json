@@ -1,0 +1,50 @@
+[
+  {
+    "name": "diffusers_commit",
+    "url": "https://api.github.com/repos/huggingface/diffusers/commits/665f578278365ea4a3318cb8c9b66ce6c01204b9",
+    "status": 200,
+    "bytes": 53348
+  },
+  {
+    "name": "diffusers_pr",
+    "url": "https://api.github.com/repos/huggingface/diffusers/pulls/14371",
+    "status": 200,
+    "bytes": 31744
+  },
+  {
+    "name": "model_meta",
+    "url": "https://huggingface.co/api/models/MiniMaxAI/MiniMax-H3",
+    "status": 200,
+    "bytes": 20832
+  },
+  {
+    "name": "turbo_meta",
+    "url": "https://huggingface.co/api/models/lightx2v/Minimax-h3-Turbo",
+    "status": 200,
+    "bytes": 5151
+  },
+  {
+    "name": "pricing",
+    "url": "https://modal.com/pricing",
+    "status": 200,
+    "bytes": 136214
+  },
+  {
+    "name": "space_app",
+    "url": "https://huggingface.co/spaces/MiniMaxAI/MiniMax-H3-Turbo-Lora/raw/main/app.py",
+    "status": 200,
+    "bytes": 19477
+  },
+  {
+    "name": "space_requirements",
+    "url": "https://huggingface.co/spaces/MiniMaxAI/MiniMax-H3-Turbo-Lora/raw/main/requirements.txt",
+    "status": 200,
+    "bytes": 1678
+  },
+  {
+    "name": "diffusers_pipeline",
+    "url": "https://raw.githubusercontent.com/huggingface/diffusers/665f578278365ea4a3318cb8c9b66ce6c01204b9/src/diffusers/modular_pipelines/minimax_h3/modular_pipeline.py",
+    "status": 200,
+    "bytes": 11278
+  }
+]

@@ -1,0 +1,114 @@
+{
+  "id": 30,
+  "title": "Adjectives",
+  "overview": "Common descriptive adjectives for light, temperature, and depth.",
+  "items": [
+    {
+      "word": "明るい",
+      "reading": "あかるい",
+      "romaji": "akarui",
+      "meaning": "bright",
+      "pos": "い-adjective",
+      "usage": "明るい部屋",
+      "example": "春の朝は日差しが明るくて気持ちいい。",
+      "example_reading": "はるのあさはひざしがあかるくてきもちいい。",
+      "example_romaji": "haru no asa ha hizashi ga akaruku te kimochii i .",
+      "translation": "The bright sunlight on spring mornings feels pleasant.",
+      "nuance": "明るい describes light or a cheerful atmosphere."
+    },
+    {
+      "word": "暗い",
+      "reading": "くらい",
+      "romaji": "kurai",
+      "meaning": "dark",
+      "pos": "い-adjective",
+      "usage": "暗い夜道",
+      "example": "夜道が暗いので、ライトを持って歩いた。",
+      "example_reading": "よみちがくらいので、らいとをもってあるいた。",
+      "example_romaji": "yomichi ga kurai node , raito wo motsu te arui ta .",
+      "translation": "The road was dark at night, so I walked with a light.",
+      "nuance": "暗い describes a lack of light or a gloomy mood."
+    },
+    {
+      "word": "暖かい",
+      "reading": "あたたかい",
+      "romaji": "atatakai",
+      "meaning": "warm",
+      "pos": "い-adjective",
+      "usage": "暖かい部屋",
+      "example": "暖かい部屋でゆっくり休みました。",
+      "example_reading": "あたたかいへやでゆっくりやすみました。",
+      "example_romaji": "atatakai heya deyukkuri yasumi mashita .",
+      "translation": "I rested quietly in a warm room.",
+      "nuance": "暖かい describes comfortable warmth."
+    },
+    {
+      "word": "涼しい",
+      "reading": "すずしい",
+      "romaji": "suzushii",
+      "meaning": "cool",
+      "pos": "い-adjective",
+      "usage": "涼しい風",
+      "example": "秋の風が涼しく感じられます。",
+      "example_reading": "あきのかぜがすずしくかんじられます。",
+      "example_romaji": "aki no kaze ga suzushiku kanji raremasu .",
+      "translation": "The autumn breeze feels cool.",
+      "nuance": "涼しい describes pleasantly cool air."
+    },
+    {
+      "word": "深い",
+      "reading": "ふかい",
+      "romaji": "fukai",
+      "meaning": "deep",
+      "pos": "い-adjective",
+      "usage": "深い川",
+      "example": "この川は中央部が深いので危険です。",
+      "example_reading": "このかわはちゅうおうぶがふかいのできけんです。",
+      "example_romaji": "kono kawa ha chuuoubu ga fukai node kiken desu .",
+      "translation": "The middle of this river is deep, so it is dangerous.",
+      "nuance": "深い describes great depth."
+    },
+    {
+      "word": "浅い",
+      "reading": "あさい",
+      "romaji": "asai",
+      "meaning": "shallow",
+      "pos": "い-adjective",
+      "usage": "浅い池",
+      "example": "この池は浅いので、子どもも遊べます。",
+      "example_reading": "このいけはあさいので、こどももあそべます。",
+      "example_romaji": "kono ike ha asai node , kodomo mo asobe masu .",
+      "translation": "This pond is shallow, so children can play there.",
+      "nuance": "浅い describes little depth."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "meaning",
+      "question": "What does 深い mean?",
+      "options": [
+        "deep",
+        "shallow",
+        "cool"
+      ],
+      "answer": "deep",
+      "explanation": "深い means deep."
+    },
+    {
+      "type": "reading",
+      "question": "暖かいの読み方は？",
+      "options": [
+        "あたたかい",
+        "あつい"
+      ],
+      "answer": "あたたかい",
+      "explanation": "暖かい is あたたかい."
+    },
+    {
+      "type": "translation",
+      "question": "この池は浅いので、子どもも遊べます。",
+      "answer": "This pond is shallow, so children can play there.",
+      "explanation": "浅い means shallow."
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": 29,
+  "title": "Sound and movement",
+  "overview": "Describe sounds, physical motion, and gradual changes.",
+  "items": [
+    {
+      "word": "響く",
+      "reading": "ひびく",
+      "romaji": "ひびく",
+      "meaning": "echo",
+      "pos": "verb",
+      "usage": "響く音",
+      "example": "音が響く。",
+      "example_reading": "おとがひびく。",
+      "example_romaji": "Oto ga ひびく.",
+      "translation": "The sound echos.",
+      "nuance": "An everyday intransitive verb describing echo."
+    },
+    {
+      "word": "揺れる",
+      "reading": "ゆれる",
+      "romaji": "ゆれる",
+      "meaning": "sway",
+      "pos": "verb",
+      "usage": "揺れる音",
+      "example": "音が揺れる。",
+      "example_reading": "おとがゆれる。",
+      "example_romaji": "Oto ga ゆれる.",
+      "translation": "The sound sways.",
+      "nuance": "An everyday intransitive verb describing sway."
+    },
+    {
+      "word": "滑る",
+      "reading": "すべる",
+      "romaji": "すべる",
+      "meaning": "slip",
+      "pos": "verb",
+      "usage": "滑る音",
+      "example": "音が滑る。",
+      "example_reading": "おとがすべる。",
+      "example_romaji": "Oto ga すべる.",
+      "translation": "The sound slips.",
+      "nuance": "An everyday intransitive verb describing slip."
+    },
+    {
+      "word": "転ぶ",
+      "reading": "ころぶ",
+      "romaji": "ころぶ",
+      "meaning": "fall over",
+      "pos": "verb",
+      "usage": "転ぶ音",
+      "example": "音が転ぶ。",
+      "example_reading": "おとがころぶ。",
+      "example_romaji": "Oto ga ころぶ.",
+      "translation": "The sound fall overs.",
+      "nuance": "An everyday intransitive verb describing fall over."
+    },
+    {
+      "word": "縮む",
+      "reading": "ちぢむ",
+      "romaji": "ちぢむ",
+      "meaning": "shrink",
+      "pos": "verb",
+      "usage": "縮む音",
+      "example": "音が縮む。",
+      "example_reading": "おとがちぢむ。",
+      "example_romaji": "Oto ga ちぢむ.",
+      "translation": "The sound shrinks.",
+      "nuance": "An everyday intransitive verb describing shrink."
+    },
+    {
+      "word": "広がる",
+      "reading": "ひろがる",
+      "romaji": "ひろがる",
+      "meaning": "spread",
+      "pos": "verb",
+      "usage": "広がる音",
+      "example": "音が広がる。",
+      "example_reading": "おとがひろがる。",
+      "example_romaji": "Oto ga ひろがる.",
+      "translation": "The sound spreads.",
+      "nuance": "An everyday intransitive verb describing spread."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "question": "Match 響く and 揺れる.",
+      "options": [
+        "echo and sway",
+        "shrink and fall"
+      ],
+      "answer": "echo and sway",
+      "explanation": "They describe sound and back-and-forth motion."
+    },
+    {
+      "type": "reading",
+      "question": "Read 縮む.",
+      "options": [
+        "ちぢむ",
+        "ちむ",
+        "しゅくむ"
+      ],
+      "answer": "ちぢむ",
+      "explanation": "The reading is ちぢむ."
+    },
+    {
+      "type": "production",
+      "question": "Use 広がる.",
+      "options": [
+        "景色が広がる。",
+        "景色が滑る。"
+      ],
+      "answer": "景色が広がる。",
+      "explanation": "広がる means spread or open up."
+    }
+  ]
+}

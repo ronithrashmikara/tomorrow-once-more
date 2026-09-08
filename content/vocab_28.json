@@ -1,0 +1,118 @@
+{
+  "id": 28,
+  "title": "Descriptive qualities",
+  "overview": "Describe detail, sharpness, nostalgia, calmness, abundance, and thriving activity.",
+  "items": [
+    {
+      "word": "詳しい",
+      "reading": "くわしい",
+      "romaji": "くわしい",
+      "meaning": "detailed",
+      "pos": "adjective",
+      "usage": "詳しいな説明",
+      "example": "詳しい説明を聞いた。",
+      "example_reading": "くわしいせつめいをきいた。",
+      "example_romaji": "くわしい setsumei o kiita.",
+      "translation": "I heard a detailed explanation.",
+      "nuance": "A useful descriptive adjective with context-specific meaning."
+    },
+    {
+      "word": "鋭い",
+      "reading": "するどい",
+      "romaji": "するどい",
+      "meaning": "sharp",
+      "pos": "adjective",
+      "usage": "鋭いな説明",
+      "example": "鋭い説明を聞いた。",
+      "example_reading": "するどいせつめいをきいた。",
+      "example_romaji": "するどい setsumei o kiita.",
+      "translation": "I heard a sharp explanation.",
+      "nuance": "A useful descriptive adjective with context-specific meaning."
+    },
+    {
+      "word": "懐かしい",
+      "reading": "なつかしい",
+      "romaji": "なつかしい",
+      "meaning": "nostalgic",
+      "pos": "adjective",
+      "usage": "懐かしいな説明",
+      "example": "懐かしい説明を聞いた。",
+      "example_reading": "なつかしいせつめいをきいた。",
+      "example_romaji": "なつかしい setsumei o kiita.",
+      "translation": "I heard a nostalgic explanation.",
+      "nuance": "A useful descriptive adjective with context-specific meaning."
+    },
+    {
+      "word": "穏やか",
+      "reading": "おだやか",
+      "romaji": "おだやか",
+      "meaning": "calm",
+      "pos": "adjective",
+      "usage": "穏やかな説明",
+      "example": "穏やか説明を聞いた。",
+      "example_reading": "おだやかせつめいをきいた。",
+      "example_romaji": "おだやか setsumei o kiita.",
+      "translation": "I heard a calm explanation.",
+      "nuance": "A useful descriptive adjective with context-specific meaning."
+    },
+    {
+      "word": "豊か",
+      "reading": "ゆたか",
+      "romaji": "ゆたか",
+      "meaning": "abundant",
+      "pos": "adjective",
+      "usage": "豊かな説明",
+      "example": "豊か説明を聞いた。",
+      "example_reading": "ゆたかせつめいをきいた。",
+      "example_romaji": "ゆたか setsumei o kiita.",
+      "translation": "I heard a abundant explanation.",
+      "nuance": "A useful descriptive adjective with context-specific meaning."
+    },
+    {
+      "word": "盛ん",
+      "reading": "さかん",
+      "romaji": "さかん",
+      "meaning": "vigorous",
+      "pos": "adjective",
+      "usage": "盛んな説明",
+      "example": "盛ん説明を聞いた。",
+      "example_reading": "さかんせつめいをきいた。",
+      "example_romaji": "さかん setsumei o kiita.",
+      "translation": "I heard a vigorous explanation.",
+      "nuance": "A useful descriptive adjective with context-specific meaning."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "question": "Match 詳しい and 穏やか.",
+      "options": [
+        "detailed and calm",
+        "sharp and nostalgic"
+      ],
+      "answer": "detailed and calm",
+      "explanation": "These are common descriptive uses."
+    },
+    {
+      "type": "reading",
+      "question": "Read 豊か.",
+      "options": [
+        "ゆたか",
+        "ゆたけ",
+        "とよか"
+      ],
+      "answer": "ゆたか",
+      "explanation": "The reading is ゆたか."
+    },
+    {
+      "type": "production",
+      "question": "Use 盛ん in a sentence.",
+      "options": [
+        "交流が盛んだ。",
+        "交流が鋭い。"
+      ],
+      "answer": "交流が盛んだ。",
+      "explanation": "盛ん describes flourishing activity."
+    }
+  ]
+}

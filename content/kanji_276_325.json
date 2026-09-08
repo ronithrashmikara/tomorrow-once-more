@@ -1,0 +1,1252 @@
+[
+  {
+    "kanji": "幸",
+    "meaning": "happiness",
+    "onyomi": "コウ",
+    "kunyomi": "さいわい; しあわせ",
+    "romaji": "kou; saiwai; shiawase",
+    "words": [
+      {
+        "word": "幸福",
+        "reading": "こうふく",
+        "meaning": "happiness"
+      },
+      {
+        "word": "幸せ",
+        "reading": "しあわせ",
+        "meaning": "happiness"
+      }
+    ],
+    "example": "家族と過ごす時間が私の幸せです。",
+    "example_reading": "かぞくとすごすじかんがわたしのしあわせです。",
+    "translation": "Time spent with my family is my happiness.",
+    "components": "土 and 羊 balanced in a fortunate shape.",
+    "mnemonic": "Picture a family smiling together at home.",
+    "warning": "幸せ is everyday happiness; 幸福 is formal happiness."
+  },
+  {
+    "kanji": "押",
+    "meaning": "push; press",
+    "onyomi": "オウ",
+    "kunyomi": "おす; おさえる",
+    "romaji": "ou; osu; osaeru",
+    "words": [
+      {
+        "word": "押す",
+        "reading": "おす",
+        "meaning": "push; press"
+      },
+      {
+        "word": "押し入れ",
+        "reading": "おしいれ",
+        "meaning": "closet"
+      }
+    ],
+    "example": "このボタンを押すと電気がつきます。",
+    "example_reading": "このぼたんをおすとでんきがつきます。",
+    "translation": "Pressing this button turns on the light.",
+    "components": "扌 beside 甲, a hand pressing a shell-like surface.",
+    "mnemonic": "Picture a finger pressing a bright button.",
+    "warning": "押す means press; 押し入れ is a storage closet."
+  },
+  {
+    "kanji": "倒",
+    "meaning": "fall; collapse",
+    "onyomi": "トウ",
+    "kunyomi": "たおれる; たおす",
+    "romaji": "tou; taoreru; taosu",
+    "words": [
+      {
+        "word": "倒れる",
+        "reading": "たおれる",
+        "meaning": "fall; collapse"
+      },
+      {
+        "word": "倒す",
+        "reading": "たおす",
+        "meaning": "knock down"
+      }
+    ],
+    "example": "強い風で木が倒れた。",
+    "example_reading": "つよいかぜできがたおれた。",
+    "translation": "The tree fell because of the strong wind.",
+    "components": "亻 beside 到, a person reaching the ground.",
+    "mnemonic": "Picture a tree tipping over in a storm.",
+    "warning": "倒れる is fall; 倒す is knock something down."
+  },
+  {
+    "kanji": "等",
+    "meaning": "equal; and so on",
+    "onyomi": "トウ",
+    "kunyomi": "ひとしい",
+    "romaji": "tou; hitoshii",
+    "words": [
+      {
+        "word": "平等",
+        "reading": "びょうどう",
+        "meaning": "equality"
+      },
+      {
+        "word": "等しい",
+        "reading": "ひとしい",
+        "meaning": "equal"
+      }
+    ],
+    "example": "すべての人を平等に扱うべきだ。",
+    "example_reading": "すべてのひとをびょうどうにあつかうべきだ。",
+    "translation": "Everyone should be treated equally.",
+    "components": "竹 above 寺, items arranged in matching groups.",
+    "mnemonic": "Picture equal stacks lined up on a table.",
+    "warning": "平等 means equality; 等しい means equal."
+  },
+  {
+    "kanji": "老",
+    "meaning": "old; aged",
+    "onyomi": "ロウ",
+    "kunyomi": "おいる; ふける",
+    "romaji": "rou; oiru; fukeru",
+    "words": [
+      {
+        "word": "老人",
+        "reading": "ろうじん",
+        "meaning": "elderly person"
+      },
+      {
+        "word": "老後",
+        "reading": "ろうご",
+        "meaning": "old age"
+      }
+    ],
+    "example": "祖父は老後も畑を続けたいと言った。",
+    "example_reading": "そふはろうごもはたけをつづけたいといった。",
+    "translation": "My grandfather said he wants to continue farming in old age.",
+    "components": "An elderly figure with a long beard over 匕.",
+    "mnemonic": "Picture an older farmer caring for his field.",
+    "warning": "老人 is elderly person; 老後 means later life."
+  },
+  {
+    "kanji": "曲",
+    "meaning": "bend; melody",
+    "onyomi": "キョク",
+    "kunyomi": "まがる; まげる",
+    "romaji": "kyoku; magaru; mageru",
+    "words": [
+      {
+        "word": "曲がる",
+        "reading": "まがる",
+        "meaning": "turn; bend"
+      },
+      {
+        "word": "音楽",
+        "reading": "おんがく",
+        "meaning": "music"
+      }
+    ],
+    "example": "次の角を右に曲がってください。",
+    "example_reading": "つぎのかどをみぎにまがってください。",
+    "translation": "Please turn right at the next corner.",
+    "components": "A bent shape with lines changing direction.",
+    "mnemonic": "Picture an arrow bending at a street corner.",
+    "warning": "曲がる means turn; 曲 is a musical piece."
+  },
+  {
+    "kanji": "払",
+    "meaning": "pay; brush away",
+    "onyomi": "ハラ",
+    "kunyomi": "はらう",
+    "romaji": "harau",
+    "words": [
+      {
+        "word": "支払い",
+        "reading": "しはらい",
+        "meaning": "payment"
+      },
+      {
+        "word": "払う",
+        "reading": "はらう",
+        "meaning": "pay"
+      }
+    ],
+    "example": "レジで料金を払った。",
+    "example_reading": "れじでりょうきんをはらった。",
+    "translation": "I paid the fee at the register.",
+    "components": "扌 beside 八, a hand sending something away.",
+    "mnemonic": "Picture coins leaving your palm at a register.",
+    "warning": "払う means pay or brush away; 支払い is payment."
+  },
+  {
+    "kanji": "庭",
+    "meaning": "yard; garden",
+    "onyomi": "テイ",
+    "kunyomi": "にわ",
+    "romaji": "tei; niwa",
+    "words": [
+      {
+        "word": "庭",
+        "reading": "にわ",
+        "meaning": "garden; yard"
+      },
+      {
+        "word": "家庭",
+        "reading": "かてい",
+        "meaning": "household"
+      }
+    ],
+    "example": "庭に小さな花を植えた。",
+    "example_reading": "にわにちいさなはなをうえた。",
+    "translation": "I planted small flowers in the garden.",
+    "components": "广 over 廷, an open space beside a house.",
+    "mnemonic": "Picture flowers growing in a home's yard.",
+    "warning": "庭 means garden or yard; 家庭 means household."
+  },
+  {
+    "kanji": "徒",
+    "meaning": "on foot; futile",
+    "onyomi": "ト",
+    "kunyomi": "いたずら",
+    "romaji": "to; itazura",
+    "words": [
+      {
+        "word": "徒歩",
+        "reading": "とほ",
+        "meaning": "on foot"
+      },
+      {
+        "word": "生徒",
+        "reading": "せいと",
+        "meaning": "student; pupil"
+      }
+    ],
+    "example": "駅から学校まで徒歩で通っている。",
+    "example_reading": "えきからがっこうまでとほでかよっている。",
+    "translation": "I commute on foot from the station to school.",
+    "components": "彳 and 走, feet moving along a route.",
+    "mnemonic": "Picture students walking together to class.",
+    "warning": "徒歩 means on foot; 生徒 means pupil."
+  },
+  {
+    "kanji": "勤",
+    "meaning": "work; diligence",
+    "onyomi": "キン; ゴン",
+    "kunyomi": "つとめる; つとまる",
+    "romaji": "kin; gon; tsutomeru; tsutomaru",
+    "words": [
+      {
+        "word": "勤務",
+        "reading": "きんむ",
+        "meaning": "duty; work"
+      },
+      {
+        "word": "勤める",
+        "reading": "つとめる",
+        "meaning": "work for"
+      }
+    ],
+    "example": "父は銀行に勤めている。",
+    "example_reading": "ちちはぎんこうにつとめている。",
+    "translation": "My father works at a bank.",
+    "components": "革 over 力, effort applied steadily to work.",
+    "mnemonic": "Picture strength pulling a workday forward.",
+    "warning": "勤務 is work duty; 勤める means work for."
+  },
+  {
+    "kanji": "遅",
+    "meaning": "late; slow",
+    "onyomi": "チ",
+    "kunyomi": "おくれる; おそい",
+    "romaji": "chi; okureru; osoi",
+    "words": [
+      {
+        "word": "遅れる",
+        "reading": "おくれる",
+        "meaning": "be late"
+      },
+      {
+        "word": "遅い",
+        "reading": "おそい",
+        "meaning": "slow; late"
+      }
+    ],
+    "example": "電車が遅れて会議に間に合わなかった。",
+    "example_reading": "でんしゃがおくれてかいぎにまにあわなかった。",
+    "translation": "The train was late, so I missed the meeting.",
+    "components": "辶 beside 羊, slow movement along a path.",
+    "mnemonic": "Picture a slow train arriving after the scheduled time.",
+    "warning": "遅れる means be late; 遅い means slow or late."
+  },
+  {
+    "kanji": "居",
+    "meaning": "reside; be",
+    "onyomi": "キョ",
+    "kunyomi": "いる",
+    "romaji": "kyo; iru",
+    "words": [
+      {
+        "word": "居る",
+        "reading": "いる",
+        "meaning": "be; exist"
+      },
+      {
+        "word": "居間",
+        "reading": "いま",
+        "meaning": "living room"
+      }
+    ],
+    "example": "猫は居間の椅子で寝ている。",
+    "example_reading": "ねこはいまのいすでねている。",
+    "translation": "The cat is sleeping on a chair in the living room.",
+    "components": "尸 over 古, someone staying in one place.",
+    "mnemonic": "Picture a cat settled in the living room.",
+    "warning": "居る is for animate existence; 居間 is living room."
+  },
+  {
+    "kanji": "雑",
+    "meaning": "miscellaneous; noisy",
+    "onyomi": "ザツ; ゾウ",
+    "kunyomi": "まじる; まざる",
+    "romaji": "zatsu; zou; majiru; mazaru",
+    "words": [
+      {
+        "word": "雑誌",
+        "reading": "ざっし",
+        "meaning": "magazine"
+      },
+      {
+        "word": "雑音",
+        "reading": "ざつおん",
+        "meaning": "noise"
+      }
+    ],
+    "example": "電車の雑音で声が聞こえなかった。",
+    "example_reading": "でんしゃのざつおんでこえがきこえなかった。",
+    "translation": "I could not hear the voice over the train noise.",
+    "components": "隹 mixed with 木, different things together.",
+    "mnemonic": "Picture many unrelated sounds mixing in a station.",
+    "warning": "雑誌 is magazine; 雑音 is unwanted noise."
+  },
+  {
+    "kanji": "招",
+    "meaning": "invite; summon",
+    "onyomi": "ショウ",
+    "kunyomi": "まねく",
+    "romaji": "shou; maneku",
+    "words": [
+      {
+        "word": "招待",
+        "reading": "しょうたい",
+        "meaning": "invitation"
+      },
+      {
+        "word": "招く",
+        "reading": "まねく",
+        "meaning": "invite; cause"
+      }
+    ],
+    "example": "友達を誕生日会に招待した。",
+    "example_reading": "ともだちをたんじょうびかいにしょうたいした。",
+    "translation": "I invited my friend to a birthday party.",
+    "components": "扌 beside 召, a hand beckoning someone closer.",
+    "mnemonic": "Picture a hand waving a guest into a party.",
+    "warning": "招待 means invitation; 招く means invite or cause."
+  },
+  {
+    "kanji": "困",
+    "meaning": "trouble; distressed",
+    "onyomi": "コン",
+    "kunyomi": "こまる",
+    "romaji": "kon; komaru",
+    "words": [
+      {
+        "word": "困る",
+        "reading": "こまる",
+        "meaning": "be困る; be troubled"
+      },
+      {
+        "word": "困難",
+        "reading": "こんなん",
+        "meaning": "difficulty"
+      }
+    ],
+    "example": "財布を忘れて困っている。",
+    "example_reading": "さいふをわすれてこまっている。",
+    "translation": "I am in trouble because I forgot my wallet.",
+    "components": "木 enclosed by 囗, a tree unable to move in a box.",
+    "mnemonic": "Picture a tree trapped inside a fence.",
+    "warning": "困る means be troubled; 困難 means difficulty."
+  },
+  {
+    "kanji": "欠",
+    "meaning": "lack; yawn",
+    "onyomi": "ケツ",
+    "kunyomi": "かける; かく",
+    "romaji": "ketsu; kakeru; kaku",
+    "words": [
+      {
+        "word": "欠席",
+        "reading": "けっせき",
+        "meaning": "absence"
+      },
+      {
+        "word": "欠ける",
+        "reading": "かける",
+        "meaning": "be missing; chip"
+      }
+    ],
+    "example": "病気で授業を欠席した。",
+    "example_reading": "びょうきでじゅぎょうをけっせきした。",
+    "translation": "I was absent from class because I was sick.",
+    "components": "An open mouth with something missing.",
+    "mnemonic": "Picture an empty seat where a student should be.",
+    "warning": "欠席 means absence; 欠ける means be chipped or missing."
+  },
+  {
+    "kanji": "更",
+    "meaning": "again; renew",
+    "onyomi": "コウ",
+    "kunyomi": "さら; ふける",
+    "romaji": "kou; sara; fukeru",
+    "words": [
+      {
+        "word": "変更",
+        "reading": "へんこう",
+        "meaning": "change; modification"
+      },
+      {
+        "word": "更新",
+        "reading": "こうしん",
+        "meaning": "renewal; update"
+      }
+    ],
+    "example": "住所が変わったので登録を更新した。",
+    "example_reading": "じゅうしょがかわったのでとうろくをこうしんした。",
+    "translation": "I updated my registration because my address changed.",
+    "components": "A hand changing an object at night.",
+    "mnemonic": "Picture an old record being replaced with a new one.",
+    "warning": "更新 means update; 変更 means change."
+  },
+  {
+    "kanji": "刻",
+    "meaning": "engrave; time",
+    "onyomi": "コク",
+    "kunyomi": "きざむ",
+    "romaji": "koku; kizamu",
+    "words": [
+      {
+        "word": "時刻",
+        "reading": "じこく",
+        "meaning": "time"
+      },
+      {
+        "word": "刻む",
+        "reading": "きざむ",
+        "meaning": "carve; chop"
+      }
+    ],
+    "example": "出発時刻をもう一度確認した。",
+    "example_reading": "しゅっぱつじこくをもういちどかくにんした。",
+    "translation": "I checked the departure time again.",
+    "components": "亥 with 刀, a blade marking precise divisions.",
+    "mnemonic": "Picture a knife carving marks into a clock face.",
+    "warning": "時刻 means time; 刻む means carve or chop."
+  },
+  {
+    "kanji": "賛",
+    "meaning": "approve; praise",
+    "onyomi": "サン",
+    "kunyomi": "-",
+    "romaji": "san",
+    "words": [
+      {
+        "word": "賛成",
+        "reading": "さんせい",
+        "meaning": "agreement"
+      },
+      {
+        "word": "称賛",
+        "reading": "しょうさん",
+        "meaning": "praise"
+      }
+    ],
+    "example": "私はその提案に賛成です。",
+    "example_reading": "わたしはそのていあんにさんせいです。",
+    "translation": "I agree with that proposal.",
+    "components": "貝 and 兟, valuable support added to an idea.",
+    "mnemonic": "Picture coins placed beside a proposal in approval.",
+    "warning": "賛成 means agreement; 称賛 means praise."
+  },
+  {
+    "kanji": "抱",
+    "meaning": "hug; hold",
+    "onyomi": "ホウ",
+    "kunyomi": "だく; いだく; かかえる",
+    "romaji": "hou; daku; idaku; kakaeru",
+    "words": [
+      {
+        "word": "抱く",
+        "reading": "いだく",
+        "meaning": "harbor; hold"
+      },
+      {
+        "word": "抱える",
+        "reading": "かかえる",
+        "meaning": "hold; carry"
+      }
+    ],
+    "example": "大きな箱を両手で抱えた。",
+    "example_reading": "おおきなはこをりょうてでかかえた。",
+    "translation": "I held a large box in both arms.",
+    "components": "扌 beside 包, hands wrapping around something.",
+    "mnemonic": "Picture arms wrapped securely around a box.",
+    "warning": "抱える means hold or carry; 抱く can mean harbor a feeling."
+  },
+  {
+    "kanji": "犯",
+    "meaning": "commit crime; violate",
+    "onyomi": "ハン",
+    "kunyomi": "おかす",
+    "romaji": "han; okasu",
+    "words": [
+      {
+        "word": "犯罪",
+        "reading": "はんざい",
+        "meaning": "crime"
+      },
+      {
+        "word": "犯す",
+        "reading": "おかす",
+        "meaning": "commit; violate"
+      }
+    ],
+    "example": "その行為は法律を犯す可能性がある。",
+    "example_reading": "そのこういはほうりつをおかすかのうせいがある。",
+    "translation": "That act may violate the law.",
+    "components": "犭 beside 㔾, crossing a boundary like an offense.",
+    "mnemonic": "Picture a warning line being crossed.",
+    "warning": "犯罪 means crime; 犯す means commit or violate."
+  },
+  {
+    "kanji": "恐",
+    "meaning": "fear; dread",
+    "onyomi": "キョウ",
+    "kunyomi": "おそれる; こわい",
+    "romaji": "kyou; osoreru; kowai",
+    "words": [
+      {
+        "word": "恐怖",
+        "reading": "きょうふ",
+        "meaning": "fear; terror"
+      },
+      {
+        "word": "恐ろしい",
+        "reading": "おそろしい",
+        "meaning": "frightening"
+      }
+    ],
+    "example": "夜の森は少し恐ろしかった。",
+    "example_reading": "よるのもりはすこしおそろしかった。",
+    "translation": "The forest at night was a little frightening.",
+    "components": "工 and 心 under a hand, fear held in the heart.",
+    "mnemonic": "Picture a trembling heart in a dark forest.",
+    "warning": "恐怖 is fear; 恐ろしい means frightening."
+  },
+  {
+    "kanji": "息",
+    "meaning": "breath; son",
+    "onyomi": "ソク",
+    "kunyomi": "いき",
+    "romaji": "soku; iki",
+    "words": [
+      {
+        "word": "休息",
+        "reading": "きゅうそく",
+        "meaning": "rest"
+      },
+      {
+        "word": "息子",
+        "reading": "むすこ",
+        "meaning": "son"
+      }
+    ],
+    "example": "仕事の後で少し休息を取った。",
+    "example_reading": "しごとのあとですこしきゅうそくをとった。",
+    "translation": "I took some rest after work.",
+    "components": "自 over 心, breath rising from the self and heart.",
+    "mnemonic": "Picture a calm breath after finishing a task.",
+    "warning": "休息 means rest; 息子 means son."
+  },
+  {
+    "kanji": "遠",
+    "meaning": "far; distant",
+    "onyomi": "エン; オン",
+    "kunyomi": "とおい",
+    "romaji": "en; on; tooi",
+    "words": [
+      {
+        "word": "遠い",
+        "reading": "とおい",
+        "meaning": "far"
+      },
+      {
+        "word": "遠慮",
+        "reading": "えんりょ",
+        "meaning": "restraint; reserve"
+      }
+    ],
+    "example": "駅はここから少し遠い。",
+    "example_reading": "えきはここからすこしとおい。",
+    "translation": "The station is a little far from here.",
+    "components": "袁 with 辶, movement across a long distance.",
+    "mnemonic": "Picture a road stretching toward a distant station.",
+    "warning": "遠い means far; 遠慮 means holding back politely."
+  },
+  {
+    "kanji": "戻",
+    "meaning": "return; revert",
+    "onyomi": "レイ",
+    "kunyomi": "もどる; もどす",
+    "romaji": "rei; modoru; modosu",
+    "words": [
+      {
+        "word": "戻る",
+        "reading": "もどる",
+        "meaning": "return"
+      },
+      {
+        "word": "戻す",
+        "reading": "もどす",
+        "meaning": "put back; return"
+      }
+    ],
+    "example": "忘れ物を取りに家へ戻った。",
+    "example_reading": "わすれものをとりにいえへもどった。",
+    "translation": "I returned home to get what I forgot.",
+    "components": "戸 over 大, a person turning back through a door.",
+    "mnemonic": "Picture footsteps turning around at a doorway.",
+    "warning": "戻る is return; 戻す means put something back."
+  },
+  {
+    "kanji": "願",
+    "meaning": "wish; request",
+    "onyomi": "ガン",
+    "kunyomi": "ねがう",
+    "romaji": "gan; negau",
+    "words": [
+      {
+        "word": "願い",
+        "reading": "ねがい",
+        "meaning": "wish; request"
+      },
+      {
+        "word": "願書",
+        "reading": "がんしょ",
+        "meaning": "application form"
+      }
+    ],
+    "example": "合格を願って毎日勉強している。",
+    "example_reading": "ごうかくをねがってまいにちべんきょうしている。",
+    "translation": "I study every day hoping to pass.",
+    "components": "原 beside 頁, a wish written and presented formally.",
+    "mnemonic": "Picture an application placed before an official.",
+    "warning": "願い is wish; 願書 is application form."
+  },
+  {
+    "kanji": "絵",
+    "meaning": "picture; drawing",
+    "onyomi": "カイ; エ",
+    "kunyomi": "-",
+    "romaji": "kai; e",
+    "words": [
+      {
+        "word": "絵本",
+        "reading": "えほん",
+        "meaning": "picture book"
+      },
+      {
+        "word": "絵画",
+        "reading": "かいが",
+        "meaning": "painting"
+      }
+    ],
+    "example": "子どもに絵本を読んであげた。",
+    "example_reading": "こどもにえほんをよんであげた。",
+    "translation": "I read a picture book to the child.",
+    "components": "糸 beside 会, lines joined into an image.",
+    "mnemonic": "Picture colored threads meeting to form a scene.",
+    "warning": "絵本 is picture book; 絵画 is painting."
+  },
+  {
+    "kanji": "越",
+    "meaning": "cross; exceed",
+    "onyomi": "エツ",
+    "kunyomi": "こす; こえる",
+    "romaji": "etsu; kosu; koeru",
+    "words": [
+      {
+        "word": "引っ越す",
+        "reading": "ひっこす",
+        "meaning": "move house"
+      },
+      {
+        "word": "越える",
+        "reading": "こえる",
+        "meaning": "cross; exceed"
+      }
+    ],
+    "example": "来月、隣の町へ引っ越す予定です。",
+    "example_reading": "らいげつ、となりのまちへひっこすよていです。",
+    "translation": "I plan to move to the neighboring town next month.",
+    "components": "走 beside 戉, moving across a boundary.",
+    "mnemonic": "Picture a family carrying boxes over a town line.",
+    "warning": "引っ越す means move house; 越える means cross or exceed."
+  },
+  {
+    "kanji": "欲",
+    "meaning": "desire; want",
+    "onyomi": "ヨク",
+    "kunyomi": "ほしい; ほしがる",
+    "romaji": "yoku; hoshii; hoshigaru",
+    "words": [
+      {
+        "word": "欲しい",
+        "reading": "ほしい",
+        "meaning": "want"
+      },
+      {
+        "word": "欲望",
+        "reading": "よくぼう",
+        "meaning": "desire"
+      }
+    ],
+    "example": "誕生日に新しい靴が欲しい。",
+    "example_reading": "たんじょうびにあたらしいくつがほしい。",
+    "translation": "I want new shoes for my birthday.",
+    "components": "谷 beside 欠, an open longing that seeks something.",
+    "mnemonic": "Picture an empty space waiting for the desired shoes.",
+    "warning": "欲しい means want; 欲望 is desire."
+  },
+  {
+    "kanji": "痛",
+    "meaning": "pain; hurt",
+    "onyomi": "ツウ",
+    "kunyomi": "いたい; いたむ; いためる",
+    "romaji": "tsuu; itai; itamu; itameru",
+    "words": [
+      {
+        "word": "痛い",
+        "reading": "いたい",
+        "meaning": "painful"
+      },
+      {
+        "word": "頭痛",
+        "reading": "ずつう",
+        "meaning": "headache"
+      }
+    ],
+    "example": "転んで膝が痛い。",
+    "example_reading": "ころんでひざがいたい。",
+    "translation": "My knee hurts because I fell.",
+    "components": "疒 beside 甬, pain moving through the body.",
+    "mnemonic": "Picture a knee marked after a fall.",
+    "warning": "痛い means painful; 頭痛 means headache."
+  },
+  {
+    "kanji": "笑",
+    "meaning": "laugh; smile",
+    "onyomi": "ショウ",
+    "kunyomi": "わらう; えむ",
+    "romaji": "shou; warau; emu",
+    "words": [
+      {
+        "word": "笑う",
+        "reading": "わらう",
+        "meaning": "laugh"
+      },
+      {
+        "word": "笑顔",
+        "reading": "えがお",
+        "meaning": "smiling face"
+      }
+    ],
+    "example": "その冗談を聞いてみんなが笑った。",
+    "example_reading": "そのじょうだんをきいてみんながわらった。",
+    "translation": "Everyone laughed after hearing the joke.",
+    "components": "竹 over 夭, a face lifting like bending bamboo.",
+    "mnemonic": "Picture bamboo leaves shaking with laughter.",
+    "warning": "笑う means laugh; 笑顔 means smiling face."
+  },
+  {
+    "kanji": "互",
+    "meaning": "mutual; each other",
+    "onyomi": "ゴ",
+    "kunyomi": "たがい",
+    "romaji": "go; tagai",
+    "words": [
+      {
+        "word": "互いに",
+        "reading": "たがいに",
+        "meaning": "mutually"
+      },
+      {
+        "word": "相互",
+        "reading": "そうご",
+        "meaning": "mutual"
+      }
+    ],
+    "example": "二人は互いに助け合っている。",
+    "example_reading": "ふたりはたがいにたすけあっている。",
+    "translation": "The two help each other.",
+    "components": "Two interlocking forms facing in turn.",
+    "mnemonic": "Picture two hands meeting halfway.",
+    "warning": "互いに means mutually; 相互 is formal mutual."
+  },
+  {
+    "kanji": "束",
+    "meaning": "bundle; restrain",
+    "onyomi": "ソク",
+    "kunyomi": "たば; つか",
+    "romaji": "soku; taba; tsuka",
+    "words": [
+      {
+        "word": "束ねる",
+        "reading": "たばねる",
+        "meaning": "bundle"
+      },
+      {
+        "word": "約束",
+        "reading": "やくそく",
+        "meaning": "promise"
+      }
+    ],
+    "example": "花を束ねて花瓶に飾った。",
+    "example_reading": "はなをたばねてかびんにかざった。",
+    "translation": "I bundled the flowers and put them in a vase.",
+    "components": "木 enclosed by a binding line, a bundle tied together.",
+    "mnemonic": "Picture a ribbon holding stems into one bundle.",
+    "warning": "束ねる means bundle; 約束 means promise."
+  },
+  {
+    "kanji": "似",
+    "meaning": "resemble; similar",
+    "onyomi": "ジ",
+    "kunyomi": "にる",
+    "romaji": "ji; niru",
+    "words": [
+      {
+        "word": "似る",
+        "reading": "にる",
+        "meaning": "resemble"
+      },
+      {
+        "word": "似合う",
+        "reading": "にあう",
+        "meaning": "suit; look good on"
+      }
+    ],
+    "example": "姉妹は顔がよく似ている。",
+    "example_reading": "しまいはかおがよくにている。",
+    "translation": "The sisters look very similar.",
+    "components": "亻 beside 以, one person compared with another.",
+    "mnemonic": "Picture two faces lined up for comparison.",
+    "warning": "似る means resemble; 似合う means suit or look good."
+  },
+  {
+    "kanji": "列",
+    "meaning": "row; line",
+    "onyomi": "レツ",
+    "kunyomi": "-",
+    "romaji": "retsu",
+    "words": [
+      {
+        "word": "列車",
+        "reading": "れっしゃ",
+        "meaning": "train"
+      },
+      {
+        "word": "行列",
+        "reading": "ぎょうれつ",
+        "meaning": "queue; line"
+      }
+    ],
+    "example": "駅の前に長い行列ができていた。",
+    "example_reading": "えきのまえにながいぎょうれつができていた。",
+    "translation": "A long line had formed in front of the station.",
+    "components": "刀 splitting a straight arrangement into a row.",
+    "mnemonic": "Picture people standing in one orderly line.",
+    "warning": "行列 means queue; 列車 means train."
+  },
+  {
+    "kanji": "探",
+    "meaning": "search; look for",
+    "onyomi": "タン",
+    "kunyomi": "さがす; さぐる",
+    "romaji": "tan; sagasu; saguru",
+    "words": [
+      {
+        "word": "探す",
+        "reading": "さがす",
+        "meaning": "look for"
+      },
+      {
+        "word": "探検",
+        "reading": "たんけん",
+        "meaning": "exploration"
+      }
+    ],
+    "example": "鍵をかばんの中で探している。",
+    "example_reading": "かぎをかばんのなかでさがしている。",
+    "translation": "I am looking for the key in my bag.",
+    "components": "扌 beside 深, a hand reaching deeply to search.",
+    "mnemonic": "Picture a hand feeling through a bag for keys.",
+    "warning": "探す means look for; 探検 means exploration."
+  },
+  {
+    "kanji": "逃",
+    "meaning": "escape; flee",
+    "onyomi": "トウ",
+    "kunyomi": "にげる; にがす",
+    "romaji": "tou; nigeru; nigasu",
+    "words": [
+      {
+        "word": "逃げる",
+        "reading": "にげる",
+        "meaning": "run away"
+      },
+      {
+        "word": "逃走",
+        "reading": "とうそう",
+        "meaning": "escape; flight"
+      }
+    ],
+    "example": "犬が庭から逃げてしまった。",
+    "example_reading": "いぬがにわからにげてしまった。",
+    "translation": "The dog ran away from the yard.",
+    "components": "辶 beside 兆, movement escaping quickly.",
+    "mnemonic": "Picture paw prints leading out through an open gate.",
+    "warning": "逃げる means flee; 逃走 is formal escape."
+  },
+  {
+    "kanji": "遊",
+    "meaning": "play; travel",
+    "onyomi": "ユウ",
+    "kunyomi": "あそぶ",
+    "romaji": "yuu; asobu",
+    "words": [
+      {
+        "word": "遊ぶ",
+        "reading": "あそぶ",
+        "meaning": "play"
+      },
+      {
+        "word": "遊園地",
+        "reading": "ゆうえんち",
+        "meaning": "amusement park"
+      }
+    ],
+    "example": "休日は子どもと公園で遊んだ。",
+    "example_reading": "きゅうじつはこどもとこうえんであそんだ。",
+    "translation": "I played in the park with my child on my day off.",
+    "components": "辶 beside 斿, movement free from fixed work.",
+    "mnemonic": "Picture children moving freely around a park.",
+    "warning": "遊ぶ means play; 遊園地 is amusement park."
+  },
+  {
+    "kanji": "迷",
+    "meaning": "lost; perplexed",
+    "onyomi": "メイ",
+    "kunyomi": "まよう",
+    "romaji": "mei; mayou",
+    "words": [
+      {
+        "word": "迷う",
+        "reading": "まよう",
+        "meaning": "be lost; hesitate"
+      },
+      {
+        "word": "迷子",
+        "reading": "まいご",
+        "meaning": "lost child"
+      }
+    ],
+    "example": "道に迷ったので地図を開いた。",
+    "example_reading": "みちにまよったのでちずをひらいた。",
+    "translation": "I opened a map because I got lost.",
+    "components": "辶 beside 米, footsteps wandering among choices.",
+    "mnemonic": "Picture footprints circling around spilled rice.",
+    "warning": "迷う means be lost or hesitate; 迷子 is lost child."
+  },
+  {
+    "kanji": "夢",
+    "meaning": "dream",
+    "onyomi": "ム",
+    "kunyomi": "ゆめ",
+    "romaji": "mu; yume",
+    "words": [
+      {
+        "word": "夢",
+        "reading": "ゆめ",
+        "meaning": "dream"
+      },
+      {
+        "word": "夢中",
+        "reading": "むちゅう",
+        "meaning": "absorbed; engrossed"
+      }
+    ],
+    "example": "子どものころの夢を今も覚えている。",
+    "example_reading": "こどものころのゆめをいまもおぼえている。",
+    "translation": "I still remember my childhood dream.",
+    "components": "A covered eye and evening shape, images seen in sleep.",
+    "mnemonic": "Picture a dream glowing behind closed eyes.",
+    "warning": "夢中 means engrossed; 夢 is dream."
+  },
+  {
+    "kanji": "君",
+    "meaning": "you; ruler",
+    "onyomi": "クン",
+    "kunyomi": "きみ",
+    "romaji": "kun; kimi",
+    "words": [
+      {
+        "word": "君",
+        "reading": "きみ",
+        "meaning": "you"
+      },
+      {
+        "word": "君主",
+        "reading": "くんしゅ",
+        "meaning": "monarch; ruler"
+      }
+    ],
+    "example": "君の意見を聞かせてください。",
+    "example_reading": "きみのいけんをきかせてください。",
+    "translation": "Please tell me your opinion.",
+    "components": "尹 over 口, a person addressed directly by speech.",
+    "mnemonic": "Picture a speaker calling one listener by name.",
+    "warning": "君 is familiar you; 君主 means monarch."
+  },
+  {
+    "kanji": "閉",
+    "meaning": "close; shut",
+    "onyomi": "ヘイ",
+    "kunyomi": "しめる; しまる; とじる; とざす",
+    "romaji": "hei; shimeru; shimaru; tojiru; tozasu",
+    "words": [
+      {
+        "word": "閉める",
+        "reading": "しめる",
+        "meaning": "close"
+      },
+      {
+        "word": "閉店",
+        "reading": "へいてん",
+        "meaning": "店 closing"
+      }
+    ],
+    "example": "店は午後八時に閉店します。",
+    "example_reading": "みせはごごはちじにへいてんします。",
+    "translation": "The shop closes at eight p.m.",
+    "components": "門 with 才, a gate shut across an opening.",
+    "mnemonic": "Picture shop shutters closing at night.",
+    "warning": "閉める is close something; 閉店 means shop closure."
+  },
+  {
+    "kanji": "緒",
+    "meaning": "beginning; cord",
+    "onyomi": "ショ; チョ",
+    "kunyomi": "お",
+    "romaji": "sho; cho; o",
+    "words": [
+      {
+        "word": "一緒",
+        "reading": "いっしょ",
+        "meaning": "together"
+      },
+      {
+        "word": "一緒に",
+        "reading": "いっしょに",
+        "meaning": "with; together"
+      }
+    ],
+    "example": "友達と一緒に昼食を食べた。",
+    "example_reading": "ともだちといっしょにちゅうしょくをたべた。",
+    "translation": "I ate lunch together with my friend.",
+    "components": "糸 beside 者, a thread connecting people or events.",
+    "mnemonic": "Picture a cord tying two companions together.",
+    "warning": "一緒 means together; 緒 alone can mean beginning or cord."
+  },
+  {
+    "kanji": "折",
+    "meaning": "fold; break",
+    "onyomi": "セツ; シャク",
+    "kunyomi": "おる; おれる",
+    "romaji": "setsu; shaku; oru; oreru",
+    "words": [
+      {
+        "word": "折る",
+        "reading": "おる",
+        "meaning": "fold; break"
+      },
+      {
+        "word": "折り紙",
+        "reading": "おりがみ",
+        "meaning": "origami"
+      }
+    ],
+    "example": "子どもと折り紙で鶴を作った。",
+    "example_reading": "こどもとおりがみでつるをつくった。",
+    "translation": "I made a crane from origami paper with my child.",
+    "components": "扌 and 斤, a hand bending something at a line.",
+    "mnemonic": "Picture paper creased into a crane.",
+    "warning": "折る is fold or break; 折り紙 is origami."
+  },
+  {
+    "kanji": "草",
+    "meaning": "grass; weed",
+    "onyomi": "ソウ",
+    "kunyomi": "くさ",
+    "romaji": "sou; kusa",
+    "words": [
+      {
+        "word": "草",
+        "reading": "くさ",
+        "meaning": "grass"
+      },
+      {
+        "word": "草原",
+        "reading": "そうげん",
+        "meaning": "grassland"
+      }
+    ],
+    "example": "雨の後で庭の草が伸びた。",
+    "example_reading": "あめのあとでにわのくさがのびた。",
+    "translation": "The grass in the garden grew after the rain.",
+    "components": "艹 over 早, plants growing quickly above the ground.",
+    "mnemonic": "Picture fresh grass rising after a shower.",
+    "warning": "草原 means grassland; 草 is grass or weed."
+  },
+  {
+    "kanji": "暮",
+    "meaning": "evening; livelihood",
+    "onyomi": "ボ",
+    "kunyomi": "くれる; くらす",
+    "romaji": "bo; kureru; kurasu",
+    "words": [
+      {
+        "word": "暮らす",
+        "reading": "くらす",
+        "meaning": "live; get by"
+      },
+      {
+        "word": "暮れる",
+        "reading": "くれる",
+        "meaning": "grow dark; end"
+      }
+    ],
+    "example": "海の近くで静かに暮らしている。",
+    "example_reading": "うみのちかくでしずかにくらしている。",
+    "translation": "I live quietly near the sea.",
+    "components": "日 disappearing beneath 莫, daylight ending.",
+    "mnemonic": "Picture the sun setting over a quiet home.",
+    "warning": "暮らす means live; 暮れる means grow dark."
+  },
+  {
+    "kanji": "酒",
+    "meaning": "alcohol; sake",
+    "onyomi": "シュ",
+    "kunyomi": "さけ; さか",
+    "romaji": "shu; sake; saka",
+    "words": [
+      {
+        "word": "日本酒",
+        "reading": "にほんしゅ",
+        "meaning": "Japanese sake"
+      },
+      {
+        "word": "酒",
+        "reading": "さけ",
+        "meaning": "alcohol; sake"
+      }
+    ],
+    "example": "父は夕食に日本酒を少し飲んだ。",
+    "example_reading": "ちちはゆうしょくににほんしゅをすこしのんだ。",
+    "translation": "My father drank a little sake with dinner.",
+    "components": "氵 beside 酉, liquid stored in a wine jar.",
+    "mnemonic": "Picture a small cup beside a dinner plate.",
+    "warning": "日本酒 is Japanese sake; 酒 means alcohol."
+  },
+  {
+    "kanji": "悲",
+    "meaning": "sad; grieve",
+    "onyomi": "ヒ",
+    "kunyomi": "かなしい; かなしむ",
+    "romaji": "hi; kanashii; kanashimu",
+    "words": [
+      {
+        "word": "悲しい",
+        "reading": "かなしい",
+        "meaning": "sad"
+      },
+      {
+        "word": "悲鳴",
+        "reading": "ひめい",
+        "meaning": "scream; shriek"
+      }
+    ],
+    "example": "別れの日は誰でも悲しい。",
+    "example_reading": "わかれのひはだれでもかなしい。",
+    "translation": "A day of parting is sad for anyone.",
+    "components": "非 over 心, an unsettled heart divided in two.",
+    "mnemonic": "Picture a heart split by a difficult farewell.",
+    "warning": "悲しい means sad; 悲鳴 is a scream."
+  },
+  {
+    "kanji": "晴",
+    "meaning": "clear up; sunny",
+    "onyomi": "セイ",
+    "kunyomi": "はれる; はらす",
+    "romaji": "sei; hareru; harasu",
+    "words": [
+      {
+        "word": "晴れる",
+        "reading": "はれる",
+        "meaning": "clear up"
+      },
+      {
+        "word": "晴天",
+        "reading": "せいてん",
+        "meaning": "clear weather"
+      }
+    ],
+    "example": "午後には雨が止んで空が晴れた。",
+    "example_reading": "ごごにはあめがやんでそらがはれた。",
+    "translation": "By afternoon the rain stopped and the sky cleared.",
+    "components": "日 beside 青, sunlight making a blue sky clear.",
+    "mnemonic": "Picture blue sky appearing after rain.",
+    "warning": "晴れる means clear up; 晴天 means clear weather."
+  },
+  {
+    "kanji": "掛",
+    "meaning": "hang; suspend",
+    "onyomi": "カイ; ケイ",
+    "kunyomi": "かける; かかる",
+    "romaji": "kai; kei; kakeru; kakaru",
+    "words": [
+      {
+        "word": "掛ける",
+        "reading": "かける",
+        "meaning": "hang; apply"
+      },
+      {
+        "word": "掛かる",
+        "reading": "かかる",
+        "meaning": "take; be hung"
+      }
+    ],
+    "example": "壁に時計を掛けた。",
+    "example_reading": "かべにとけいをかけた。",
+    "translation": "I hung a clock on the wall.",
+    "components": "扌 beside 卦, a hand placing something on a hook.",
+    "mnemonic": "Picture a hand hanging a clock on a wall hook.",
+    "warning": "掛ける is transitive hang; 掛かる is be hung or take time."
+  }
+]

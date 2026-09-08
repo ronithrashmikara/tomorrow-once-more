@@ -1,0 +1,167 @@
+{
+  "id": 25,
+  "title": "Change and process",
+  "overview": "Change and process vocabulary with practical usage and nuance.",
+  "items": [
+    {
+      "word": "変化",
+      "reading": "へんか",
+      "romaji": "henka",
+      "meaning": "change",
+      "pos": "noun",
+      "usage": "変化が起きる",
+      "example": "技術の進歩によって生活に大きな変化が起きた。",
+      "example_reading": "ぎじゅつのしんぽによってせいかつにおおきなへんかがおきた。",
+      "example_romaji": "gijutsu no shinpo niyotte seikatsu ni ooki na henka ga oki ta .",
+      "translation": "Technology’s progress caused major changes in daily life.",
+      "nuance": "変化 is a change in state or circumstances."
+    },
+    {
+      "word": "改善",
+      "reading": "かいぜん",
+      "romaji": "kaizen",
+      "meaning": "improvement",
+      "pos": "noun",
+      "usage": "問題を改善する",
+      "example": "問題点を改善するため、手順を見直した。",
+      "example_reading": "もんだいてんをかいぜんするため、てじゅんをみなおした。",
+      "example_romaji": "mondaiten wo kaizen surutame , tejun wo minaoshi ta .",
+      "translation": "We reviewed the procedure to improve its problem areas.",
+      "nuance": "改善 means making an existing problem or condition better."
+    },
+    {
+      "word": "発展",
+      "reading": "はってん",
+      "romaji": "haten",
+      "meaning": "development",
+      "pos": "noun",
+      "usage": "経済が発展する",
+      "example": "町は観光地として発展してきた。",
+      "example_reading": "まちはかんこうちとしてはってんしてきた。",
+      "example_romaji": "machi ha kankouchi toshite hatten shitekita .",
+      "translation": "The town has developed as a tourist destination.",
+      "nuance": "発展 suggests development toward greater complexity or prosperity."
+    },
+    {
+      "word": "増加",
+      "reading": "ぞうか",
+      "romaji": "zouka",
+      "meaning": "increase",
+      "pos": "noun",
+      "usage": "増加する傾向",
+      "example": "外国人観光客が大幅に増加した。",
+      "example_reading": "がいこくじんかんこうきゃくがおおはばにぞうかした。",
+      "example_romaji": "gaikokujin kankoukyaku ga oohaba ni zouka shita .",
+      "translation": "The number of foreign tourists increased considerably.",
+      "nuance": "増加 describes a quantity becoming larger."
+    },
+    {
+      "word": "減少",
+      "reading": "げんしょう",
+      "romaji": "genshou",
+      "meaning": "decrease",
+      "pos": "noun",
+      "usage": "人口が減少する",
+      "example": "今年は農業人口が減少している。",
+      "example_reading": "こんねんはのうぎょうじんこうがげんしょうしている。",
+      "example_romaji": "konnen ha nougyou jinkou ga genshou shiteiru .",
+      "translation": "The agricultural population is decreasing this year.",
+      "nuance": "減少 describes a quantity becoming smaller."
+    },
+    {
+      "word": "拡大",
+      "reading": "かくだい",
+      "romaji": "kakudai",
+      "meaning": "expansion",
+      "pos": "noun",
+      "usage": "事業を拡大する",
+      "example": "事業を海外へ拡大する計画です。",
+      "example_reading": "じぎょうをかいがいへかくだいするけいかくです。",
+      "example_romaji": "jigyou wo kaigai he kakudai suru keikaku desu .",
+      "translation": "We plan to expand the business overseas.",
+      "nuance": "拡大 means expanding scale, scope, or size."
+    },
+    {
+      "word": "縮小",
+      "reading": "しゅくしょう",
+      "romaji": "shukushou",
+      "meaning": "contraction",
+      "pos": "noun",
+      "usage": "規模を縮小する",
+      "example": "不況で工場の生産を縮小した。",
+      "example_reading": "ふきょうでこうじょうのせいさんをしゅくしょうした。",
+      "example_romaji": "fukyou de koujou no seisan wo shukushou shita .",
+      "translation": "We reduced factory production because of the recession.",
+      "nuance": "縮小 means reducing scale, scope, or size."
+    },
+    {
+      "word": "開始",
+      "reading": "かいし",
+      "romaji": "kaishi",
+      "meaning": "start",
+      "pos": "noun",
+      "usage": "会議を開始する",
+      "example": "会議は九時に開始します。",
+      "example_reading": "かいぎはくじにかいしします。",
+      "example_romaji": "kaigi ha kuji ni kaishi shimasu .",
+      "translation": "The meeting will begin at nine.",
+      "nuance": "開始 marks the beginning of an event or process."
+    },
+    {
+      "word": "終了",
+      "reading": "しゅうりょう",
+      "romaji": "shuuryou",
+      "meaning": "end",
+      "pos": "noun",
+      "usage": "作業を終了する",
+      "example": "作業は午後五時に終了しました。",
+      "example_reading": "さぎょうはごごごじにしゅうりょうしました。",
+      "example_romaji": "sagyou ha gogo goji ni shuuryou shimashita .",
+      "translation": "The work ended at five p.m.",
+      "nuance": "終了 marks completion or the end of an event."
+    },
+    {
+      "word": "進行",
+      "reading": "しんこう",
+      "romaji": "shinkou",
+      "meaning": "progress",
+      "pos": "noun",
+      "usage": "工事が進行する",
+      "example": "計画どおり工事が進行しています。",
+      "example_reading": "けいかくどおりこうじがしんこうしています。",
+      "example_romaji": "keikaku doori kouji ga shinkou shiteimasu .",
+      "translation": "Construction is progressing as planned.",
+      "nuance": "進行 describes a process moving forward."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "meaning",
+      "question": "What does 変化 mean?",
+      "options": [
+        "change",
+        "improvement",
+        "weather"
+      ],
+      "answer": "change",
+      "explanation": "変化 means change."
+    },
+    {
+      "type": "reading",
+      "question": "改善の読み方は？",
+      "options": [
+        "かいぜん",
+        "かいしゃ",
+        "せってい"
+      ],
+      "answer": "かいぜん",
+      "explanation": "The reading is かいぜん."
+    },
+    {
+      "type": "translation",
+      "question": "町は観光地として発展してきた。",
+      "answer": "The town has developed as a tourist destination.",
+      "explanation": "発展 is used in this sentence."
+    }
+  ]
+}

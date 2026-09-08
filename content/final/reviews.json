@@ -1,0 +1,437 @@
+{
+  "reviews": [
+    {
+      "after": 4,
+      "title": "Checkpoint 1 | Set a routine",
+      "jp": "来週から朝の勉強会に参加することになりました。遅れないように、前の晩に教科書をかばんに入れておきます。今日は早く寝るつもりでしたが、動画を見ていて、もう十一時になってしまいました。",
+      "support": "参加（さんか）join; 前の晩（まえのばん）the night before; 動画（どうが）video.",
+      "translation": "It has been arranged that I will join the morning study group from next week. To avoid being late, I will put my textbook in my bag the night before. I intended to go to bed early today, but while watching videos, it has already become eleven.",
+      "questions": [
+        {
+          "question": "What is the textbook preparation meant to prevent?",
+          "answer": "Being late.",
+          "explanation": "遅れないように states the goal."
+        },
+        {
+          "question": "Did tonight go as planned?",
+          "answer": "No.",
+          "explanation": "早く寝るつもり contrasts with the unwanted late hour."
+        }
+      ],
+      "drills": [
+        {
+          "question": "Complete for a deliberate decision: 自分で考えて、毎朝歩く（ことにしました / ことがあります）。",
+          "answer": "ことにしました.",
+          "explanation": "A decision uses dictionary form + ことにする; the other option describes occasional experience."
+        },
+        {
+          "question": "Choose the correct formation: 日本語が（話せる / 話せます）ようになりました。",
+          "answer": "話せる.",
+          "explanation": "ようになる attaches to a plain form, not ます."
+        },
+        {
+          "question": "Correct the purpose expression: 忘れますように、メモします。 Meaning: I take notes so I will not forget.",
+          "answer": "忘れないように、メモします。",
+          "explanation": "Use the negative plain form for the unwanted state to be prevented."
+        },
+        {
+          "question": "Translate: 会議の前に、資料を読んでおきます。",
+          "answer": "I will read the materials in advance, before the meeting.",
+          "explanation": "ておく marks preparation for the meeting."
+        }
+      ]
+    },
+    {
+      "after": 8,
+      "title": "25% review | Plan and respond",
+      "jp": "市民センターの料理教室は、土曜日の十時からです。参加したい方は、水曜日までに電話で申し込んでください。道具は用意してありますが、エプロンは自分で持ってきてください。開始の十分前までに来れば、受付は間に合います。申し込みが十人に達したら、受付を終了します。",
+      "support": "市民センター（しみんセンター）community center; 道具（どうぐ）tools; エプロン apron; 間に合う（まにあう）be in time; 達する（たっする）reach.",
+      "translation": "The community center’s cooking class starts at ten on Saturday. If you want to participate, apply by telephone by Wednesday. Tools have been prepared, but bring your own apron. If you arrive by ten minutes before the start, you will be in time to check in. Applications close when ten people have applied.",
+      "questions": [
+        {
+          "question": "How and by when should someone apply?",
+          "answer": "By telephone by Wednesday, unless the ten-person limit is reached first.",
+          "explanation": "The capacity rule can close registration earlier."
+        },
+        {
+          "question": "What must participants bring?",
+          "answer": "Their own apron.",
+          "explanation": "Tools are already prepared, but the apron is contrasted with が."
+        },
+        {
+          "question": "What arrival time meets the notice?",
+          "answer": "By 9:50 a.m. on Saturday.",
+          "explanation": "Ten minutes before the ten o’clock start is 9:50."
+        }
+      ],
+      "drills": [
+        {
+          "question": "Choose for a deadline: 金曜日（まで / までに）レポートを出してください。",
+          "answer": "までに.",
+          "explanation": "Submitting is an action to complete by a time."
+        },
+        {
+          "question": "Choose the form: 映画を（見ている / 見ます）間に、友達から電話が来ました。",
+          "answer": "見ている.",
+          "explanation": "An ongoing action uses ている before 間に."
+        },
+        {
+          "question": "Complete this notice: 事故が起きた（場合は / つもりは）、係員に連絡してください。",
+          "answer": "場合は.",
+          "explanation": "場合 names a contingency; つもり is intention."
+        },
+        {
+          "question": "Translate: 日本へ行くなら、先に駅の使い方を調べておくと便利です。",
+          "answer": "If you are going to Japan, it is useful to check how to use the stations beforehand.",
+          "explanation": "なら takes the proposed trip as the topic; ておく adds preparation."
+        },
+        {
+          "question": "Arrange: 帰ったら / 母に / 家に / 電話します。",
+          "answer": "家に帰ったら、母に電話します。",
+          "explanation": "First attach the destination to 帰る, then the conditional clause, then the main action."
+        },
+        {
+          "question": "Correct the target grammar: 雨が降りますたら、中止です。",
+          "answer": "雨が降ったら、中止です。",
+          "explanation": "たら uses plain past + ら; the past of 降る is 降った."
+        }
+      ]
+    },
+    {
+      "after": 12,
+      "title": "Checkpoint 3 | Causes and qualifications",
+      "jp": "新しい仕事は難しいものの、同僚が助けてくれるので続けられます。ただ、助けてもらえるからといって、準備をしなくてよいわけではありません。明日の説明は私が担当することになっています。まだ全部覚えてはいませんが、資料を見ながらなら説明できるはずです。",
+      "support": "同僚（どうりょう）colleague; 担当（たんとう）being in charge; 資料（しりょう）materials.",
+      "translation": "Although my new job is difficult, I can keep going because my colleagues help. However, being able to get help does not mean I can skip preparation. I am assigned to give tomorrow’s explanation. I do not yet remember everything, but I should be able to explain it if I can refer to the materials.",
+      "questions": [
+        {
+          "question": "What enables the writer to continue?",
+          "answer": "Colleagues’ help.",
+          "explanation": "助けてくれるので gives the supporting reason."
+        },
+        {
+          "question": "Under what condition does the writer expect to explain successfully?",
+          "answer": "While looking at the materials.",
+          "explanation": "資料を見ながらなら limits the expectation."
+        }
+      ],
+      "drills": [
+        {
+          "question": "Complete for a helpful cause: 先生の（おかげで / せいで）、問題がよく分かりました。",
+          "answer": "おかげで.",
+          "explanation": "The outcome is beneficial and the speaker gives credit; せいで normally assigns blame."
+        },
+        {
+          "question": "Select the attachment: 経験が（ない / ありません）ものの、やる気はあります。",
+          "answer": "ない.",
+          "explanation": "ものの follows the plain predicate."
+        },
+        {
+          "question": "Translate: 高い物が必ずよいとは限りません。",
+          "answer": "Expensive things are not necessarily good.",
+          "explanation": "とは限らない denies a universal rule; it does not mean every expensive thing is bad."
+        },
+        {
+          "question": "Correct: 約束したので、行かないわけにはありません。",
+          "answer": "約束したので、行かないわけにはいきません。",
+          "explanation": "わけにはいかない is the fixed construction for social/practical inability to choose an action."
+        }
+      ]
+    },
+    {
+      "after": 16,
+      "title": "50% review | Evidence and polite requests",
+      "jp": "先生へ。来週の発表についてご相談があります。参加する学生が増えたそうなので、少し広い教室を使わせていただけませんか。今の教室では席が足りないかもしれません。別の教室が難しければ、午前と午後に分ける方法もあると思います。お忙しいところ申し訳ありませんが、ご意見をいただけると助かります。",
+      "support": "発表（はっぴょう）presentation; ご相談（ごそうだん）consultation; 席（せき）seat; 分ける（わける）divide.",
+      "translation": "Dear teacher, I would like to consult you about next week’s presentation. I heard that the number of participating students has increased, so could you allow us to use a slightly larger classroom? There may not be enough seats in the current room. If another room is difficult, I think there is also the option of dividing the event into morning and afternoon sessions. I apologize for troubling you when you are busy, but I would appreciate your opinion.",
+      "questions": [
+        {
+          "question": "Is a seat shortage stated as certain?",
+          "answer": "No.",
+          "explanation": "かもしれません marks possibility."
+        },
+        {
+          "question": "What alternative is proposed?",
+          "answer": "Divide the event into morning and afternoon sessions.",
+          "explanation": "別の教室が難しければ introduces the fallback."
+        },
+        {
+          "question": "Who would use the larger room?",
+          "answer": "The writer and their group, with the teacher’s permission.",
+          "explanation": "使わせていただく requests permission for the speaker’s side to act."
+        }
+      ],
+      "drills": [
+        {
+          "question": "Choose hearsay: 天気予報によると、明日は雨が（降る / 降り）そうです。",
+          "answer": "降る.",
+          "explanation": "Hearsay attaches to plain form; 降りそう describes appearance/imminence."
+        },
+        {
+          "question": "Correct appearance of よい: この方法はよいそうです。 Intended: This method looks good.",
+          "answer": "この方法はよさそうです。",
+          "explanation": "よい has the special appearance form よさそう. よいそう is hearsay."
+        },
+        {
+          "question": "Translate: 彼はまだ会社にいるかもしれません。",
+          "answer": "He may still be at the office.",
+          "explanation": "かもしれない expresses possibility, not certainty."
+        },
+        {
+          "question": "Complete a polite favor request: もう一度説明して（いただけませんか / いただきませんでした）。",
+          "answer": "いただけませんか.",
+          "explanation": "The negative potential question softens a request; the other is a past statement."
+        },
+        {
+          "question": "Arrange: について / 意見を / この計画 / 聞かせてください。",
+          "answer": "この計画について、意見を聞かせてください。",
+          "explanation": "について attaches to the topic noun; 意見を is the object of 聞かせる."
+        },
+        {
+          "question": "Translate: 安いからといって、必要のない物まで買うべきではありません。",
+          "answer": "Just because something is cheap, you should not buy even things you do not need.",
+          "explanation": "The sentence rejects price alone as a reason and uses べきではない for advice against an action."
+        }
+      ]
+    },
+    {
+      "after": 20,
+      "title": "Checkpoint 5 | Who does what?",
+      "jp": "会社の研修で、新人は一人ずつ意見を発表させられました。急に順番が来たので緊張しましたが、先輩が質問をしてくれたおかげで話しやすくなりました。最後に、自分でテーマを選ばせてもらいました。次の発表では、今回より落ち着いて話せるように練習したいです。",
+      "support": "研修（けんしゅう）training; 新人（しんじん）new employee; 緊張（きんちょう）nervousness; 順番（じゅんばん）turn/order.",
+      "translation": "During company training, new employees were made to present their opinions one by one. My turn came suddenly, so I was nervous, but thanks to questions from a senior colleague, speaking became easier. At the end, I was allowed to choose my own topic. I want to practice so that I can speak more calmly in the next presentation.",
+      "questions": [
+        {
+          "question": "Which action was required of the newcomers?",
+          "answer": "Presenting their opinions.",
+          "explanation": "発表させられた is causative-passive, emphasizing being made to do it."
+        },
+        {
+          "question": "What action was later permitted?",
+          "answer": "Choosing a topic themselves.",
+          "explanation": "選ばせてもらった presents receiving permission."
+        }
+      ],
+      "drills": [
+        {
+          "question": "Transform 書く into passive and causative.",
+          "answer": "書かれる; 書かせる.",
+          "explanation": "Godan く changes to か before れる/せる."
+        },
+        {
+          "question": "Transform 食べる into causative-passive.",
+          "answer": "食べさせられる.",
+          "explanation": "Ichidan: remove る and add させられる."
+        },
+        {
+          "question": "Select: このペンは字が（書き / 書く）やすいです。",
+          "answer": "書き.",
+          "explanation": "やすい attaches to the ます stem."
+        },
+        {
+          "question": "Translate: ここでは写真を撮ってはいけません。",
+          "answer": "You must not take photographs here.",
+          "explanation": "てはいけない expresses prohibition, not a lack of obligation."
+        }
+      ]
+    },
+    {
+      "after": 24,
+      "title": "75% review | Compare and interpret",
+      "jp": "交流会の案内を作ることになりました。先輩が去年の資料を見せてくださったので、準備が進みました。今年は学生だけでなく、地域の人も参加できます。会場は去年ほど広くありませんが、駅に近いので便利です。ただし、席には限りがあります。人数が多ければ多いほどよい、というわけではないので、定員は三十人にしました。",
+      "support": "地域（ちいき）local area; 限り（かぎり）limit; 定員（ていいん）capacity.",
+      "translation": "It was decided that I would make the social event notice. A senior colleague kindly showed me last year’s materials, so preparation progressed. This year, not only students but also local residents may participate. The venue is not as spacious as last year’s, but it is convenient because it is near the station. However, seats are limited. More people are not necessarily always better, so we set the capacity at thirty.",
+      "questions": [
+        {
+          "question": "Who provided help with materials?",
+          "answer": "A senior colleague.",
+          "explanation": "くださった honors the giver of the help."
+        },
+        {
+          "question": "How does the venue compare with last year’s?",
+          "answer": "It is less spacious and is near the station.",
+          "explanation": "去年ほど広くありません supplies the space comparison."
+        },
+        {
+          "question": "Why is there a participant limit?",
+          "answer": "Seats are limited, and the organizers do not equate more people with a better event.",
+          "explanation": "Both the practical limit and the qualified judgment support the decision."
+        }
+      ],
+      "drills": [
+        {
+          "question": "Choose: 先生に作文を見て（いただきました / くださいました）。",
+          "answer": "いただきました.",
+          "explanation": "先生に marks the person from whom the speaker receives the favor; with くださる, the teacher is the subject."
+        },
+        {
+          "question": "Complete: 学べば（学ぶ / 学んだ）ほど、面白くなります。",
+          "answer": "学ぶ.",
+          "explanation": "The paired comparison is Vば + V dictionary + ほど."
+        },
+        {
+          "question": "Translate: 値段が高い代わりに、長く使えます。",
+          "answer": "It costs more, but in return you can use it for a long time.",
+          "explanation": "代わりに presents a compensating advantage."
+        },
+        {
+          "question": "Correct: 学生だけでなく、先生参加します。",
+          "answer": "学生だけでなく、先生も参加します。",
+          "explanation": "も marks the additional group in this paired construction."
+        },
+        {
+          "question": "Arrange: では / 分かりません / 写真だけ / 大きさは。",
+          "answer": "写真だけでは、大きさは分かりません。",
+          "explanation": "だけでは sets the insufficient basis for knowing."
+        },
+        {
+          "question": "Translate: 大切なのは、速さより正確さです。",
+          "answer": "What matters is accuracy more than speed.",
+          "explanation": "さ nominalizes the adjectives; より marks the comparison standard."
+        }
+      ]
+    },
+    {
+      "after": 28,
+      "title": "Checkpoint 7 | Track change",
+      "jp": "町の利用者調査によると、バスで駅まで行く人が少しずつ増えているそうです。便数が増えたことによって、待ち時間が短くなりました。一方、自転車を使う人の割合は、季節によって変わります。雨の日はバスを選びがちですが、晴れた日には自転車で行く人も多いようです。",
+      "support": "利用者調査（りようしゃちょうさ）user survey; 便数（びんすう）number of services; 割合（わりあい）proportion; 季節（きせつ）season.",
+      "translation": "According to the town’s user survey, the number of people taking the bus to the station is gradually increasing. More services have shortened waiting times. On the other hand, the proportion using bicycles varies by season. People tend to choose the bus on rainy days, while many appear to cycle on sunny days.",
+      "questions": [
+        {
+          "question": "What change reduced waiting time?",
+          "answer": "An increase in the number of services.",
+          "explanation": "ことによって introduces the cause."
+        },
+        {
+          "question": "Does によって have the same role in 季節によって?",
+          "answer": "No; it marks variation depending on the season.",
+          "explanation": "The first use indicates cause; the second indicates a variable factor."
+        }
+      ],
+      "drills": [
+        {
+          "question": "Choose: 詳しいこと（について / にとって）、明日説明します。",
+          "answer": "について.",
+          "explanation": "The phrase marks the topic to be explained, not a person’s standpoint."
+        },
+        {
+          "question": "Complete: この問題は私（にとって / によると）難しいです。",
+          "answer": "にとって.",
+          "explanation": "Difficulty is judged from the speaker’s standpoint."
+        },
+        {
+          "question": "Translate: 日本語を勉強し始めてから、映画を見る楽しみが増えてきました。",
+          "answer": "Since starting to study Japanese, I have come to enjoy watching films more.",
+          "explanation": "始める starts the action; てきた traces growth up to now."
+        },
+        {
+          "question": "Correct: 忙しいと、朝ご飯を抜くがちです。",
+          "answer": "忙しいと、朝ご飯を抜きがちです。",
+          "explanation": "がち attaches to the verb stem 抜き, not dictionary form 抜く."
+        }
+      ]
+    },
+    {
+      "after": 32,
+      "title": "Final comprehensive review | Use the information",
+      "jp": "市民講座「暮らしの日本語」のお知らせ。\nAコース：毎週火曜日、午後六時半から八時。対象は、日常会話の基礎を学んだ方。買い物や病院などの場面で使う表現を練習します。定員は十二人です。\nBコース：毎週土曜日、午前十時から十一時半。新聞の短い記事を読み、自分の意見を伝える練習をします。定員は十人です。\nどちらも全四回で、料金は二千円です。資料代も含まれています。八月二十日までに、メールで名前、希望するコース、連絡先をお送りください。定員に達した場合は、期限前でも受付を終了します。両方のコースに申し込むこともできますが、授業の録画はありません。欠席した場合は、資料をメールでお送りします。授業を休んでも、料金は変わりません。\n初回は教室の場所を確認する時間が必要なので、十五分前までにお越しください。二回目以降は、開始の五分前までに受付を済ませてください。",
+      "support": "市民講座（しみんこうざ）community course; 基礎（きそ）basics; 全四回（ぜんよんかい）four sessions in total; 含む（ふくむ）include; 希望（きぼう）preference; 連絡先（れんらくさき）contact details; 録画（ろくが）video recording; 欠席（けっせき）absence; 初回（しょかい）first session; 以降（いこう）from ... onward.",
+      "translation": "Notice: Community course “Japanese for Daily Life.” Course A: Tuesdays, 6:30-8:00 p.m., for people who have learned basic daily conversation. Practice expressions for shopping, hospitals, and other situations. Capacity: 12. Course B: Saturdays, 10:00-11:30 a.m. Read short newspaper articles and practice conveying opinions. Capacity: 10. Each course has four sessions and costs 2,000 yen, including materials. Email your name, desired course, and contact details by August 20. Registration closes early if capacity is reached. You may apply for both courses, but classes are not recorded. If absent, materials will be emailed; missing a class does not change the fee. For the first session, arrive at least fifteen minutes early to allow time to find the classroom. For subsequent sessions, finish checking in at least five minutes before the start.",
+      "questions": [
+        {
+          "question": "Mika wants to discuss news and is free on Saturday mornings. Which course fits?",
+          "answer": "B.",
+          "explanation": "B combines Saturday mornings with articles and opinions."
+        },
+        {
+          "question": "If Mika attends the first B session, by when should she arrive?",
+          "answer": "9:45 a.m.",
+          "explanation": "The first-session rule is fifteen minutes before the 10:00 start."
+        },
+        {
+          "question": "At the second B session, by when must check-in be completed?",
+          "answer": "9:55 a.m.",
+          "explanation": "From the second session onward, check-in must finish five minutes before the start."
+        },
+        {
+          "question": "What is the fee for taking both courses?",
+          "answer": "4,000 yen.",
+          "explanation": "Each course costs 2,000 yen; applying for both is permitted."
+        },
+        {
+          "question": "Can someone rely on applying August 20 if all places fill earlier?",
+          "answer": "No.",
+          "explanation": "Capacity overrides the advertised deadline."
+        },
+        {
+          "question": "What does an absent student receive, and is the fee reduced?",
+          "answer": "Emailed materials; no fee reduction.",
+          "explanation": "The notice also explicitly says there is no class recording."
+        }
+      ],
+      "drills": [
+        {
+          "question": "Translate: 知っているだけで、使えるとは限りません。",
+          "answer": "Simply knowing something does not necessarily mean you can use it.",
+          "explanation": "The sentence denies an automatic inference from knowledge to ability."
+        },
+        {
+          "question": "Choose: 出かけ（よう / る）としたとき、電話が鳴りました。",
+          "answer": "よう.",
+          "explanation": "Volitional + とする describes being about to act."
+        },
+        {
+          "question": "Arrange: 練習 / 大切なのは / 続ける / を / ことです。",
+          "answer": "大切なのは、練習を続けることです。",
+          "explanation": "こと nominalizes the complete object-verb phrase."
+        },
+        {
+          "question": "Complete a contrast: 値段は安いです。（ただし / つまり）、送料は別です。",
+          "answer": "ただし.",
+          "explanation": "Separate shipping is a qualification, not a restatement of low price."
+        },
+        {
+          "question": "Correct: 忘れないため、予定をメモしておきました。 Use ように.",
+          "answer": "忘れないように、予定をメモしておきました。",
+          "explanation": "A negative desired outcome fits ないように; ておく retains the preparatory meaning."
+        },
+        {
+          "question": "Translate: 先生にもう一度説明していただいたおかげで、やっと分かりました。",
+          "answer": "Thanks to the teacher explaining it to me once more, I finally understood.",
+          "explanation": "いただく marks receiving the respected teacher’s favor; おかげで credits the beneficial cause."
+        },
+        {
+          "question": "Choose hearsay about a な-adjective: あの町は静か（だ / な）そうです。",
+          "answer": "だ.",
+          "explanation": "Hearsay requires the plain copula だ; appearance would be 静かそう."
+        },
+        {
+          "question": "Transform: 先生は学生に作文を書かせました。 Make 学生 the topic using causative-passive.",
+          "answer": "学生は先生に作文を書かせられました。 / 学生は先生に作文を書かされました。",
+          "explanation": "The student becomes the person made to write; 書く permits the contracted 書かされる."
+        },
+        {
+          "question": "Translate: 予定を変えたからといって、計画をあきらめたわけではありません。",
+          "answer": "Changing the schedule does not mean we have given up the plan.",
+          "explanation": "The construction rejects an overinterpretation of the changed schedule."
+        },
+        {
+          "question": "Correct the attachment: この字は読みますにくいです。",
+          "answer": "この字は読みにくいです。",
+          "explanation": "Use the ます stem 読み before にくい."
+        },
+        {
+          "question": "Choose: 初めて会った（ばかり / ほど）なので、まだよく知りません。",
+          "answer": "ばかり.",
+          "explanation": "Past + ばかり presents the recent meeting as the reason knowledge is limited."
+        },
+        {
+          "question": "Translate: 復習する時間を作るために、新しい単語の数を減らすことにしました。",
+          "answer": "I decided to reduce the number of new words in order to make time for review.",
+          "explanation": "ために marks a deliberate purpose; ことにした marks a personal decision."
+        }
+      ]
+    }
+  ]
+}

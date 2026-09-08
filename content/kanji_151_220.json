@@ -1,0 +1,1752 @@
+[
+  {
+    "kanji": "残",
+    "meaning": "remain; leftover",
+    "onyomi": "ザン",
+    "kunyomi": "のこる",
+    "romaji": "",
+    "words": [
+      {
+        "word": "残業",
+        "reading": "ざんぎょう",
+        "meaning": "overtime"
+      },
+      {
+        "word": "残る",
+        "reading": "のこる",
+        "meaning": "remain"
+      }
+    ],
+    "example": "残業を確認してください。",
+    "example_reading": "ざんぎょうをかくにんしてください。",
+    "translation": "Please check the overtime work record.",
+    "components": "Visual cue: study the distinctive radical and connect it with remain; leftover.",
+    "mnemonic": "Imagine a concrete scene involving remain; leftover.",
+    "warning": "Read this character in context; compounds can change pronunciation."
+  },
+  {
+    "kanji": "想",
+    "meaning": "think; imagine",
+    "onyomi": "ソウ",
+    "kunyomi": "おもう",
+    "romaji": "",
+    "words": [
+      {
+        "word": "感想",
+        "reading": "かんそう",
+        "meaning": "impression"
+      },
+      {
+        "word": "想像",
+        "reading": "そうぞう",
+        "meaning": "imagination"
+      }
+    ],
+    "example": "感想について先生に聞きました。",
+    "example_reading": "かんそうについてせんせいにききました。",
+    "translation": "I asked the teacher about my impressions.",
+    "components": "Visual cue: study the distinctive radical and connect it with think; imagine.",
+    "mnemonic": "Imagine a concrete scene involving think; imagine.",
+    "warning": "Read this character in context; compounds can change pronunciation."
+  },
+  {
+    "kanji": "声",
+    "meaning": "voice",
+    "onyomi": "セイ;ショウ",
+    "kunyomi": "こえ",
+    "romaji": ";",
+    "words": [
+      {
+        "word": "声優",
+        "reading": "せいゆう",
+        "meaning": "voice actor"
+      },
+      {
+        "word": "大声",
+        "reading": "おおごえ",
+        "meaning": "loud voice"
+      }
+    ],
+    "example": "声優を毎日練習しています。",
+    "example_reading": "せいゆうをまいにちれんしゅうしています。",
+    "translation": "I practise voice acting every day.",
+    "components": "Visual cue: study the distinctive radical and connect it with voice.",
+    "mnemonic": "Imagine a concrete scene involving voice.",
+    "warning": "Read this character in context; compounds can change pronunciation."
+  },
+  {
+    "kanji": "助",
+    "meaning": "help, rescue, assist",
+    "onyomi": "jo",
+    "kunyomi": "tasu",
+    "romaji": "jo",
+    "words": [
+      {
+        "meaning": "help, rescue, assist",
+        "word": "助",
+        "reading": "tasu"
+      },
+      {
+        "meaning": "A useful compound built around “help, rescue, assist”",
+        "word": "助語",
+        "reading": "joご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to help, rescue, assist.",
+    "mnemonic": "Picture the character as a small scene about help, rescue, assist.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "労",
+    "meaning": "labor, thank for",
+    "onyomi": "rou",
+    "kunyomi": "rou",
+    "romaji": "rou",
+    "words": [
+      {
+        "meaning": "labor, thank for",
+        "word": "労",
+        "reading": "rou"
+      },
+      {
+        "meaning": "A useful compound built around “labor, thank for”",
+        "word": "労語",
+        "reading": "rouご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to labor, thank for.",
+    "mnemonic": "Picture the character as a small scene about labor, thank for.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "例",
+    "meaning": "example",
+    "onyomi": "rei",
+    "kunyomi": "tato",
+    "romaji": "rei",
+    "words": [
+      {
+        "meaning": "example",
+        "word": "例",
+        "reading": "tato"
+      },
+      {
+        "meaning": "A useful compound built around “example”",
+        "word": "例語",
+        "reading": "reiご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to example.",
+    "mnemonic": "Picture the character as a small scene about example.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "然",
+    "meaning": "sort of thing, if so",
+    "onyomi": "zen, nen",
+    "kunyomi": "shika, sa",
+    "romaji": "zennen",
+    "words": [
+      {
+        "meaning": "sort of thing, if so",
+        "word": "然",
+        "reading": "shika, sa"
+      },
+      {
+        "meaning": "A useful compound built around “sort of thing, if so”",
+        "word": "然語",
+        "reading": "zennenご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to sort of thing, if so.",
+    "mnemonic": "Picture the character as a small scene about sort of thing, if so.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "限",
+    "meaning": "limit, restrict",
+    "onyomi": "gen",
+    "kunyomi": "kagi",
+    "romaji": "gen",
+    "words": [
+      {
+        "meaning": "limit, restrict",
+        "word": "限",
+        "reading": "kagi"
+      },
+      {
+        "meaning": "A useful compound built around “limit, restrict”",
+        "word": "限語",
+        "reading": "genご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to limit, restrict.",
+    "mnemonic": "Picture the character as a small scene about limit, restrict.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "追",
+    "meaning": "chase, drive away",
+    "onyomi": "tsui",
+    "kunyomi": "o",
+    "romaji": "tsui",
+    "words": [
+      {
+        "meaning": "chase, drive away",
+        "word": "追",
+        "reading": "o"
+      },
+      {
+        "meaning": "A useful compound built around “chase, drive away”",
+        "word": "追語",
+        "reading": "tsuiご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to chase, drive away.",
+    "mnemonic": "Picture the character as a small scene about chase, drive away.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "商",
+    "meaning": "deal; selling; merchant",
+    "onyomi": "shou",
+    "kunyomi": "akina",
+    "romaji": "shou",
+    "words": [
+      {
+        "meaning": "deal; selling; merchant",
+        "word": "商",
+        "reading": "akina"
+      },
+      {
+        "meaning": "A useful compound built around “deal; selling; merchant”",
+        "word": "商語",
+        "reading": "shouご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to deal; selling; merchant.",
+    "mnemonic": "Picture the character as a small scene about deal; selling; merchant.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "葉",
+    "meaning": "leaf, plane, needle, blade, counter for flat things",
+    "onyomi": "you",
+    "kunyomi": "ha",
+    "romaji": "you",
+    "words": [
+      {
+        "meaning": "leaf, plane, needle, blade, counter for flat things",
+        "word": "葉",
+        "reading": "ha"
+      },
+      {
+        "meaning": "A useful compound built around “leaf, plane, needle, blade, counter for flat things”",
+        "word": "葉語",
+        "reading": "youご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to leaf, plane, needle, blade, counter for flat things.",
+    "mnemonic": "Picture the character as a small scene about leaf, plane, needle, blade, counter for flat things.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "伝",
+    "meaning": "transmit, go along, walk along, follow, report, communicate, legend, tradition",
+    "onyomi": "den",
+    "kunyomi": "tsuta",
+    "romaji": "den",
+    "words": [
+      {
+        "meaning": "transmit, go along, walk along, follow, report, communicate, legend, tradition",
+        "word": "伝",
+        "reading": "tsuta"
+      },
+      {
+        "meaning": "A useful compound built around “transmit, go along, walk along, follow, report, communicate, legend, tradition”",
+        "word": "伝語",
+        "reading": "denご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to transmit, go along, walk along, follow, report, communicate, legend, tradition.",
+    "mnemonic": "Picture the character as a small scene about transmit, go along, walk along, follow, report, communicate, legend, tradition.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "働",
+    "meaning": "work",
+    "onyomi": "dou",
+    "kunyomi": "hatara",
+    "romaji": "dou",
+    "words": [
+      {
+        "meaning": "work",
+        "word": "働",
+        "reading": "hatara"
+      },
+      {
+        "meaning": "A useful compound built around “work”",
+        "word": "働語",
+        "reading": "douご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to work.",
+    "mnemonic": "Picture the character as a small scene about work.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "形",
+    "meaning": "shape, form, style",
+    "onyomi": "kei, gyou",
+    "kunyomi": "kata, katachi, nari",
+    "romaji": "keigyou",
+    "words": [
+      {
+        "meaning": "shape, form, style",
+        "word": "形",
+        "reading": "kata, katachi, nari"
+      },
+      {
+        "meaning": "A useful compound built around “shape, form, style”",
+        "word": "形語",
+        "reading": "keigyouご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to shape, form, style.",
+    "mnemonic": "Picture the character as a small scene about shape, form, style.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "景",
+    "meaning": "scenery, view",
+    "onyomi": "kei, ke",
+    "kunyomi": "—",
+    "romaji": "keike",
+    "words": [
+      {
+        "meaning": "scenery, view",
+        "word": "景",
+        "reading": "No common independent kun reading taught here"
+      },
+      {
+        "meaning": "A useful compound built around “scenery, view”",
+        "word": "景語",
+        "reading": "keikeご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to scenery, view.",
+    "mnemonic": "Picture the character as a small scene about scenery, view.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "落",
+    "meaning": "fall, drop",
+    "onyomi": "raku",
+    "kunyomi": "o",
+    "romaji": "raku",
+    "words": [
+      {
+        "meaning": "fall, drop",
+        "word": "落",
+        "reading": "o"
+      },
+      {
+        "meaning": "A useful compound built around “fall, drop”",
+        "word": "落語",
+        "reading": "rakuご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to fall, drop.",
+    "mnemonic": "Picture the character as a small scene about fall, drop.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "好",
+    "meaning": "fond, pleasing, like something",
+    "onyomi": "kou",
+    "kunyomi": "kono",
+    "romaji": "kou",
+    "words": [
+      {
+        "meaning": "fond, pleasing, like something",
+        "word": "好",
+        "reading": "kono"
+      },
+      {
+        "meaning": "A useful compound built around “fond, pleasing, like something”",
+        "word": "好語",
+        "reading": "kouご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to fond, pleasing, like something.",
+    "mnemonic": "Picture the character as a small scene about fond, pleasing, like something.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "退",
+    "meaning": "retreat, withdraw, retire, resign, repel, expel, reject",
+    "onyomi": "tai",
+    "kunyomi": "shirizo",
+    "romaji": "tai",
+    "words": [
+      {
+        "meaning": "retreat, withdraw, retire, resign, repel, expel, reject",
+        "word": "退",
+        "reading": "shirizo"
+      },
+      {
+        "meaning": "A useful compound built around “retreat, withdraw, retire, resign, repel, expel, reject”",
+        "word": "退語",
+        "reading": "taiご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to retreat, withdraw, retire, resign, repel, expel, reject.",
+    "mnemonic": "Picture the character as a small scene about retreat, withdraw, retire, resign, repel, expel, reject.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "頭",
+    "meaning": "head",
+    "onyomi": "tou, zu, to",
+    "kunyomi": "atama, kashira",
+    "romaji": "touzuto",
+    "words": [
+      {
+        "meaning": "head",
+        "word": "頭",
+        "reading": "atama, kashira"
+      },
+      {
+        "meaning": "A useful compound built around “head”",
+        "word": "頭語",
+        "reading": "touzutoご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to head.",
+    "mnemonic": "Picture the character as a small scene about head.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "負",
+    "meaning": "defeat, negative, minus, assume a responsibility",
+    "onyomi": "fu",
+    "kunyomi": "ma",
+    "romaji": "fu",
+    "words": [
+      {
+        "meaning": "defeat, negative, minus, assume a responsibility",
+        "word": "負",
+        "reading": "ma"
+      },
+      {
+        "meaning": "A useful compound built around “defeat, negative, minus, assume a responsibility”",
+        "word": "負語",
+        "reading": "fuご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to defeat, negative, minus, assume a responsibility.",
+    "mnemonic": "Picture the character as a small scene about defeat, negative, minus, assume a responsibility.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "渡",
+    "meaning": "transit, ferry, cross",
+    "onyomi": "to",
+    "kunyomi": "wata",
+    "romaji": "to",
+    "words": [
+      {
+        "meaning": "transit, ferry, cross",
+        "word": "渡",
+        "reading": "wata"
+      },
+      {
+        "meaning": "A useful compound built around “transit, ferry, cross”",
+        "word": "渡語",
+        "reading": "toご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to transit, ferry, cross.",
+    "mnemonic": "Picture the character as a small scene about transit, ferry, cross.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "失",
+    "meaning": "lose, error, fault, disadvantage, loss",
+    "onyomi": "shitsu",
+    "kunyomi": "ushina",
+    "romaji": "shitsu",
+    "words": [
+      {
+        "meaning": "lose, error, fault, disadvantage, loss",
+        "word": "失",
+        "reading": "ushina"
+      },
+      {
+        "meaning": "A useful compound built around “lose, error, fault, disadvantage, loss”",
+        "word": "失語",
+        "reading": "shitsuご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to lose, error, fault, disadvantage, loss.",
+    "mnemonic": "Picture the character as a small scene about lose, error, fault, disadvantage, loss.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "差",
+    "meaning": "distinction, difference, variation",
+    "onyomi": "sa",
+    "kunyomi": "sa",
+    "romaji": "sa",
+    "words": [
+      {
+        "meaning": "distinction, difference, variation",
+        "word": "差",
+        "reading": "sa"
+      },
+      {
+        "meaning": "A useful compound built around “distinction, difference, variation”",
+        "word": "差語",
+        "reading": "saご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to distinction, difference, variation.",
+    "mnemonic": "Picture the character as a small scene about distinction, difference, variation.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "末",
+    "meaning": "end, close, tip",
+    "onyomi": "matsu",
+    "kunyomi": "sue",
+    "romaji": "matsu",
+    "words": [
+      {
+        "meaning": "end, close, tip",
+        "word": "末",
+        "reading": "sue"
+      },
+      {
+        "meaning": "A useful compound built around “end, close, tip”",
+        "word": "末語",
+        "reading": "matsuご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to end, close, tip.",
+    "mnemonic": "Picture the character as a small scene about end, close, tip.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "守",
+    "meaning": "guard, protect, obey",
+    "onyomi": "shu, su",
+    "kunyomi": "mamo",
+    "romaji": "shusu",
+    "words": [
+      {
+        "meaning": "guard, protect, obey",
+        "word": "守",
+        "reading": "mamo"
+      },
+      {
+        "meaning": "A useful compound built around “guard, protect, obey”",
+        "word": "守語",
+        "reading": "shusuご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to guard, protect, obey.",
+    "mnemonic": "Picture the character as a small scene about guard, protect, obey.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "若",
+    "meaning": "young",
+    "onyomi": "jaku",
+    "kunyomi": "waka",
+    "romaji": "jaku",
+    "words": [
+      {
+        "meaning": "young",
+        "word": "若",
+        "reading": "waka"
+      },
+      {
+        "meaning": "A useful compound built around “young”",
+        "word": "若語",
+        "reading": "jakuご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to young.",
+    "mnemonic": "Picture the character as a small scene about young.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "種",
+    "meaning": "species, kind, class, seed",
+    "onyomi": "shu",
+    "kunyomi": "tane, -gusa",
+    "romaji": "shu",
+    "words": [
+      {
+        "meaning": "species, kind, class, seed",
+        "word": "種",
+        "reading": "tane, -gusa"
+      },
+      {
+        "meaning": "A useful compound built around “species, kind, class, seed”",
+        "word": "種語",
+        "reading": "shuご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to species, kind, class, seed.",
+    "mnemonic": "Picture the character as a small scene about species, kind, class, seed.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "美",
+    "meaning": "beauty, beautiful",
+    "onyomi": "bi, mi",
+    "kunyomi": "utsukushii",
+    "romaji": "bimi",
+    "words": [
+      {
+        "meaning": "beauty, beautiful",
+        "word": "美",
+        "reading": "utsukushii"
+      },
+      {
+        "meaning": "A useful compound built around “beauty, beautiful”",
+        "word": "美語",
+        "reading": "bimiご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to beauty, beautiful.",
+    "mnemonic": "Picture the character as a small scene about beauty, beautiful.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "命",
+    "meaning": "fate, command",
+    "onyomi": "mei, myou",
+    "kunyomi": "inochi",
+    "romaji": "meimyou",
+    "words": [
+      {
+        "meaning": "fate, command",
+        "word": "命",
+        "reading": "inochi"
+      },
+      {
+        "meaning": "A useful compound built around “fate, command”",
+        "word": "命語",
+        "reading": "meimyouご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to fate, command.",
+    "mnemonic": "Picture the character as a small scene about fate, command.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "福",
+    "meaning": "blessing, fortune, luck, wealth",
+    "onyomi": "fuku",
+    "kunyomi": "—",
+    "romaji": "fuku",
+    "words": [
+      {
+        "meaning": "blessing, fortune, luck, wealth",
+        "word": "福",
+        "reading": "No common independent kun reading taught here"
+      },
+      {
+        "meaning": "A useful compound built around “blessing, fortune, luck, wealth”",
+        "word": "福語",
+        "reading": "fukuご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to blessing, fortune, luck, wealth.",
+    "mnemonic": "Picture the character as a small scene about blessing, fortune, luck, wealth.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "望",
+    "meaning": "ambition, full moon, hope, desire, aspire to, expect",
+    "onyomi": "bou",
+    "kunyomi": "nozo",
+    "romaji": "bou",
+    "words": [
+      {
+        "meaning": "ambition, full moon, hope, desire, aspire to, expect",
+        "word": "望",
+        "reading": "nozo"
+      },
+      {
+        "meaning": "A useful compound built around “ambition, full moon, hope, desire, aspire to, expect”",
+        "word": "望語",
+        "reading": "bouご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to ambition, full moon, hope, desire, aspire to, expect.",
+    "mnemonic": "Picture the character as a small scene about ambition, full moon, hope, desire, aspire to, expect.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "非",
+    "meaning": "un-, mistake, negative",
+    "onyomi": "hi",
+    "kunyomi": "ara",
+    "romaji": "hi",
+    "words": [
+      {
+        "meaning": "un-, mistake, negative",
+        "word": "非",
+        "reading": "ara"
+      },
+      {
+        "meaning": "A useful compound built around “un-, mistake, negative”",
+        "word": "非語",
+        "reading": "hiご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to un-, mistake, negative.",
+    "mnemonic": "Picture the character as a small scene about un-, mistake, negative.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "観",
+    "meaning": "outlook, appearance, condition",
+    "onyomi": "kan",
+    "kunyomi": "mi",
+    "romaji": "kan",
+    "words": [
+      {
+        "meaning": "outlook, appearance, condition",
+        "word": "観",
+        "reading": "mi"
+      },
+      {
+        "meaning": "A useful compound built around “outlook, appearance, condition”",
+        "word": "観語",
+        "reading": "kanご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to outlook, appearance, condition.",
+    "mnemonic": "Picture the character as a small scene about outlook, appearance, condition.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "察",
+    "meaning": "guess, presume, judge",
+    "onyomi": "satsu",
+    "kunyomi": "—",
+    "romaji": "satsu",
+    "words": [
+      {
+        "meaning": "guess, presume, judge",
+        "word": "察",
+        "reading": "No common independent kun reading taught here"
+      },
+      {
+        "meaning": "A useful compound built around “guess, presume, judge”",
+        "word": "察語",
+        "reading": "satsuご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to guess, presume, judge.",
+    "mnemonic": "Picture the character as a small scene about guess, presume, judge.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "段",
+    "meaning": "grade, steps, stairs",
+    "onyomi": "dan",
+    "kunyomi": "—",
+    "romaji": "dan",
+    "words": [
+      {
+        "meaning": "grade, steps, stairs",
+        "word": "段",
+        "reading": "No common independent kun reading taught here"
+      },
+      {
+        "meaning": "A useful compound built around “grade, steps, stairs”",
+        "word": "段語",
+        "reading": "danご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to grade, steps, stairs.",
+    "mnemonic": "Picture the character as a small scene about grade, steps, stairs.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "横",
+    "meaning": "sideways, side",
+    "onyomi": "ou",
+    "kunyomi": "yoko",
+    "romaji": "ou",
+    "words": [
+      {
+        "meaning": "sideways, side",
+        "word": "横",
+        "reading": "yoko"
+      },
+      {
+        "meaning": "A useful compound built around “sideways, side”",
+        "word": "横語",
+        "reading": "ouご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to sideways, side.",
+    "mnemonic": "Picture the character as a small scene about sideways, side.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "深",
+    "meaning": "deep, heighten",
+    "onyomi": "shin",
+    "kunyomi": "fuka",
+    "romaji": "shin",
+    "words": [
+      {
+        "meaning": "deep, heighten",
+        "word": "深",
+        "reading": "fuka"
+      },
+      {
+        "meaning": "A useful compound built around “deep, heighten”",
+        "word": "深語",
+        "reading": "shinご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to deep, heighten.",
+    "mnemonic": "Picture the character as a small scene about deep, heighten.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "申",
+    "meaning": "have the honor to",
+    "onyomi": "shin",
+    "kunyomi": "mou",
+    "romaji": "shin",
+    "words": [
+      {
+        "meaning": "have the honor to",
+        "word": "申",
+        "reading": "mou"
+      },
+      {
+        "meaning": "A useful compound built around “have the honor to”",
+        "word": "申語",
+        "reading": "shinご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to have the honor to.",
+    "mnemonic": "Picture the character as a small scene about have the honor to.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "様",
+    "meaning": "manner, situation, polite suffix",
+    "onyomi": "you",
+    "kunyomi": "sama, san",
+    "romaji": "you",
+    "words": [
+      {
+        "meaning": "manner, situation, polite suffix",
+        "word": "様",
+        "reading": "sama, san"
+      },
+      {
+        "meaning": "A useful compound built around “manner, situation, polite suffix”",
+        "word": "様語",
+        "reading": "youご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to manner, situation, polite suffix.",
+    "mnemonic": "Picture the character as a small scene about manner, situation, polite suffix.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "財",
+    "meaning": "property, money, wealth, assets",
+    "onyomi": "zai, sai, zoku",
+    "kunyomi": "—",
+    "romaji": "zaisaizoku",
+    "words": [
+      {
+        "meaning": "property, money, wealth, assets",
+        "word": "財",
+        "reading": "No common independent kun reading taught here"
+      },
+      {
+        "meaning": "A useful compound built around “property, money, wealth, assets”",
+        "word": "財語",
+        "reading": "zaisaizokuご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to property, money, wealth, assets.",
+    "mnemonic": "Picture the character as a small scene about property, money, wealth, assets.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "港",
+    "meaning": "harbor, port",
+    "onyomi": "kou",
+    "kunyomi": "minato",
+    "romaji": "kou",
+    "words": [
+      {
+        "meaning": "harbor, port",
+        "word": "港",
+        "reading": "minato"
+      },
+      {
+        "meaning": "A useful compound built around “harbor, port”",
+        "word": "港語",
+        "reading": "kouご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to harbor, port.",
+    "mnemonic": "Picture the character as a small scene about harbor, port.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "識",
+    "meaning": "know",
+    "onyomi": "shiki",
+    "kunyomi": "shi",
+    "romaji": "shiki",
+    "words": [
+      {
+        "meaning": "know",
+        "word": "識",
+        "reading": "shi"
+      },
+      {
+        "meaning": "A useful compound built around “know”",
+        "word": "識語",
+        "reading": "shikiご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to know.",
+    "mnemonic": "Picture the character as a small scene about know.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "呼",
+    "meaning": "call, invite",
+    "onyomi": "ko",
+    "kunyomi": "yo",
+    "romaji": "ko",
+    "words": [
+      {
+        "meaning": "call, invite",
+        "word": "呼",
+        "reading": "yo"
+      },
+      {
+        "meaning": "A useful compound built around “call, invite”",
+        "word": "呼語",
+        "reading": "koご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to call, invite.",
+    "mnemonic": "Picture the character as a small scene about call, invite.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "達",
+    "meaning": "accomplished, reach, arrive, attain",
+    "onyomi": "tatsu, da",
+    "kunyomi": "tachi-",
+    "romaji": "tatsuda",
+    "words": [
+      {
+        "meaning": "accomplished, reach, arrive, attain",
+        "word": "達",
+        "reading": "tachi-"
+      },
+      {
+        "meaning": "A useful compound built around “accomplished, reach, arrive, attain”",
+        "word": "達語",
+        "reading": "tatsudaご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to accomplished, reach, arrive, attain.",
+    "mnemonic": "Picture the character as a small scene about accomplished, reach, arrive, attain.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "良",
+    "meaning": "good",
+    "onyomi": "ryou",
+    "kunyomi": "yo",
+    "romaji": "ryou",
+    "words": [
+      {
+        "meaning": "good",
+        "word": "良",
+        "reading": "yo"
+      },
+      {
+        "meaning": "A useful compound built around “good”",
+        "word": "良語",
+        "reading": "ryouご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to good.",
+    "mnemonic": "Picture the character as a small scene about good.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "阪",
+    "meaning": "heights, slope",
+    "onyomi": "han",
+    "kunyomi": "saka",
+    "romaji": "han",
+    "words": [
+      {
+        "meaning": "heights, slope",
+        "word": "阪",
+        "reading": "saka"
+      },
+      {
+        "meaning": "A useful compound built around “heights, slope”",
+        "word": "阪語",
+        "reading": "hanご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to heights, slope.",
+    "mnemonic": "Picture the character as a small scene about heights, slope.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "候",
+    "meaning": "climate, season, weather",
+    "onyomi": "kou",
+    "kunyomi": "sourou",
+    "romaji": "kou",
+    "words": [
+      {
+        "meaning": "climate, season, weather",
+        "word": "候",
+        "reading": "sourou"
+      },
+      {
+        "meaning": "A useful compound built around “climate, season, weather”",
+        "word": "候語",
+        "reading": "kouご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to climate, season, weather.",
+    "mnemonic": "Picture the character as a small scene about climate, season, weather.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "程",
+    "meaning": "extent, degree",
+    "onyomi": "tei",
+    "kunyomi": "hodo",
+    "romaji": "tei",
+    "words": [
+      {
+        "meaning": "extent, degree",
+        "word": "程",
+        "reading": "hodo"
+      },
+      {
+        "meaning": "A useful compound built around “extent, degree”",
+        "word": "程語",
+        "reading": "teiご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to extent, degree.",
+    "mnemonic": "Picture the character as a small scene about extent, degree.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "満",
+    "meaning": "full, fullness, enough, satisfy",
+    "onyomi": "man",
+    "kunyomi": "mi",
+    "romaji": "man",
+    "words": [
+      {
+        "meaning": "full, fullness, enough, satisfy",
+        "word": "満",
+        "reading": "mi"
+      },
+      {
+        "meaning": "A useful compound built around “full, fullness, enough, satisfy”",
+        "word": "満語",
+        "reading": "manご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to full, fullness, enough, satisfy.",
+    "mnemonic": "Picture the character as a small scene about full, fullness, enough, satisfy.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "敗",
+    "meaning": "failure, defeatJLPT N3 Kanji List total: (370)Currently viewing page 2 of 4←1234→View JLPT N3 Study GuideJLPT N3 Study GuideJLPT N3 Grammar Master [e-book]Complete Study GuideThis e-book includes every grammar point you need to know in order to pass the JLPT N3, with detailed usage notes and numerous example sentences.Pages: 378.Grammar lessons: 182.Download ebookN3 FlashcardsN3 kanji flashcards coming soon!*NOTE* Officially, there are no kanji, vocabulary, or grammar lists for the JLPT. As a result, it is not possible to be certain which kanji, words, or grammar will or will not appear in a given test. Our study lists are based on prior test data and comparisons with other available lists of JLPT kanji, vocabulary, grammar, etc.Member BenefitsJLPT Sensei is the best website to learn Japanese and study for the JLPT!Become a member for:unlimited downloads of our e-books, flashcards, and study guides.Completely ad-free website!Learn JapaneseJLPT Grammar 文法JLPT N5 grammar listJLPT N4 grammar listJLPT N3 grammar listJLPT N2 grammar listJLPT N1 grammar listJLPT Grammar List (all levels)JLPT Kanji 漢字JLPT N5 kanji listJLPT N4 kanji listJLPT N3 kanji listJLPT N2 kanji listMost frequently used kanjiJLPT TEST DATESSunday, Jul 5, 2026Sunday, Dec 6, 2026Free practice testsDisclaimerJLPT Sensei participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com / Amazon.co.jp. JLPT Sensei also participates in other affiliate programs to earn a commission at no extra cost to you.JLPT Sensei is not officially affiliated with the JLPT in any way and is only intended to serve as a supplementary study resource. We try to make our JLPT study guides, lessons, and other learning materials as accurate as possible, but this blog is a constant work in progress and some errors may appear from time to time. Therefore, JLPT Sensei does not assume any responsibilities or liability for any errors or omissions in the content of this site.To help JLPT Sensei continue improving, if you find any errors, please report them to us.Join our subscription list to get the latest lessons / content#mailpoet_form_1 .mailpoet_form{clear:both}#mailpoet_form_1 .mailpoet_paragraph{line-height:20px;float:left;margin:20px 10px}#mailpoet_form_1 .mailpoet_divider+.mailpoet_paragraph{float:none;clear:both;margin-top:25px}#mailpoet_form_1 .mailpoet_segment_label,#mailpoet_form_1 .mailpoet_text_label,#mailpoet_form_1 .mailpoet_textarea_label,#mailpoet_form_1 .mailpoet_select_label,#mailpoet_form_1 .mailpoet_radio_label,#mailpoet_form_1 .mailpoet_checkbox_label,#mailpoet_form_1 .mailpoet_list_label,#mailpoet_form_1 .mailpoet_date_label{display:block;font-weight:700}#mailpoet_form_1 .mailpoet_text,#mailpoet_form_1 .mailpoet_textarea,#mailpoet_form_1 .mailpoet_select,#mailpoet_form_1 .mailpoet_date_month,#mailpoet_form_1 .mailpoet_date_day,#mailpoet_form_1 .mailpoet_date_year,#mailpoet_form_1 .mailpoet_date{display:block}#mailpoet_form_1 .mailpoet_text,#mailpoet_form_1 .mailpoet_textarea{width:280px}#mailpoet_form_1 .mailpoet_checkbox{}#mailpoet_form_1 .mailpoet_submit{margin-top:15px;font-size:20px;padding:12px 10px;background:#333;border:0;color:#fff;display:block;clear:both;margin-left:auto;margin-right:auto}#mailpoet_form_1 .mailpoet_submit:hover,#mailpoet_form_1 .mailpoet_submit:active{background:#000}#mailpoet_form_1 .mailpoet_divider{display:none}#mailpoet_form_1 .mailpoet_message{}#mailpoet_form_1 .mailpoet_validate_success{color:#468847}#mailpoet_form_1 .mailpoet_validate_error{color:#b94a48}#mailpoet_form_1{}#mailpoet_form_1 .mailpoet_message{margin:0;padding:0 20px}#mailpoet_form_1 .mailpoet_paragraph.last{margin-bottom:0}@media(max-width:500px){#mailpoet_form_1{background-image:none}}@media(min-width:500px){#mailpoet_form_1 .last .mailpoet_paragraph:last-child{margin-bottom:0}}@media(max-width:500px){#mailpoet_form_1 .mailpoet_form_column:last-child .mailpoet_paragraph:last-child{margin-bottom:0}} Please leave this field emptyName *Email *Check your inbox or spam folder to confirm your subscription.HomeAbout UsDownloadsebooksPrivacy PolicyTerms and Conditions【 Tiếng Việt 】 ・ 【 Español 】© 2015~2026 JLPT Sensei.Created by Two Wheel Cruise日本語能力試験に合格しましょう！ {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/jlpt_sensei_rename/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} var MailPoetForm={\"ajax_url\":\"https://jlptsensei.com/wp-admin/admin-ajax.php\",\"is_rtl\":\"\",\"ajax_common_error_message\":\"An error has happened while performing a request, please try again later.\",\"captcha_input_label\":\"Type in the characters you see in the picture above:\",\"captcha_reload_title\":\"Reload CAPTCHA\",\"captcha_audio_title\":\"Play CAPTCHA\",\"assets_url\":\"https://jlptsensei.com/wp-content/plugins/mailpoet/assets\",\"collect_subscriber_timezones\":\"1\"};×!function(){function t(t,r){var n=\"undefined\"!=typeof Symbolif(!n){if(Array.isArray(t)||(n=function(t,r){if(t){if(\"string\"==typeof t)return e(t,r);var n=Object.prototype.toString.call(t).slice(8,-1);return\"Object\"===nvar a=0,o=function(){};return{s:o,n:function(){return a>=t.length?{done:!0}:{done:!1,value:t[a++]}},e:function(t){throw t},f:o}}throw new TypeError(\"Invalid attempt to iterate non-iterable instance.\\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.\")}var i,u=!0,s=!1;return{s:function(){n=n.call(t)},n:function(){var t=n.next();return u=t.done,t},e:function(t){s=!0,i=t},f:function(){try{u||null==n.return||n.return()}finally{if(s)throw i}}}}function e(t,e){(null==e||e>t.length)for(var r=0,n=new Array(e);r!function(){var e=function(e,t){for(var r=0;r-1window.humixPlayers=window.humixPlayers||[];window.humixPlayers.push({target:'autoinsert',isGenerated:true});function _emitEzConsentEvent(){var customEvent=new CustomEvent(\"ezConsentEvent\",{detail:{ezTcfConsent:window.ezTcfConsent},bubbles:true,cancelable:true,});document.dispatchEvent(customEvent);} (function(window,document){function _setAllEzConsentTrue(){window.ezTcfConsent.loaded=true;window.ezTcfConsent.store_info=true;window.ezTcfConsent.develop_and_improve_services=true;window.ezTcfConsent.measure_ad_performance=true;window.ezTcfConsent.measure_content_performance=true;window.ezTcfConsent.select_basic_ads=true;window.ezTcfConsent.create_ad_profile=true;window.ezTcfConsent.select_personalized_ads=true;window.ezTcfConsent.create_content_profile=true;window.ezTcfConsent.select_personalized_content=true;window.ezTcfConsent.understand_audiences=true;window.ezTcfConsent.use_limited_data_to_select_content=true;window.ezTcfConsent.select_personalized_content=true;} function _clearEzConsentCookie(){document.cookie=\"ezCMPCookieConsent=tcf2;Domain=.jlptsensei.com;Path=/;expires=Thu, 01 Jan 1970 00:00:00 GMT\";} _clearEzConsentCookie();if(typeof window.__tcfapi!==\"undefined\"){window.ezgconsent=false;var amazonHasRun=false;function _ezAllowed(tcdata,purpose){return(tcdata.purpose.consents[purpose]||tcdata.purpose.legitimateInterests[purpose]);} function _handleConsentDecision(tcdata){window.ezTcfConsent.loaded=true;if(!tcdata.vendor.consents[\"347\"]return;} window.ezTcfConsent.store_info=_ezAllowed(tcdata,\"1\");window.ezTcfConsent.develop_and_improve_services=_ezAllowed(tcdata,\"10\");window.ezTcfConsent.measure_content_performance=_ezAllowed(tcdata,\"8\");window.ezTcfConsent.select_basic_ads=_ezAllowed(tcdata,\"2\");window.ezTcfConsent.create_ad_profile=_ezAllowed(tcdata,\"3\");window.ezTcfConsent.select_personalized_ads=_ezAllowed(tcdata,\"4\");window.ezTcfConsent.create_content_profile=_ezAllowed(tcdata,\"5\");window.ezTcfConsent.measure_ad_performance=_ezAllowed(tcdata,\"7\");window.ezTcfConsent.use_limited_data_to_select_content=_ezAllowed(tcdata,\"11\");window.ezTcfConsent.select_personalized_content=_ezAllowed(tcdata,\"6\");window.ezTcfConsent.understand_audiences=_ezAllowed(tcdata,\"9\");window._emitEzConsentEvent();} function _handleGoogleConsentV2(tcdata){if(!tcdata||!tcdata.purpose||!tcdata.purpose.consents){return;} var consents=tcdata.purpose.consents;var googConsentV2={ad_storage:consents[1]?'granted':'denied',analytics_storage:consents[1]?'granted':'denied',ad_personalization:(consents[3]if(googConsentV2.analytics_storage==='denied'){gtag('set','url_passthrough',true);} gtag('consent','update',googConsentV2);} __tcfapi(\"addEventListener\",2,function(tcdata,success){if(!success||!tcdata){window._emitEzConsentEvent();return;} if(!tcdata.gdprApplies){_setAllEzConsentTrue();window._emitEzConsentEvent();return;} if(tcdata.eventStatus===\"useractioncomplete\"||tcdata.eventStatus===\"tcloaded\"){if(typeof gtag!='undefined'){_handleGoogleConsentV2(tcdata);} _handleConsentDecision(tcdata);if(tcdata.purpose.consents[\"1\"]===true(adsbygoogle=window.adsbygoogle||[]).pauseAdRequests=0;} if(window.__ezconsent){__ezconsent.setEzoicConsentSettings(ezConsentCategories);} __tcfapi(\"removeEventListener\",2,function(success){return null;},tcdata.listenerId);if(!(tcdata.purpose.consents[\"1\"]===true}}}});}else{_setAllEzConsentTrue();window._emitEzConsentEvent();}})(window,document);",
+    "onyomi": "hai",
+    "kunyomi": "yabu",
+    "romaji": "hai",
+    "words": [
+      {
+        "meaning": "failure, defeatJLPT N3 Kanji List total: (370)Currently viewing page 2 of 4←1234→View JLPT N3 Study GuideJLPT N3 Study GuideJLPT N3 Grammar Master [e-book]Complete Study GuideThis e-book includes every grammar point you need to know in order to pass the JLPT N3, with detailed usage notes and numerous example sentences.Pages: 378.Grammar lessons: 182.Download ebookN3 FlashcardsN3 kanji flashcards coming soon!*NOTE* Officially, there are no kanji, vocabulary, or grammar lists for the JLPT. As a result, it is not possible to be certain which kanji, words, or grammar will or will not appear in a given test. Our study lists are based on prior test data and comparisons with other available lists of JLPT kanji, vocabulary, grammar, etc.Member BenefitsJLPT Sensei is the best website to learn Japanese and study for the JLPT!Become a member for:unlimited downloads of our e-books, flashcards, and study guides.Completely ad-free website!Learn JapaneseJLPT Grammar 文法JLPT N5 grammar listJLPT N4 grammar listJLPT N3 grammar listJLPT N2 grammar listJLPT N1 grammar listJLPT Grammar List (all levels)JLPT Kanji 漢字JLPT N5 kanji listJLPT N4 kanji listJLPT N3 kanji listJLPT N2 kanji listMost frequently used kanjiJLPT TEST DATESSunday, Jul 5, 2026Sunday, Dec 6, 2026Free practice testsDisclaimerJLPT Sensei participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com / Amazon.co.jp. JLPT Sensei also participates in other affiliate programs to earn a commission at no extra cost to you.JLPT Sensei is not officially affiliated with the JLPT in any way and is only intended to serve as a supplementary study resource. We try to make our JLPT study guides, lessons, and other learning materials as accurate as possible, but this blog is a constant work in progress and some errors may appear from time to time. Therefore, JLPT Sensei does not assume any responsibilities or liability for any errors or omissions in the content of this site.To help JLPT Sensei continue improving, if you find any errors, please report them to us.Join our subscription list to get the latest lessons / content#mailpoet_form_1 .mailpoet_form{clear:both}#mailpoet_form_1 .mailpoet_paragraph{line-height:20px;float:left;margin:20px 10px}#mailpoet_form_1 .mailpoet_divider+.mailpoet_paragraph{float:none;clear:both;margin-top:25px}#mailpoet_form_1 .mailpoet_segment_label,#mailpoet_form_1 .mailpoet_text_label,#mailpoet_form_1 .mailpoet_textarea_label,#mailpoet_form_1 .mailpoet_select_label,#mailpoet_form_1 .mailpoet_radio_label,#mailpoet_form_1 .mailpoet_checkbox_label,#mailpoet_form_1 .mailpoet_list_label,#mailpoet_form_1 .mailpoet_date_label{display:block;font-weight:700}#mailpoet_form_1 .mailpoet_text,#mailpoet_form_1 .mailpoet_textarea,#mailpoet_form_1 .mailpoet_select,#mailpoet_form_1 .mailpoet_date_month,#mailpoet_form_1 .mailpoet_date_day,#mailpoet_form_1 .mailpoet_date_year,#mailpoet_form_1 .mailpoet_date{display:block}#mailpoet_form_1 .mailpoet_text,#mailpoet_form_1 .mailpoet_textarea{width:280px}#mailpoet_form_1 .mailpoet_checkbox{}#mailpoet_form_1 .mailpoet_submit{margin-top:15px;font-size:20px;padding:12px 10px;background:#333;border:0;color:#fff;display:block;clear:both;margin-left:auto;margin-right:auto}#mailpoet_form_1 .mailpoet_submit:hover,#mailpoet_form_1 .mailpoet_submit:active{background:#000}#mailpoet_form_1 .mailpoet_divider{display:none}#mailpoet_form_1 .mailpoet_message{}#mailpoet_form_1 .mailpoet_validate_success{color:#468847}#mailpoet_form_1 .mailpoet_validate_error{color:#b94a48}#mailpoet_form_1{}#mailpoet_form_1 .mailpoet_message{margin:0;padding:0 20px}#mailpoet_form_1 .mailpoet_paragraph.last{margin-bottom:0}@media(max-width:500px){#mailpoet_form_1{background-image:none}}@media(min-width:500px){#mailpoet_form_1 .last .mailpoet_paragraph:last-child{margin-bottom:0}}@media(max-width:500px){#mailpoet_form_1 .mailpoet_form_column:last-child .mailpoet_paragraph:last-child{margin-bottom:0}} Please leave this field emptyName *Email *Check your inbox or spam folder to confirm your subscription.HomeAbout UsDownloadsebooksPrivacy PolicyTerms and Conditions【 Tiếng Việt 】 ・ 【 Español 】© 2015~2026 JLPT Sensei.Created by Two Wheel Cruise日本語能力試験に合格しましょう！ {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/jlpt_sensei_rename/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} var MailPoetForm={\"ajax_url\":\"https://jlptsensei.com/wp-admin/admin-ajax.php\",\"is_rtl\":\"\",\"ajax_common_error_message\":\"An error has happened while performing a request, please try again later.\",\"captcha_input_label\":\"Type in the characters you see in the picture above:\",\"captcha_reload_title\":\"Reload CAPTCHA\",\"captcha_audio_title\":\"Play CAPTCHA\",\"assets_url\":\"https://jlptsensei.com/wp-content/plugins/mailpoet/assets\",\"collect_subscriber_timezones\":\"1\"};×!function(){function t(t,r){var n=\"undefined\"!=typeof Symbolif(!n){if(Array.isArray(t)||(n=function(t,r){if(t){if(\"string\"==typeof t)return e(t,r);var n=Object.prototype.toString.call(t).slice(8,-1);return\"Object\"===nvar a=0,o=function(){};return{s:o,n:function(){return a>=t.length?{done:!0}:{done:!1,value:t[a++]}},e:function(t){throw t},f:o}}throw new TypeError(\"Invalid attempt to iterate non-iterable instance.\\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.\")}var i,u=!0,s=!1;return{s:function(){n=n.call(t)},n:function(){var t=n.next();return u=t.done,t},e:function(t){s=!0,i=t},f:function(){try{u||null==n.return||n.return()}finally{if(s)throw i}}}}function e(t,e){(null==e||e>t.length)for(var r=0,n=new Array(e);r!function(){var e=function(e,t){for(var r=0;r-1window.humixPlayers=window.humixPlayers||[];window.humixPlayers.push({target:'autoinsert',isGenerated:true});function _emitEzConsentEvent(){var customEvent=new CustomEvent(\"ezConsentEvent\",{detail:{ezTcfConsent:window.ezTcfConsent},bubbles:true,cancelable:true,});document.dispatchEvent(customEvent);} (function(window,document){function _setAllEzConsentTrue(){window.ezTcfConsent.loaded=true;window.ezTcfConsent.store_info=true;window.ezTcfConsent.develop_and_improve_services=true;window.ezTcfConsent.measure_ad_performance=true;window.ezTcfConsent.measure_content_performance=true;window.ezTcfConsent.select_basic_ads=true;window.ezTcfConsent.create_ad_profile=true;window.ezTcfConsent.select_personalized_ads=true;window.ezTcfConsent.create_content_profile=true;window.ezTcfConsent.select_personalized_content=true;window.ezTcfConsent.understand_audiences=true;window.ezTcfConsent.use_limited_data_to_select_content=true;window.ezTcfConsent.select_personalized_content=true;} function _clearEzConsentCookie(){document.cookie=\"ezCMPCookieConsent=tcf2;Domain=.jlptsensei.com;Path=/;expires=Thu, 01 Jan 1970 00:00:00 GMT\";} _clearEzConsentCookie();if(typeof window.__tcfapi!==\"undefined\"){window.ezgconsent=false;var amazonHasRun=false;function _ezAllowed(tcdata,purpose){return(tcdata.purpose.consents[purpose]||tcdata.purpose.legitimateInterests[purpose]);} function _handleConsentDecision(tcdata){window.ezTcfConsent.loaded=true;if(!tcdata.vendor.consents[\"347\"]return;} window.ezTcfConsent.store_info=_ezAllowed(tcdata,\"1\");window.ezTcfConsent.develop_and_improve_services=_ezAllowed(tcdata,\"10\");window.ezTcfConsent.measure_content_performance=_ezAllowed(tcdata,\"8\");window.ezTcfConsent.select_basic_ads=_ezAllowed(tcdata,\"2\");window.ezTcfConsent.create_ad_profile=_ezAllowed(tcdata,\"3\");window.ezTcfConsent.select_personalized_ads=_ezAllowed(tcdata,\"4\");window.ezTcfConsent.create_content_profile=_ezAllowed(tcdata,\"5\");window.ezTcfConsent.measure_ad_performance=_ezAllowed(tcdata,\"7\");window.ezTcfConsent.use_limited_data_to_select_content=_ezAllowed(tcdata,\"11\");window.ezTcfConsent.select_personalized_content=_ezAllowed(tcdata,\"6\");window.ezTcfConsent.understand_audiences=_ezAllowed(tcdata,\"9\");window._emitEzConsentEvent();} function _handleGoogleConsentV2(tcdata){if(!tcdata||!tcdata.purpose||!tcdata.purpose.consents){return;} var consents=tcdata.purpose.consents;var googConsentV2={ad_storage:consents[1]?'granted':'denied',analytics_storage:consents[1]?'granted':'denied',ad_personalization:(consents[3]if(googConsentV2.analytics_storage==='denied'){gtag('set','url_passthrough',true);} gtag('consent','update',googConsentV2);} __tcfapi(\"addEventListener\",2,function(tcdata,success){if(!success||!tcdata){window._emitEzConsentEvent();return;} if(!tcdata.gdprApplies){_setAllEzConsentTrue();window._emitEzConsentEvent();return;} if(tcdata.eventStatus===\"useractioncomplete\"||tcdata.eventStatus===\"tcloaded\"){if(typeof gtag!='undefined'){_handleGoogleConsentV2(tcdata);} _handleConsentDecision(tcdata);if(tcdata.purpose.consents[\"1\"]===true(adsbygoogle=window.adsbygoogle||[]).pauseAdRequests=0;} if(window.__ezconsent){__ezconsent.setEzoicConsentSettings(ezConsentCategories);} __tcfapi(\"removeEventListener\",2,function(success){return null;},tcdata.listenerId);if(!(tcdata.purpose.consents[\"1\"]===true}}}});}else{_setAllEzConsentTrue();window._emitEzConsentEvent();}})(window,document);",
+        "word": "敗",
+        "reading": "yabu"
+      },
+      {
+        "meaning": "A useful compound built around “failure, defeatJLPT N3 Kanji List total: (370)Currently viewing page 2 of 4←1234→View JLPT N3 Study GuideJLPT N3 Study GuideJLPT N3 Grammar Master [e-book]Complete Study GuideThis e-book includes every grammar point you need to know in order to pass the JLPT N3, with detailed usage notes and numerous example sentences.Pages: 378.Grammar lessons: 182.Download ebookN3 FlashcardsN3 kanji flashcards coming soon!*NOTE* Officially, there are no kanji, vocabulary, or grammar lists for the JLPT. As a result, it is not possible to be certain which kanji, words, or grammar will or will not appear in a given test. Our study lists are based on prior test data and comparisons with other available lists of JLPT kanji, vocabulary, grammar, etc.Member BenefitsJLPT Sensei is the best website to learn Japanese and study for the JLPT!Become a member for:unlimited downloads of our e-books, flashcards, and study guides.Completely ad-free website!Learn JapaneseJLPT Grammar 文法JLPT N5 grammar listJLPT N4 grammar listJLPT N3 grammar listJLPT N2 grammar listJLPT N1 grammar listJLPT Grammar List (all levels)JLPT Kanji 漢字JLPT N5 kanji listJLPT N4 kanji listJLPT N3 kanji listJLPT N2 kanji listMost frequently used kanjiJLPT TEST DATESSunday, Jul 5, 2026Sunday, Dec 6, 2026Free practice testsDisclaimerJLPT Sensei participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com / Amazon.co.jp. JLPT Sensei also participates in other affiliate programs to earn a commission at no extra cost to you.JLPT Sensei is not officially affiliated with the JLPT in any way and is only intended to serve as a supplementary study resource. We try to make our JLPT study guides, lessons, and other learning materials as accurate as possible, but this blog is a constant work in progress and some errors may appear from time to time. Therefore, JLPT Sensei does not assume any responsibilities or liability for any errors or omissions in the content of this site.To help JLPT Sensei continue improving, if you find any errors, please report them to us.Join our subscription list to get the latest lessons / content#mailpoet_form_1 .mailpoet_form{clear:both}#mailpoet_form_1 .mailpoet_paragraph{line-height:20px;float:left;margin:20px 10px}#mailpoet_form_1 .mailpoet_divider+.mailpoet_paragraph{float:none;clear:both;margin-top:25px}#mailpoet_form_1 .mailpoet_segment_label,#mailpoet_form_1 .mailpoet_text_label,#mailpoet_form_1 .mailpoet_textarea_label,#mailpoet_form_1 .mailpoet_select_label,#mailpoet_form_1 .mailpoet_radio_label,#mailpoet_form_1 .mailpoet_checkbox_label,#mailpoet_form_1 .mailpoet_list_label,#mailpoet_form_1 .mailpoet_date_label{display:block;font-weight:700}#mailpoet_form_1 .mailpoet_text,#mailpoet_form_1 .mailpoet_textarea,#mailpoet_form_1 .mailpoet_select,#mailpoet_form_1 .mailpoet_date_month,#mailpoet_form_1 .mailpoet_date_day,#mailpoet_form_1 .mailpoet_date_year,#mailpoet_form_1 .mailpoet_date{display:block}#mailpoet_form_1 .mailpoet_text,#mailpoet_form_1 .mailpoet_textarea{width:280px}#mailpoet_form_1 .mailpoet_checkbox{}#mailpoet_form_1 .mailpoet_submit{margin-top:15px;font-size:20px;padding:12px 10px;background:#333;border:0;color:#fff;display:block;clear:both;margin-left:auto;margin-right:auto}#mailpoet_form_1 .mailpoet_submit:hover,#mailpoet_form_1 .mailpoet_submit:active{background:#000}#mailpoet_form_1 .mailpoet_divider{display:none}#mailpoet_form_1 .mailpoet_message{}#mailpoet_form_1 .mailpoet_validate_success{color:#468847}#mailpoet_form_1 .mailpoet_validate_error{color:#b94a48}#mailpoet_form_1{}#mailpoet_form_1 .mailpoet_message{margin:0;padding:0 20px}#mailpoet_form_1 .mailpoet_paragraph.last{margin-bottom:0}@media(max-width:500px){#mailpoet_form_1{background-image:none}}@media(min-width:500px){#mailpoet_form_1 .last .mailpoet_paragraph:last-child{margin-bottom:0}}@media(max-width:500px){#mailpoet_form_1 .mailpoet_form_column:last-child .mailpoet_paragraph:last-child{margin-bottom:0}} Please leave this field emptyName *Email *Check your inbox or spam folder to confirm your subscription.HomeAbout UsDownloadsebooksPrivacy PolicyTerms and Conditions【 Tiếng Việt 】 ・ 【 Español 】© 2015~2026 JLPT Sensei.Created by Two Wheel Cruise日本語能力試験に合格しましょう！ {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/jlpt_sensei_rename/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} var MailPoetForm={\"ajax_url\":\"https://jlptsensei.com/wp-admin/admin-ajax.php\",\"is_rtl\":\"\",\"ajax_common_error_message\":\"An error has happened while performing a request, please try again later.\",\"captcha_input_label\":\"Type in the characters you see in the picture above:\",\"captcha_reload_title\":\"Reload CAPTCHA\",\"captcha_audio_title\":\"Play CAPTCHA\",\"assets_url\":\"https://jlptsensei.com/wp-content/plugins/mailpoet/assets\",\"collect_subscriber_timezones\":\"1\"};×!function(){function t(t,r){var n=\"undefined\"!=typeof Symbolif(!n){if(Array.isArray(t)||(n=function(t,r){if(t){if(\"string\"==typeof t)return e(t,r);var n=Object.prototype.toString.call(t).slice(8,-1);return\"Object\"===nvar a=0,o=function(){};return{s:o,n:function(){return a>=t.length?{done:!0}:{done:!1,value:t[a++]}},e:function(t){throw t},f:o}}throw new TypeError(\"Invalid attempt to iterate non-iterable instance.\\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.\")}var i,u=!0,s=!1;return{s:function(){n=n.call(t)},n:function(){var t=n.next();return u=t.done,t},e:function(t){s=!0,i=t},f:function(){try{u||null==n.return||n.return()}finally{if(s)throw i}}}}function e(t,e){(null==e||e>t.length)for(var r=0,n=new Array(e);r!function(){var e=function(e,t){for(var r=0;r-1window.humixPlayers=window.humixPlayers||[];window.humixPlayers.push({target:'autoinsert',isGenerated:true});function _emitEzConsentEvent(){var customEvent=new CustomEvent(\"ezConsentEvent\",{detail:{ezTcfConsent:window.ezTcfConsent},bubbles:true,cancelable:true,});document.dispatchEvent(customEvent);} (function(window,document){function _setAllEzConsentTrue(){window.ezTcfConsent.loaded=true;window.ezTcfConsent.store_info=true;window.ezTcfConsent.develop_and_improve_services=true;window.ezTcfConsent.measure_ad_performance=true;window.ezTcfConsent.measure_content_performance=true;window.ezTcfConsent.select_basic_ads=true;window.ezTcfConsent.create_ad_profile=true;window.ezTcfConsent.select_personalized_ads=true;window.ezTcfConsent.create_content_profile=true;window.ezTcfConsent.select_personalized_content=true;window.ezTcfConsent.understand_audiences=true;window.ezTcfConsent.use_limited_data_to_select_content=true;window.ezTcfConsent.select_personalized_content=true;} function _clearEzConsentCookie(){document.cookie=\"ezCMPCookieConsent=tcf2;Domain=.jlptsensei.com;Path=/;expires=Thu, 01 Jan 1970 00:00:00 GMT\";} _clearEzConsentCookie();if(typeof window.__tcfapi!==\"undefined\"){window.ezgconsent=false;var amazonHasRun=false;function _ezAllowed(tcdata,purpose){return(tcdata.purpose.consents[purpose]||tcdata.purpose.legitimateInterests[purpose]);} function _handleConsentDecision(tcdata){window.ezTcfConsent.loaded=true;if(!tcdata.vendor.consents[\"347\"]return;} window.ezTcfConsent.store_info=_ezAllowed(tcdata,\"1\");window.ezTcfConsent.develop_and_improve_services=_ezAllowed(tcdata,\"10\");window.ezTcfConsent.measure_content_performance=_ezAllowed(tcdata,\"8\");window.ezTcfConsent.select_basic_ads=_ezAllowed(tcdata,\"2\");window.ezTcfConsent.create_ad_profile=_ezAllowed(tcdata,\"3\");window.ezTcfConsent.select_personalized_ads=_ezAllowed(tcdata,\"4\");window.ezTcfConsent.create_content_profile=_ezAllowed(tcdata,\"5\");window.ezTcfConsent.measure_ad_performance=_ezAllowed(tcdata,\"7\");window.ezTcfConsent.use_limited_data_to_select_content=_ezAllowed(tcdata,\"11\");window.ezTcfConsent.select_personalized_content=_ezAllowed(tcdata,\"6\");window.ezTcfConsent.understand_audiences=_ezAllowed(tcdata,\"9\");window._emitEzConsentEvent();} function _handleGoogleConsentV2(tcdata){if(!tcdata||!tcdata.purpose||!tcdata.purpose.consents){return;} var consents=tcdata.purpose.consents;var googConsentV2={ad_storage:consents[1]?'granted':'denied',analytics_storage:consents[1]?'granted':'denied',ad_personalization:(consents[3]if(googConsentV2.analytics_storage==='denied'){gtag('set','url_passthrough',true);} gtag('consent','update',googConsentV2);} __tcfapi(\"addEventListener\",2,function(tcdata,success){if(!success||!tcdata){window._emitEzConsentEvent();return;} if(!tcdata.gdprApplies){_setAllEzConsentTrue();window._emitEzConsentEvent();return;} if(tcdata.eventStatus===\"useractioncomplete\"||tcdata.eventStatus===\"tcloaded\"){if(typeof gtag!='undefined'){_handleGoogleConsentV2(tcdata);} _handleConsentDecision(tcdata);if(tcdata.purpose.consents[\"1\"]===true(adsbygoogle=window.adsbygoogle||[]).pauseAdRequests=0;} if(window.__ezconsent){__ezconsent.setEzoicConsentSettings(ezConsentCategories);} __tcfapi(\"removeEventListener\",2,function(success){return null;},tcdata.listenerId);if(!(tcdata.purpose.consents[\"1\"]===true}}}});}else{_setAllEzConsentTrue();window._emitEzConsentEvent();}})(window,document);”",
+        "word": "敗語",
+        "reading": "haiご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to failure, defeatJLPT N3 Kanji List total: (370)Currently viewing page 2 of 4←1234→View JLPT N3 Study GuideJLPT N3 Study GuideJLPT N3 Grammar Master [e-book]Complete Study GuideThis e-book includes every grammar point you need to know in order to pass the JLPT N3, with detailed usage notes and numerous example sentences.Pages: 378.Grammar lessons: 182.Download ebookN3 FlashcardsN3 kanji flashcards coming soon!*NOTE* Officially, there are no kanji, vocabulary, or grammar lists for the JLPT. As a result, it is not possible to be certain which kanji, words, or grammar will or will not appear in a given test. Our study lists are based on prior test data and comparisons with other available lists of JLPT kanji, vocabulary, grammar, etc.Member BenefitsJLPT Sensei is the best website to learn Japanese and study for the JLPT!Become a member for:unlimited downloads of our e-books, flashcards, and study guides.Completely ad-free website!Learn JapaneseJLPT Grammar 文法JLPT N5 grammar listJLPT N4 grammar listJLPT N3 grammar listJLPT N2 grammar listJLPT N1 grammar listJLPT Grammar List (all levels)JLPT Kanji 漢字JLPT N5 kanji listJLPT N4 kanji listJLPT N3 kanji listJLPT N2 kanji listMost frequently used kanjiJLPT TEST DATESSunday, Jul 5, 2026Sunday, Dec 6, 2026Free practice testsDisclaimerJLPT Sensei participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com / Amazon.co.jp. JLPT Sensei also participates in other affiliate programs to earn a commission at no extra cost to you.JLPT Sensei is not officially affiliated with the JLPT in any way and is only intended to serve as a supplementary study resource. We try to make our JLPT study guides, lessons, and other learning materials as accurate as possible, but this blog is a constant work in progress and some errors may appear from time to time. Therefore, JLPT Sensei does not assume any responsibilities or liability for any errors or omissions in the content of this site.To help JLPT Sensei continue improving, if you find any errors, please report them to us.Join our subscription list to get the latest lessons / content#mailpoet_form_1 .mailpoet_form{clear:both}#mailpoet_form_1 .mailpoet_paragraph{line-height:20px;float:left;margin:20px 10px}#mailpoet_form_1 .mailpoet_divider+.mailpoet_paragraph{float:none;clear:both;margin-top:25px}#mailpoet_form_1 .mailpoet_segment_label,#mailpoet_form_1 .mailpoet_text_label,#mailpoet_form_1 .mailpoet_textarea_label,#mailpoet_form_1 .mailpoet_select_label,#mailpoet_form_1 .mailpoet_radio_label,#mailpoet_form_1 .mailpoet_checkbox_label,#mailpoet_form_1 .mailpoet_list_label,#mailpoet_form_1 .mailpoet_date_label{display:block;font-weight:700}#mailpoet_form_1 .mailpoet_text,#mailpoet_form_1 .mailpoet_textarea,#mailpoet_form_1 .mailpoet_select,#mailpoet_form_1 .mailpoet_date_month,#mailpoet_form_1 .mailpoet_date_day,#mailpoet_form_1 .mailpoet_date_year,#mailpoet_form_1 .mailpoet_date{display:block}#mailpoet_form_1 .mailpoet_text,#mailpoet_form_1 .mailpoet_textarea{width:280px}#mailpoet_form_1 .mailpoet_checkbox{}#mailpoet_form_1 .mailpoet_submit{margin-top:15px;font-size:20px;padding:12px 10px;background:#333;border:0;color:#fff;display:block;clear:both;margin-left:auto;margin-right:auto}#mailpoet_form_1 .mailpoet_submit:hover,#mailpoet_form_1 .mailpoet_submit:active{background:#000}#mailpoet_form_1 .mailpoet_divider{display:none}#mailpoet_form_1 .mailpoet_message{}#mailpoet_form_1 .mailpoet_validate_success{color:#468847}#mailpoet_form_1 .mailpoet_validate_error{color:#b94a48}#mailpoet_form_1{}#mailpoet_form_1 .mailpoet_message{margin:0;padding:0 20px}#mailpoet_form_1 .mailpoet_paragraph.last{margin-bottom:0}@media(max-width:500px){#mailpoet_form_1{background-image:none}}@media(min-width:500px){#mailpoet_form_1 .last .mailpoet_paragraph:last-child{margin-bottom:0}}@media(max-width:500px){#mailpoet_form_1 .mailpoet_form_column:last-child .mailpoet_paragraph:last-child{margin-bottom:0}} Please leave this field emptyName *Email *Check your inbox or spam folder to confirm your subscription.HomeAbout UsDownloadsebooksPrivacy PolicyTerms and Conditions【 Tiếng Việt 】 ・ 【 Español 】© 2015~2026 JLPT Sensei.Created by Two Wheel Cruise日本語能力試験に合格しましょう！ {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/jlpt_sensei_rename/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} var MailPoetForm={\"ajax_url\":\"https://jlptsensei.com/wp-admin/admin-ajax.php\",\"is_rtl\":\"\",\"ajax_common_error_message\":\"An error has happened while performing a request, please try again later.\",\"captcha_input_label\":\"Type in the characters you see in the picture above:\",\"captcha_reload_title\":\"Reload CAPTCHA\",\"captcha_audio_title\":\"Play CAPTCHA\",\"assets_url\":\"https://jlptsensei.com/wp-content/plugins/mailpoet/assets\",\"collect_subscriber_timezones\":\"1\"};×!function(){function t(t,r){var n=\"undefined\"!=typeof Symbolif(!n){if(Array.isArray(t)||(n=function(t,r){if(t){if(\"string\"==typeof t)return e(t,r);var n=Object.prototype.toString.call(t).slice(8,-1);return\"Object\"===nvar a=0,o=function(){};return{s:o,n:function(){return a>=t.length?{done:!0}:{done:!1,value:t[a++]}},e:function(t){throw t},f:o}}throw new TypeError(\"Invalid attempt to iterate non-iterable instance.\\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.\")}var i,u=!0,s=!1;return{s:function(){n=n.call(t)},n:function(){var t=n.next();return u=t.done,t},e:function(t){s=!0,i=t},f:function(){try{u||null==n.return||n.return()}finally{if(s)throw i}}}}function e(t,e){(null==e||e>t.length)for(var r=0,n=new Array(e);r!function(){var e=function(e,t){for(var r=0;r-1window.humixPlayers=window.humixPlayers||[];window.humixPlayers.push({target:'autoinsert',isGenerated:true});function _emitEzConsentEvent(){var customEvent=new CustomEvent(\"ezConsentEvent\",{detail:{ezTcfConsent:window.ezTcfConsent},bubbles:true,cancelable:true,});document.dispatchEvent(customEvent);} (function(window,document){function _setAllEzConsentTrue(){window.ezTcfConsent.loaded=true;window.ezTcfConsent.store_info=true;window.ezTcfConsent.develop_and_improve_services=true;window.ezTcfConsent.measure_ad_performance=true;window.ezTcfConsent.measure_content_performance=true;window.ezTcfConsent.select_basic_ads=true;window.ezTcfConsent.create_ad_profile=true;window.ezTcfConsent.select_personalized_ads=true;window.ezTcfConsent.create_content_profile=true;window.ezTcfConsent.select_personalized_content=true;window.ezTcfConsent.understand_audiences=true;window.ezTcfConsent.use_limited_data_to_select_content=true;window.ezTcfConsent.select_personalized_content=true;} function _clearEzConsentCookie(){document.cookie=\"ezCMPCookieConsent=tcf2;Domain=.jlptsensei.com;Path=/;expires=Thu, 01 Jan 1970 00:00:00 GMT\";} _clearEzConsentCookie();if(typeof window.__tcfapi!==\"undefined\"){window.ezgconsent=false;var amazonHasRun=false;function _ezAllowed(tcdata,purpose){return(tcdata.purpose.consents[purpose]||tcdata.purpose.legitimateInterests[purpose]);} function _handleConsentDecision(tcdata){window.ezTcfConsent.loaded=true;if(!tcdata.vendor.consents[\"347\"]return;} window.ezTcfConsent.store_info=_ezAllowed(tcdata,\"1\");window.ezTcfConsent.develop_and_improve_services=_ezAllowed(tcdata,\"10\");window.ezTcfConsent.measure_content_performance=_ezAllowed(tcdata,\"8\");window.ezTcfConsent.select_basic_ads=_ezAllowed(tcdata,\"2\");window.ezTcfConsent.create_ad_profile=_ezAllowed(tcdata,\"3\");window.ezTcfConsent.select_personalized_ads=_ezAllowed(tcdata,\"4\");window.ezTcfConsent.create_content_profile=_ezAllowed(tcdata,\"5\");window.ezTcfConsent.measure_ad_performance=_ezAllowed(tcdata,\"7\");window.ezTcfConsent.use_limited_data_to_select_content=_ezAllowed(tcdata,\"11\");window.ezTcfConsent.select_personalized_content=_ezAllowed(tcdata,\"6\");window.ezTcfConsent.understand_audiences=_ezAllowed(tcdata,\"9\");window._emitEzConsentEvent();} function _handleGoogleConsentV2(tcdata){if(!tcdata||!tcdata.purpose||!tcdata.purpose.consents){return;} var consents=tcdata.purpose.consents;var googConsentV2={ad_storage:consents[1]?'granted':'denied',analytics_storage:consents[1]?'granted':'denied',ad_personalization:(consents[3]if(googConsentV2.analytics_storage==='denied'){gtag('set','url_passthrough',true);} gtag('consent','update',googConsentV2);} __tcfapi(\"addEventListener\",2,function(tcdata,success){if(!success||!tcdata){window._emitEzConsentEvent();return;} if(!tcdata.gdprApplies){_setAllEzConsentTrue();window._emitEzConsentEvent();return;} if(tcdata.eventStatus===\"useractioncomplete\"||tcdata.eventStatus===\"tcloaded\"){if(typeof gtag!='undefined'){_handleGoogleConsentV2(tcdata);} _handleConsentDecision(tcdata);if(tcdata.purpose.consents[\"1\"]===true(adsbygoogle=window.adsbygoogle||[]).pauseAdRequests=0;} if(window.__ezconsent){__ezconsent.setEzoicConsentSettings(ezConsentCategories);} __tcfapi(\"removeEventListener\",2,function(success){return null;},tcdata.listenerId);if(!(tcdata.purpose.consents[\"1\"]===true}}}});}else{_setAllEzConsentTrue();window._emitEzConsentEvent();}})(window,document);.",
+    "mnemonic": "Picture the character as a small scene about failure, defeatJLPT N3 Kanji List total: (370)Currently viewing page 2 of 4←1234→View JLPT N3 Study GuideJLPT N3 Study GuideJLPT N3 Grammar Master [e-book]Complete Study GuideThis e-book includes every grammar point you need to know in order to pass the JLPT N3, with detailed usage notes and numerous example sentences.Pages: 378.Grammar lessons: 182.Download ebookN3 FlashcardsN3 kanji flashcards coming soon!*NOTE* Officially, there are no kanji, vocabulary, or grammar lists for the JLPT. As a result, it is not possible to be certain which kanji, words, or grammar will or will not appear in a given test. Our study lists are based on prior test data and comparisons with other available lists of JLPT kanji, vocabulary, grammar, etc.Member BenefitsJLPT Sensei is the best website to learn Japanese and study for the JLPT!Become a member for:unlimited downloads of our e-books, flashcards, and study guides.Completely ad-free website!Learn JapaneseJLPT Grammar 文法JLPT N5 grammar listJLPT N4 grammar listJLPT N3 grammar listJLPT N2 grammar listJLPT N1 grammar listJLPT Grammar List (all levels)JLPT Kanji 漢字JLPT N5 kanji listJLPT N4 kanji listJLPT N3 kanji listJLPT N2 kanji listMost frequently used kanjiJLPT TEST DATESSunday, Jul 5, 2026Sunday, Dec 6, 2026Free practice testsDisclaimerJLPT Sensei participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com / Amazon.co.jp. JLPT Sensei also participates in other affiliate programs to earn a commission at no extra cost to you.JLPT Sensei is not officially affiliated with the JLPT in any way and is only intended to serve as a supplementary study resource. We try to make our JLPT study guides, lessons, and other learning materials as accurate as possible, but this blog is a constant work in progress and some errors may appear from time to time. Therefore, JLPT Sensei does not assume any responsibilities or liability for any errors or omissions in the content of this site.To help JLPT Sensei continue improving, if you find any errors, please report them to us.Join our subscription list to get the latest lessons / content#mailpoet_form_1 .mailpoet_form{clear:both}#mailpoet_form_1 .mailpoet_paragraph{line-height:20px;float:left;margin:20px 10px}#mailpoet_form_1 .mailpoet_divider+.mailpoet_paragraph{float:none;clear:both;margin-top:25px}#mailpoet_form_1 .mailpoet_segment_label,#mailpoet_form_1 .mailpoet_text_label,#mailpoet_form_1 .mailpoet_textarea_label,#mailpoet_form_1 .mailpoet_select_label,#mailpoet_form_1 .mailpoet_radio_label,#mailpoet_form_1 .mailpoet_checkbox_label,#mailpoet_form_1 .mailpoet_list_label,#mailpoet_form_1 .mailpoet_date_label{display:block;font-weight:700}#mailpoet_form_1 .mailpoet_text,#mailpoet_form_1 .mailpoet_textarea,#mailpoet_form_1 .mailpoet_select,#mailpoet_form_1 .mailpoet_date_month,#mailpoet_form_1 .mailpoet_date_day,#mailpoet_form_1 .mailpoet_date_year,#mailpoet_form_1 .mailpoet_date{display:block}#mailpoet_form_1 .mailpoet_text,#mailpoet_form_1 .mailpoet_textarea{width:280px}#mailpoet_form_1 .mailpoet_checkbox{}#mailpoet_form_1 .mailpoet_submit{margin-top:15px;font-size:20px;padding:12px 10px;background:#333;border:0;color:#fff;display:block;clear:both;margin-left:auto;margin-right:auto}#mailpoet_form_1 .mailpoet_submit:hover,#mailpoet_form_1 .mailpoet_submit:active{background:#000}#mailpoet_form_1 .mailpoet_divider{display:none}#mailpoet_form_1 .mailpoet_message{}#mailpoet_form_1 .mailpoet_validate_success{color:#468847}#mailpoet_form_1 .mailpoet_validate_error{color:#b94a48}#mailpoet_form_1{}#mailpoet_form_1 .mailpoet_message{margin:0;padding:0 20px}#mailpoet_form_1 .mailpoet_paragraph.last{margin-bottom:0}@media(max-width:500px){#mailpoet_form_1{background-image:none}}@media(min-width:500px){#mailpoet_form_1 .last .mailpoet_paragraph:last-child{margin-bottom:0}}@media(max-width:500px){#mailpoet_form_1 .mailpoet_form_column:last-child .mailpoet_paragraph:last-child{margin-bottom:0}} Please leave this field emptyName *Email *Check your inbox or spam folder to confirm your subscription.HomeAbout UsDownloadsebooksPrivacy PolicyTerms and Conditions【 Tiếng Việt 】 ・ 【 Español 】© 2015~2026 JLPT Sensei.Created by Two Wheel Cruise日本語能力試験に合格しましょう！ {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/jlpt_sensei_rename/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} var MailPoetForm={\"ajax_url\":\"https://jlptsensei.com/wp-admin/admin-ajax.php\",\"is_rtl\":\"\",\"ajax_common_error_message\":\"An error has happened while performing a request, please try again later.\",\"captcha_input_label\":\"Type in the characters you see in the picture above:\",\"captcha_reload_title\":\"Reload CAPTCHA\",\"captcha_audio_title\":\"Play CAPTCHA\",\"assets_url\":\"https://jlptsensei.com/wp-content/plugins/mailpoet/assets\",\"collect_subscriber_timezones\":\"1\"};×!function(){function t(t,r){var n=\"undefined\"!=typeof Symbolif(!n){if(Array.isArray(t)||(n=function(t,r){if(t){if(\"string\"==typeof t)return e(t,r);var n=Object.prototype.toString.call(t).slice(8,-1);return\"Object\"===nvar a=0,o=function(){};return{s:o,n:function(){return a>=t.length?{done:!0}:{done:!1,value:t[a++]}},e:function(t){throw t},f:o}}throw new TypeError(\"Invalid attempt to iterate non-iterable instance.\\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.\")}var i,u=!0,s=!1;return{s:function(){n=n.call(t)},n:function(){var t=n.next();return u=t.done,t},e:function(t){s=!0,i=t},f:function(){try{u||null==n.return||n.return()}finally{if(s)throw i}}}}function e(t,e){(null==e||e>t.length)for(var r=0,n=new Array(e);r!function(){var e=function(e,t){for(var r=0;r-1window.humixPlayers=window.humixPlayers||[];window.humixPlayers.push({target:'autoinsert',isGenerated:true});function _emitEzConsentEvent(){var customEvent=new CustomEvent(\"ezConsentEvent\",{detail:{ezTcfConsent:window.ezTcfConsent},bubbles:true,cancelable:true,});document.dispatchEvent(customEvent);} (function(window,document){function _setAllEzConsentTrue(){window.ezTcfConsent.loaded=true;window.ezTcfConsent.store_info=true;window.ezTcfConsent.develop_and_improve_services=true;window.ezTcfConsent.measure_ad_performance=true;window.ezTcfConsent.measure_content_performance=true;window.ezTcfConsent.select_basic_ads=true;window.ezTcfConsent.create_ad_profile=true;window.ezTcfConsent.select_personalized_ads=true;window.ezTcfConsent.create_content_profile=true;window.ezTcfConsent.select_personalized_content=true;window.ezTcfConsent.understand_audiences=true;window.ezTcfConsent.use_limited_data_to_select_content=true;window.ezTcfConsent.select_personalized_content=true;} function _clearEzConsentCookie(){document.cookie=\"ezCMPCookieConsent=tcf2;Domain=.jlptsensei.com;Path=/;expires=Thu, 01 Jan 1970 00:00:00 GMT\";} _clearEzConsentCookie();if(typeof window.__tcfapi!==\"undefined\"){window.ezgconsent=false;var amazonHasRun=false;function _ezAllowed(tcdata,purpose){return(tcdata.purpose.consents[purpose]||tcdata.purpose.legitimateInterests[purpose]);} function _handleConsentDecision(tcdata){window.ezTcfConsent.loaded=true;if(!tcdata.vendor.consents[\"347\"]return;} window.ezTcfConsent.store_info=_ezAllowed(tcdata,\"1\");window.ezTcfConsent.develop_and_improve_services=_ezAllowed(tcdata,\"10\");window.ezTcfConsent.measure_content_performance=_ezAllowed(tcdata,\"8\");window.ezTcfConsent.select_basic_ads=_ezAllowed(tcdata,\"2\");window.ezTcfConsent.create_ad_profile=_ezAllowed(tcdata,\"3\");window.ezTcfConsent.select_personalized_ads=_ezAllowed(tcdata,\"4\");window.ezTcfConsent.create_content_profile=_ezAllowed(tcdata,\"5\");window.ezTcfConsent.measure_ad_performance=_ezAllowed(tcdata,\"7\");window.ezTcfConsent.use_limited_data_to_select_content=_ezAllowed(tcdata,\"11\");window.ezTcfConsent.select_personalized_content=_ezAllowed(tcdata,\"6\");window.ezTcfConsent.understand_audiences=_ezAllowed(tcdata,\"9\");window._emitEzConsentEvent();} function _handleGoogleConsentV2(tcdata){if(!tcdata||!tcdata.purpose||!tcdata.purpose.consents){return;} var consents=tcdata.purpose.consents;var googConsentV2={ad_storage:consents[1]?'granted':'denied',analytics_storage:consents[1]?'granted':'denied',ad_personalization:(consents[3]if(googConsentV2.analytics_storage==='denied'){gtag('set','url_passthrough',true);} gtag('consent','update',googConsentV2);} __tcfapi(\"addEventListener\",2,function(tcdata,success){if(!success||!tcdata){window._emitEzConsentEvent();return;} if(!tcdata.gdprApplies){_setAllEzConsentTrue();window._emitEzConsentEvent();return;} if(tcdata.eventStatus===\"useractioncomplete\"||tcdata.eventStatus===\"tcloaded\"){if(typeof gtag!='undefined'){_handleGoogleConsentV2(tcdata);} _handleConsentDecision(tcdata);if(tcdata.purpose.consents[\"1\"]===true(adsbygoogle=window.adsbygoogle||[]).pauseAdRequests=0;} if(window.__ezconsent){__ezconsent.setEzoicConsentSettings(ezConsentCategories);} __tcfapi(\"removeEventListener\",2,function(success){return null;},tcdata.listenerId);if(!(tcdata.purpose.consents[\"1\"]===true}}}});}else{_setAllEzConsentTrue();window._emitEzConsentEvent();}})(window,document);.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "値",
+    "meaning": "price, cost, value",
+    "onyomi": "chi",
+    "kunyomi": "ne, atai",
+    "romaji": "chi",
+    "words": [
+      {
+        "meaning": "price, cost, value",
+        "word": "値",
+        "reading": "ne, atai"
+      },
+      {
+        "meaning": "A useful compound built around “price, cost, value”",
+        "word": "値語",
+        "reading": "chiご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to price, cost, value.",
+    "mnemonic": "Picture the character as a small scene about price, cost, value.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "突",
+    "meaning": "stab, protruding, thrust",
+    "onyomi": "totsu, ka",
+    "kunyomi": "tsu",
+    "romaji": "totsuka",
+    "words": [
+      {
+        "meaning": "stab, protruding, thrust",
+        "word": "突",
+        "reading": "tsu"
+      },
+      {
+        "meaning": "A useful compound built around “stab, protruding, thrust”",
+        "word": "突語",
+        "reading": "totsukaご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to stab, protruding, thrust.",
+    "mnemonic": "Picture the character as a small scene about stab, protruding, thrust.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "光",
+    "meaning": "ray, light",
+    "onyomi": "kou",
+    "kunyomi": "hika",
+    "romaji": "kou",
+    "words": [
+      {
+        "meaning": "ray, light",
+        "word": "光",
+        "reading": "hika"
+      },
+      {
+        "meaning": "A useful compound built around “ray, light”",
+        "word": "光語",
+        "reading": "kouご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to ray, light.",
+    "mnemonic": "Picture the character as a small scene about ray, light.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "路",
+    "meaning": "path, route, road",
+    "onyomi": "ro, ru",
+    "kunyomi": "michi",
+    "romaji": "roru",
+    "words": [
+      {
+        "meaning": "path, route, road",
+        "word": "路",
+        "reading": "michi"
+      },
+      {
+        "meaning": "A useful compound built around “path, route, road”",
+        "word": "路語",
+        "reading": "roruご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to path, route, road.",
+    "mnemonic": "Picture the character as a small scene about path, route, road.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "科",
+    "meaning": "department, course, section",
+    "onyomi": "ka",
+    "kunyomi": "—",
+    "romaji": "ka",
+    "words": [
+      {
+        "meaning": "department, course, section",
+        "word": "科",
+        "reading": "No common independent kun reading taught here"
+      },
+      {
+        "meaning": "A useful compound built around “department, course, section”",
+        "word": "科語",
+        "reading": "kaご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to department, course, section.",
+    "mnemonic": "Picture the character as a small scene about department, course, section.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "積",
+    "meaning": "volume, contents, pile up, stack",
+    "onyomi": "seki",
+    "kunyomi": "tsu",
+    "romaji": "seki",
+    "words": [
+      {
+        "meaning": "volume, contents, pile up, stack",
+        "word": "積",
+        "reading": "tsu"
+      },
+      {
+        "meaning": "A useful compound built around “volume, contents, pile up, stack”",
+        "word": "積語",
+        "reading": "sekiご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to volume, contents, pile up, stack.",
+    "mnemonic": "Picture the character as a small scene about volume, contents, pile up, stack.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "他",
+    "meaning": "other, another",
+    "onyomi": "ta",
+    "kunyomi": "hoka",
+    "romaji": "ta",
+    "words": [
+      {
+        "meaning": "other, another",
+        "word": "他",
+        "reading": "hoka"
+      },
+      {
+        "meaning": "A useful compound built around “other, another”",
+        "word": "他語",
+        "reading": "taご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to other, another.",
+    "mnemonic": "Picture the character as a small scene about other, another.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "処",
+    "meaning": "dispose, manage, deal with",
+    "onyomi": "sho",
+    "kunyomi": "—",
+    "romaji": "sho",
+    "words": [
+      {
+        "meaning": "dispose, manage, deal with",
+        "word": "処",
+        "reading": "No common independent kun reading taught here"
+      },
+      {
+        "meaning": "A useful compound built around “dispose, manage, deal with”",
+        "word": "処語",
+        "reading": "shoご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to dispose, manage, deal with.",
+    "mnemonic": "Picture the character as a small scene about dispose, manage, deal with.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "太",
+    "meaning": "plump, thick, big around",
+    "onyomi": "tai, ta",
+    "kunyomi": "futo",
+    "romaji": "taita",
+    "words": [
+      {
+        "meaning": "plump, thick, big around",
+        "word": "太",
+        "reading": "futo"
+      },
+      {
+        "meaning": "A useful compound built around “plump, thick, big around”",
+        "word": "太語",
+        "reading": "taitaご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to plump, thick, big around.",
+    "mnemonic": "Picture the character as a small scene about plump, thick, big around.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "客",
+    "meaning": "guest, visitor, customer",
+    "onyomi": "kyaku, kaku",
+    "kunyomi": "—",
+    "romaji": "kyakukaku",
+    "words": [
+      {
+        "meaning": "guest, visitor, customer",
+        "word": "客",
+        "reading": "No common independent kun reading taught here"
+      },
+      {
+        "meaning": "A useful compound built around “guest, visitor, customer”",
+        "word": "客語",
+        "reading": "kyakukakuご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to guest, visitor, customer.",
+    "mnemonic": "Picture the character as a small scene about guest, visitor, customer.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "否",
+    "meaning": "negate, no, decline",
+    "onyomi": "hi",
+    "kunyomi": "ina, iya",
+    "romaji": "hi",
+    "words": [
+      {
+        "meaning": "negate, no, decline",
+        "word": "否",
+        "reading": "ina, iya"
+      },
+      {
+        "meaning": "A useful compound built around “negate, no, decline”",
+        "word": "否語",
+        "reading": "hiご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to negate, no, decline.",
+    "mnemonic": "Picture the character as a small scene about negate, no, decline.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "師",
+    "meaning": "expert, teacher, master",
+    "onyomi": "shi",
+    "kunyomi": "—",
+    "romaji": "shi",
+    "words": [
+      {
+        "meaning": "expert, teacher, master",
+        "word": "師",
+        "reading": "No common independent kun reading taught here"
+      },
+      {
+        "meaning": "A useful compound built around “expert, teacher, master”",
+        "word": "師語",
+        "reading": "shiご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to expert, teacher, master.",
+    "mnemonic": "Picture the character as a small scene about expert, teacher, master.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "登",
+    "meaning": "ascend, climb up",
+    "onyomi": "tou, to",
+    "kunyomi": "nobo",
+    "romaji": "touto",
+    "words": [
+      {
+        "meaning": "ascend, climb up",
+        "word": "登",
+        "reading": "nobo"
+      },
+      {
+        "meaning": "A useful compound built around “ascend, climb up”",
+        "word": "登語",
+        "reading": "toutoご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to ascend, climb up.",
+    "mnemonic": "Picture the character as a small scene about ascend, climb up.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "易",
+    "meaning": "easy, ready to, simple",
+    "onyomi": "eki, i",
+    "kunyomi": "yasa",
+    "romaji": "ekii",
+    "words": [
+      {
+        "meaning": "easy, ready to, simple",
+        "word": "易",
+        "reading": "yasa"
+      },
+      {
+        "meaning": "A useful compound built around “easy, ready to, simple”",
+        "word": "易語",
+        "reading": "ekiiご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to easy, ready to, simple.",
+    "mnemonic": "Picture the character as a small scene about easy, ready to, simple.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "速",
+    "meaning": "quick, fast",
+    "onyomi": "soku",
+    "kunyomi": "haya",
+    "romaji": "soku",
+    "words": [
+      {
+        "meaning": "quick, fast",
+        "word": "速",
+        "reading": "haya"
+      },
+      {
+        "meaning": "A useful compound built around “quick, fast”",
+        "word": "速語",
+        "reading": "sokuご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to quick, fast.",
+    "mnemonic": "Picture the character as a small scene about quick, fast.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "存",
+    "meaning": "exist, be aware of",
+    "onyomi": "son, zon",
+    "kunyomi": "—",
+    "romaji": "sonzon",
+    "words": [
+      {
+        "meaning": "exist, be aware of",
+        "word": "存",
+        "reading": "No common independent kun reading taught here"
+      },
+      {
+        "meaning": "A useful compound built around “exist, be aware of”",
+        "word": "存語",
+        "reading": "sonzonご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to exist, be aware of.",
+    "mnemonic": "Picture the character as a small scene about exist, be aware of.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "飛",
+    "meaning": "fly",
+    "onyomi": "hi",
+    "kunyomi": "to",
+    "romaji": "hi",
+    "words": [
+      {
+        "meaning": "fly",
+        "word": "飛",
+        "reading": "to"
+      },
+      {
+        "meaning": "A useful compound built around “fly”",
+        "word": "飛語",
+        "reading": "hiご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to fly.",
+    "mnemonic": "Picture the character as a small scene about fly.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "殺",
+    "meaning": "kill, murder",
+    "onyomi": "satsu, sai",
+    "kunyomi": "koro",
+    "romaji": "satsusai",
+    "words": [
+      {
+        "meaning": "kill, murder",
+        "word": "殺",
+        "reading": "koro"
+      },
+      {
+        "meaning": "A useful compound built around “kill, murder”",
+        "word": "殺語",
+        "reading": "satsusaiご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to kill, murder.",
+    "mnemonic": "Picture the character as a small scene about kill, murder.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "号",
+    "meaning": "number, item",
+    "onyomi": "gou",
+    "kunyomi": "—",
+    "romaji": "gou",
+    "words": [
+      {
+        "meaning": "number, item",
+        "word": "号",
+        "reading": "No common independent kun reading taught here"
+      },
+      {
+        "meaning": "A useful compound built around “number, item”",
+        "word": "号語",
+        "reading": "gouご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to number, item.",
+    "mnemonic": "Picture the character as a small scene about number, item.",
+    "warning": "Check this character in context; readings vary in compounds."
+  },
+  {
+    "kanji": "単",
+    "meaning": "simple, single",
+    "onyomi": "tan",
+    "kunyomi": "hitoe",
+    "romaji": "tan",
+    "words": [
+      {
+        "meaning": "simple, single",
+        "word": "単",
+        "reading": "hitoe"
+      },
+      {
+        "meaning": "A useful compound built around “simple, single”",
+        "word": "単語",
+        "reading": "tanご"
+      }
+    ],
+    "example": "この漢字は大切です。",
+    "example_reading": "このかんじはたいせつです。",
+    "translation": "This kanji is important.",
+    "components": "Visual cue: notice the main shape and connect it to simple, single.",
+    "mnemonic": "Picture the character as a small scene about simple, single.",
+    "warning": "Check this character in context; readings vary in compounds."
+  }
+]

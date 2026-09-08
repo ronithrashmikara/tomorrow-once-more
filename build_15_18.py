@@ -1,0 +1,8 @@
+import json
+def mk(w,r,ro,m,p,e,er,eo,tr,u,n): return {'word':w,'reading':r,'romaji':ro,'meaning':m,'pos':p,'usage':u,'example':e,'example_reading':er,'example_romaji':eo,'translation':tr,'nuance':n}
+def out(i,title,overview,rows):
+    items=[mk(*x) for x in rows]
+    ex=[{'type':'meaning','question':f'What does {rows[0][0]} mean?','options':[rows[0][3],rows[1][3],'pain','sleep'],'answer':rows[0][3],'explanation':f'{rows[0][0]} means {rows[0][3]}.'},{'type':'reading','question':f'Reading of {rows[4][0]}?','options':[rows[4][1],rows[5][1],rows[6][1],rows[7][1]],'answer':rows[4][1],'explanation':f'{rows[4][0]} is read {rows[4][1]}.'},{'type':'collocation','question':f'Complete: {rows[8][0]}を＿＿。','options':['受ける','食べる','泳ぐ','赤い'],'answer':'受ける','explanation':f'{rows[8][0]}を受ける is the natural phrase.'},{'type':'translation','question':f'Translate: {rows[10][5]}','answer':rows[10][9],'explanation':f'The sentence uses {rows[10][0]}.'},{'type':'particle','question':f'Choose: {rows[12][0]}＿＿なる。','options':['に','を','が','で'],'answer':'に','explanation':'The change-of-state pattern uses に.'},{'type':'contrast','question':f'Which word means {rows[-1][3]}?','options':[rows[-1][0],rows[-2][0],rows[0][0],rows[1][0]],'answer':rows[-1][0],'explanation':f'{rows[-1][0]} means {rows[-1][3]}.'}]
+    json.dump({'id':i,'title':title,'overview':overview,'items':items,'exercises':ex},open(f'content/vocab_{i}.json','w',encoding='utf8'),ensure_ascii=False,indent=2)
+def R(w,r,ro,m,p,e,er,eo,tr,u,n): return (w,r,ro,m,p,e,er,eo,tr,u,n)
+out(15,'Feelings','Vocabulary for emotions, reactions, hopes, and states of mind.',[

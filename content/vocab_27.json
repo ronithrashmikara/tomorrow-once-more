@@ -1,0 +1,115 @@
+{
+  "id": 27,
+  "title": "Decisions and actions",
+  "overview": "Practical N3 vocabulary with contextual examples.",
+  "items": [
+    {
+      "word": "決める",
+      "reading": "きめる",
+      "romaji": "kimeru",
+      "meaning": "decide",
+      "pos": "transitive verb",
+      "usage": "日程を決める",
+      "example": "旅行の日程を決めた。",
+      "example_reading": "りょこうのにっていをきめた。",
+      "example_romaji": "Ryokou no nittei o kimeta.",
+      "translation": "I decided the travel schedule.",
+      "nuance": "決める takes the chosen thing as を."
+    },
+    {
+      "word": "決まる",
+      "reading": "きまる",
+      "romaji": "kimaru",
+      "meaning": "be decided",
+      "pos": "intransitive verb",
+      "usage": "日程が決まる",
+      "example": "会議の日程が決まった。",
+      "example_reading": "かいぎのにっていがきまった。",
+      "example_romaji": "Kaigi no nittei ga kimatta.",
+      "translation": "The meeting schedule was decided.",
+      "nuance": "決まる describes a decision becoming settled."
+    },
+    {
+      "word": "選択",
+      "reading": "せんたく",
+      "romaji": "sentaku",
+      "meaning": "choice; selection",
+      "pos": "noun/suru verb",
+      "usage": "選択肢を選ぶ",
+      "example": "最適な選択を考えた。",
+      "example_reading": "さいてきなせんたくをかんがえた。",
+      "example_romaji": "Saiteki na sentaku o kangaeta.",
+      "translation": "I considered the best choice.",
+      "nuance": "選択 is a choice among alternatives."
+    },
+    {
+      "word": "判断する",
+      "reading": "はんだんする",
+      "romaji": "handan suru",
+      "meaning": "judge; decide",
+      "pos": "suru verb",
+      "usage": "状況を判断する",
+      "example": "情報を集めて判断する。",
+      "example_reading": "じょうほうをあつめてはんだんする。",
+      "example_romaji": "Jouhou o atsumete handan suru.",
+      "translation": "I gather information and make a judgment.",
+      "nuance": "判断する means reach a judgment based on information."
+    },
+    {
+      "word": "考慮",
+      "reading": "こうりょ",
+      "romaji": "kouryo",
+      "meaning": "consideration",
+      "pos": "noun/suru verb",
+      "usage": "事情を考慮する",
+      "example": "安全を考慮して計画を変更した。",
+      "example_reading": "あんぜんをこうりょしてけいかくをへんこうした。",
+      "example_romaji": "Anzen o kouryo shite keikaku o henkou shita.",
+      "translation": "I changed the plan with safety in mind.",
+      "nuance": "考慮する means take a factor into account."
+    },
+    {
+      "word": "比較する",
+      "reading": "ひかくする",
+      "romaji": "hikaku suru",
+      "meaning": "compare",
+      "pos": "suru verb",
+      "usage": "価格を比較する",
+      "example": "二つの案を比較して選んだ。",
+      "example_reading": "ふたつのあんをひかくしてえらんだ。",
+      "example_romaji": "Futatsu no an o hikaku shite eranda.",
+      "translation": "I compared the two proposals and chose one.",
+      "nuance": "比較する directly compares two or more things."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "meaning",
+      "question": "What does 考慮 mean?",
+      "options": [
+        "consideration",
+        "choice",
+        "execution"
+      ],
+      "answer": "consideration",
+      "explanation": "考慮 means consideration."
+    },
+    {
+      "type": "reading",
+      "question": "Reading of 決まる?",
+      "options": [
+        "きまる",
+        "きめる",
+        "けつまる"
+      ],
+      "answer": "きまる",
+      "explanation": "決まる is read きまる."
+    },
+    {
+      "type": "translation",
+      "question": "Translate: 二つの案を比較して選んだ。",
+      "answer": "I compared the two proposals and chose one.",
+      "explanation": "比較する means compare."
+    }
+  ]
+}

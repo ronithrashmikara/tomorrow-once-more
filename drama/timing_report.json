@@ -1,0 +1,11 @@
+{
+  "scenes": 24,
+  "dialogue_lines": 1032,
+  "kana_characters": 12103,
+  "kana_rate": 270,
+  "speech_seconds": 2689.555555555555,
+  "turn_spacing_seconds": 464.40000000000003,
+  "action_seconds": 446.04444444444476,
+  "total_estimated_seconds": 3600.000000000005,
+  "measured": false
+}

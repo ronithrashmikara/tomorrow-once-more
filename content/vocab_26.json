@@ -1,0 +1,115 @@
+{
+  "id": 26,
+  "title": "Quantities and comparison",
+  "overview": "Practical N3 vocabulary with contextual examples.",
+  "items": [
+    {
+      "word": "数量",
+      "reading": "すうりょう",
+      "romaji": "suuryou",
+      "meaning": "quantity",
+      "pos": "noun",
+      "usage": "数量を確認する",
+      "example": "注文の数量を確認した。",
+      "example_reading": "ちゅうもんのすうりょうをかくにんした。",
+      "example_romaji": "Chuumon no suuryou o kakunin shita.",
+      "translation": "I checked the quantity in the order.",
+      "nuance": "数量 is a measured amount of items."
+    },
+    {
+      "word": "割合",
+      "reading": "わりあい",
+      "romaji": "wariai",
+      "meaning": "ratio; percentage",
+      "pos": "noun",
+      "usage": "割合が高い",
+      "example": "学生の割合が増えている。",
+      "example_reading": "がくせいのわりあいがふえている。",
+      "example_romaji": "Gakusei no wariai ga fuete iru.",
+      "translation": "The proportion of students is increasing.",
+      "nuance": "割合 expresses a proportion or percentage."
+    },
+    {
+      "word": "平均",
+      "reading": "へいきん",
+      "romaji": "heikin",
+      "meaning": "average",
+      "pos": "noun/suru verb",
+      "usage": "平均気温",
+      "example": "今月の平均気温を調べた。",
+      "example_reading": "こんげつのへいきんきおんをしらべた。",
+      "example_romaji": "Kongetsu no heikin kion o shirabeta.",
+      "translation": "I looked up this month’s average temperature.",
+      "nuance": "平均 is the statistical average."
+    },
+    {
+      "word": "最大",
+      "reading": "さいだい",
+      "romaji": "saidai",
+      "meaning": "maximum",
+      "pos": "noun/な-adjective",
+      "usage": "最大三人",
+      "example": "最大三人まで入室できます。",
+      "example_reading": "さいだいさんにんまではいしつできます。",
+      "example_romaji": "Saidai sannin made nyuushitsu dekimasu.",
+      "translation": "Up to three people may enter.",
+      "nuance": "最大 indicates the upper limit."
+    },
+    {
+      "word": "最小",
+      "reading": "さいしょう",
+      "romaji": "saishou",
+      "meaning": "minimum",
+      "pos": "noun/な-adjective",
+      "usage": "最小限",
+      "example": "最小サイズを選んだ。",
+      "example_reading": "さいしょうさいずをえらんだ。",
+      "example_romaji": "Saishou saizu o eranda.",
+      "translation": "I chose the smallest size.",
+      "nuance": "最小 indicates the lower limit."
+    },
+    {
+      "word": "増減",
+      "reading": "ぞうげん",
+      "romaji": "zougen",
+      "meaning": "increase or decrease",
+      "pos": "noun/suru verb",
+      "usage": "増減を記録する",
+      "example": "価格の増減を毎月記録する。",
+      "example_reading": "かかくのぞうげんをまいつききろくする。",
+      "example_romaji": "Kakaku no zougen o maitsuki kiroku suru.",
+      "translation": "We record price increases and decreases each month.",
+      "nuance": "増減 covers either an increase or a decrease."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "meaning",
+      "question": "What does 平均 mean?",
+      "options": [
+        "average",
+        "maximum",
+        "quantity"
+      ],
+      "answer": "average",
+      "explanation": "平均 means average."
+    },
+    {
+      "type": "reading",
+      "question": "Reading of 数量?",
+      "options": [
+        "すうりょう",
+        "すりょう",
+        "かずりょう"
+      ],
+      "answer": "すうりょう",
+      "explanation": "数量 is read すうりょう."
+    },
+    {
+      "type": "translation",
+      "question": "Translate: 最小サイズを選んだ。",
+      "answer": "I chose the smallest size.",
+      "explanation": "最小 means minimum."
+    }
+  ]
+}

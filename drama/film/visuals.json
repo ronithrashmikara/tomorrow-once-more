@@ -1,0 +1,12 @@
+{
+  "default_mode": "white",
+  "backgrounds": {
+    "01": "bedroom_dawn.png",
+    "02": "family_cafe_morning.png",
+    "03": "cafe_kitchen.png",
+    "04": "rainy_lane.png",
+    "05": "station_convenience.png",
+    "06": "family_cafe_evening.png"
+  },
+  "notes": "Put 16:9 PNG/JPG scenery in film/backgrounds. White mode is the clean study layout. Scenic mode lightly washes the scenery so kana and English captions remain easy to read."
+}

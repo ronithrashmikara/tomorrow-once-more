@@ -1,0 +1,24 @@
+[
+  {
+    "key": "01",
+    "en": "A new morning",
+    "jp": "あたらしい あさ",
+    "location": "Cafe bedroom, dawn",
+    "blocks": [
+      {
+        "type": "dialogue",
+        "speaker": "あおい",
+        "id": "S01-L001",
+        "jp": "おはよう。",
+        "en": "Good morning."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "みさき",
+        "id": "S01-L002",
+        "jp": "おはよう、あおい。",
+        "en": "Good morning, Aoi."
+      }
+    ]
+  }
+]

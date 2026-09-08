@@ -1,0 +1,16 @@
+import json
+from pathlib import Path
+f=Path('content/grammar.json'); d=json.loads(f.read_text(encoding='utf8'))
+def put(p,m,form,rows):
+    i=next(i for l in d['lessons'] for i in l['items'] if i['pattern']==p)
+    i.update(meaning=m,formation=form,usage='Use this form in the relationship shown.',register='neutral',nuance='Context determines the force.',examples=[{'jp':a,'reading':r,'romaji':ro,'en':e} for a,r,ro,e in rows],mistake='Check attachment and polarity.',comparison='Distinguish nearby forms by evidence or intention.',question={'prompt':'Choose the expression that fits.','options':[p,'ために','以来','ばかり'],'answer':p,'explanation':'The context requires this form.'})
+S={}
+S['ようだ']=('seems; appears','Plain form + ようだ',[('外は静かなようだ。','そとはしずかなようだ。','Soto wa shizuka na yō da.','It seems quiet outside.'),('彼は何か知っているようだ。','かれはなにかしっているようだ。','Kare wa nanika shitte iru yō da.','He seems to know something.'),('夢を見ているような気分だ。','ゆめをみているようなきぶんだ。','Yume o mite iru yō na kibun da.','I feel as though I am dreaming.')])
+S['みたいだ']=('seems; looks like','Plain form + みたいだ',[('今日は休みみたいだ。','きょうはやすみみたいだ。','Kyō wa yasumi mitai da.','It looks like today is a holiday.'),('猫みたいな声が聞こえた。','ねこみたいなこえがきこえた。','Neko mitai na koe ga kikoeta.','I heard a cat-like voice.'),('彼は学生みたいだ。','かれはがくせいみたいだ。','Kare wa gakusei mitai da.','He seems to be a student.')])
+S['らしい']=('apparently; characteristic of','Plain form + らしい',[('明日は雪らしい。','あしたはゆきらしい。','Ashita wa yuki rashii.','Apparently it will snow tomorrow.'),('彼は日本人らしい話し方をする。','かれはにほんじんらしいはなしかたをする。','Kare wa nihonjin rashii hanashikata o suru.','He speaks in a typically Japanese way.'),('あの店は人気らしい。','あのみせはにんきらしい。','Ano mise wa ninki rashii.','Apparently that shop is popular.')])
+S['かもしれない']=('might; may','Plain form + かもしれない',[('明日は雨かもしれない。','あしたはあめかもしれない。','Ashita wa ame kamo shirenai.','It might rain tomorrow.'),('彼はもう帰ったかもしれません。','かれはもうかえったかもしれません。','Kare wa mō kaetta kamo shiremasen.','He may have gone home.'),('この方法は危険かもしれない。','このほうほうはきけんかもしれない。','Kono hōhō wa kiken kamo shirenai.','This method might be dangerous.')])
+S['でしょう']=('probably; right?','Plain form + でしょう',[('明日は晴れるでしょう。','あしたははれるでしょう。','Ashita wa hareru deshō.','It will probably be sunny tomorrow.'),('この問題は難しいでしょう。','このもんだいはむずかしいでしょう。','Kono mondai wa muzukashii deshō.','This problem is probably difficult.'),('週末は混むでしょうね。','しゅうまつはこむでしょうね。','Shūmatsu wa komu deshō ne.','It will probably be crowded this weekend.')])
+S['べきだ']=('should; ought to','V dictionary + べきだ',[('約束は守るべきだ。','やくそくはまもるべきだ。','Yakusoku wa mamoru beki da.','One should keep promises.'),('もっと休むべきです。','もっとやすむべきです。','Motto yasumu beki desu.','You should rest more.'),('学生は勉強するべきだ。','がくせいはべんきょうするべきだ。','Gakusei wa benkyō suru beki da.','Students ought to study.')])
+S['べきではない']=('should not','V dictionary + べきではない',[('人を外見で判断すべきではない。','ひとをがいけんではんだんすべきではない。','Hito o gaiken de handan subeki de wa nai.','One should not judge by appearance.'),('ここで写真を撮るべきではありません。','ここでしゃしんをとるべきではありません。','Koko de shashin o toru beki de wa arimasen.','You should not take photos here.'),('無理をするべきではない。','むりをするべきではない。','Muri o suru beki de wa nai.','You should not overdo it.')])
+for p,(m,form,rows) in S.items(): put(p,m,form,rows)
+f.write_text(json.dumps(d,ensure_ascii=False,indent=2),encoding='utf8'); print('patched',len(S))

@@ -1,0 +1,24 @@
+# Generated media and local caches
+/output/*.mp4
+/output/*.zip
+/drama/asr_models/
+/drama/__pycache__/
+/drama/film/__pycache__/
+/drama/film/audio/
+/drama/film/wav/
+/drama/film/*.wav
+/drama/film/frames/
+/drama/benchmark/
+/drama/production/
+/tmp/
+
+# Private runtime state and credentials
+.env
+.env.*
+*.log
+drama/budget_15.json
+
+# Python and Node build products
+__pycache__/
+*.py[cod]
+node_modules/

@@ -1,0 +1,1766 @@
+[
+  {
+    "lesson": 1,
+    "pattern": "つもりだ",
+    "meaning": "intend to; intend not to",
+    "formation": "V dictionary / Vない + つもりだ",
+    "usage": "State a plan you currently intend to carry out.",
+    "nuance": "An intention is not a confirmed external arrangement. Vないつもり means intending not to do; Vつもりはない denies an intention.",
+    "mistake": "Do not use Vます before つもり.",
+    "comparison": "ことにする focuses on deciding; つもり describes the resulting intention.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "夏休みに日本へ行くつもりです。",
+        "reading": "なつやすみににほんへいくつもりです。",
+        "romaji": "Natsuyasumi ni Nihon e iku tsumori desu.",
+        "en": "I intend to go to Japan during the summer vacation."
+      },
+      {
+        "jp": "今日はお酒を飲まないつもりだ。",
+        "reading": "きょうはおさけをのまないつもりだ。",
+        "romaji": "Kyou wa osake o nomanai tsumori da.",
+        "en": "I intend not to drink alcohol today."
+      },
+      {
+        "jp": "急いで決めるつもりはありません。",
+        "reading": "いそいできめるつもりはありません。",
+        "romaji": "Isoide kimeru tsumori wa arimasen.",
+        "en": "I have no intention of deciding in a hurry."
+      }
+    ],
+    "question": {
+      "prompt": "来年、留学（する / します / して / し）つもりです。",
+      "options": [
+        "する",
+        "します",
+        "して",
+        "し"
+      ],
+      "answer": "する",
+      "explanation": "つもり takes the dictionary form for an affirmative intention."
+    }
+  },
+  {
+    "lesson": 5,
+    "pattern": "ぶりに",
+    "meaning": "for the first time in a period",
+    "formation": "Duration + ぶりに; Duration + ぶりの + N",
+    "usage": "Describe doing something again after a gap.",
+    "nuance": "The gap is measured from the last occurrence; it is not a duration spent doing the action.",
+    "mistake": "三年ぶり means after three years, not for three years.",
+    "comparison": "以来 marks continuity since a starting event; ぶり marks a return after absence.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "三年ぶりに高校の友達に会った。",
+        "reading": "さんねんぶりにこうこうのともだちにあった。",
+        "romaji": "Sannen buri ni koukou no tomodachi ni atta.",
+        "en": "I met my high-school friend for the first time in three years."
+      },
+      {
+        "jp": "久しぶりに母の料理を食べました。",
+        "reading": "ひさしぶりにははのりょうりをたべました。",
+        "romaji": "Hisashiburi ni haha no ryouri o tabemashita.",
+        "en": "I ate my mother’s cooking for the first time in a long while."
+      },
+      {
+        "jp": "これは十年ぶりの旅行です。",
+        "reading": "これはじゅうねんぶりのりょこうです。",
+        "romaji": "Kore wa juunen buri no ryokou desu.",
+        "en": "This is my first trip in ten years."
+      }
+    ],
+    "question": {
+      "prompt": "五年（ぶりに / ぶりの / ぶりな / ぶりで）故郷へ帰った。",
+      "options": [
+        "ぶりに",
+        "ぶりの",
+        "ぶりな",
+        "ぶりで"
+      ],
+      "answer": "ぶりに",
+      "explanation": "Use に to modify the action 帰った; の is used before a noun."
+    }
+  },
+  {
+    "lesson": 5,
+    "pattern": "おきに",
+    "meaning": "at intervals of; every other unit in some calendar expressions",
+    "formation": "Time/space interval + おきに",
+    "usage": "State a regular gap or spacing.",
+    "nuance": "一日おき means every other day. With time expressions such as 一時間おき, usage can mean every hour; use explicit clock times when scheduling must be exact.",
+    "mistake": "Do not confuse 一日おき (one day between events) with 毎日 (daily).",
+    "comparison": "ごとに highlights each unit or occurrence; おきに highlights spacing.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "この花には一日おきに水をやります。",
+        "reading": "このはなにはいちにちおきにみずをやります。",
+        "romaji": "Kono hana ni wa ichinichi oki ni mizu o yarimasu.",
+        "en": "I water these flowers every other day."
+      },
+      {
+        "jp": "道に十メートルおきに木が植えてある。",
+        "reading": "みちにじゅうメートルおきにきがうえてある。",
+        "romaji": "Michi ni juu meetoru oki ni ki ga uete aru.",
+        "en": "Trees are planted along the road at ten-meter intervals."
+      },
+      {
+        "jp": "一行おきに名前を書いてください。",
+        "reading": "いちぎょうおきになまえをかいてください。",
+        "romaji": "Ichigyou oki ni namae o kaite kudasai.",
+        "en": "Please write the names on every other line."
+      }
+    ],
+    "question": {
+      "prompt": "月曜日に水をやり、その後も一日おきにやります。次はいつですか。",
+      "options": [
+        "火曜日",
+        "水曜日",
+        "木曜日",
+        "金曜日"
+      ],
+      "answer": "水曜日",
+      "explanation": "One day is left between Monday and Wednesday."
+    }
+  },
+  {
+    "lesson": 6,
+    "pattern": "たて",
+    "meaning": "freshly done",
+    "formation": "V stem + たて; V stem + たての + N",
+    "usage": "Describe the fresh state immediately after an action.",
+    "nuance": "Often used with food and recently acquired states: 焼きたて, 入りたて. It cannot freely replace every use of たばかり.",
+    "mistake": "Use 焼きたて, not 焼いたて.",
+    "comparison": "たばかり stresses how recent an event feels; たて emphasizes freshness/newness.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "焼きたてのパンを買いました。",
+        "reading": "やきたてのパンをかいました。",
+        "romaji": "Yakitate no pan o kaimashita.",
+        "en": "I bought freshly baked bread."
+      },
+      {
+        "jp": "このご飯は炊きたてです。",
+        "reading": "このごはんはたきたてです。",
+        "romaji": "Kono gohan wa takitate desu.",
+        "en": "This rice is freshly cooked."
+      },
+      {
+        "jp": "入りたてのころは、何も分かりませんでした。",
+        "reading": "はいりたてのころは、なにもわかりませんでした。",
+        "romaji": "Hairitate no koro wa, nani mo wakarimasen deshita.",
+        "en": "When I had just joined, I did not understand anything."
+      }
+    ],
+    "question": {
+      "prompt": "（焼き / 焼く / 焼いた / 焼いて）たてのパンは温かい。",
+      "options": [
+        "焼き",
+        "焼く",
+        "焼いた",
+        "焼いて"
+      ],
+      "answer": "焼き",
+      "explanation": "Attach たて to the ます stem."
+    }
+  },
+  {
+    "lesson": 7,
+    "pattern": "ばよかった",
+    "meaning": "should have; wish I had",
+    "formation": "Vば + よかった; Vなければ + よかった",
+    "usage": "Look back with regret at a different choice.",
+    "nuance": "The action in the conditional is typically what did not happen.",
+    "mistake": "The positive ば version often regrets not doing; the negative なければ version regrets doing.",
+    "comparison": "たらどう suggests a future action; ばよかった evaluates a past choice.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "傘を持ってくればよかった。",
+        "reading": "かさをもってくればよかった。",
+        "romaji": "Kasa o motte kureba yokatta.",
+        "en": "I wish I had brought an umbrella."
+      },
+      {
+        "jp": "あんなことを言わなければよかった。",
+        "reading": "あんなことをいわなければよかった。",
+        "romaji": "Anna koto o iwanakereba yokatta.",
+        "en": "I wish I had not said that."
+      },
+      {
+        "jp": "もっと早く予約すればよかったです。",
+        "reading": "もっとはやくよやくすればよかったです。",
+        "romaji": "Motto hayaku yoyaku sureba yokatta desu.",
+        "en": "I should have booked earlier."
+      }
+    ],
+    "question": {
+      "prompt": "遅刻した。もっと早く家を（出れば / 出るなら / 出て / 出ます）よかった。",
+      "options": [
+        "出れば",
+        "出るなら",
+        "出て",
+        "出ます"
+      ],
+      "answer": "出れば",
+      "explanation": "ばよかった expresses regret about not leaving earlier."
+    }
+  },
+  {
+    "lesson": 10,
+    "pattern": "ものの",
+    "meaning": "although; despite the fact",
+    "formation": "V/い-adj plain + ものの; な-adj + なものの; N + であるものの",
+    "usage": "Acknowledge a fact, then present an unexpected limitation or result.",
+    "nuance": "The first clause is accepted as true. It often sounds more written and restrained than のに.",
+    "mistake": "A noun normally needs である here, not noun + なものの.",
+    "comparison": "のに often carries stronger disappointment; ものの can report contrast calmly.",
+    "register": "mostly written or careful speech",
+    "examples": [
+      {
+        "jp": "本を買ったものの、まだ読んでいません。",
+        "reading": "ほんをかったものの、まだよんでいません。",
+        "romaji": "Hon o katta mono no, mada yonde imasen.",
+        "en": "Although I bought the book, I have not read it yet."
+      },
+      {
+        "jp": "便利なものの、少し高すぎます。",
+        "reading": "べんりなものの、すこしたかすぎます。",
+        "romaji": "Benri na mono no, sukoshi takasugimasu.",
+        "en": "Although it is convenient, it is a little too expensive."
+      },
+      {
+        "jp": "説明は短かったものの、よく分かりました。",
+        "reading": "せつめいはみじかかったものの、よくわかりました。",
+        "romaji": "Setsumei wa mijikakatta mono no, yoku wakarimashita.",
+        "en": "Although the explanation was brief, I understood it well."
+      }
+    ],
+    "question": {
+      "prompt": "便利（な / の / に / だ）ものの、値段が高い。",
+      "options": [
+        "な",
+        "の",
+        "に",
+        "だ"
+      ],
+      "answer": "な",
+      "explanation": "A present affirmative な-adjective takes な before ものの."
+    }
+  },
+  {
+    "lesson": 10,
+    "pattern": "くせに",
+    "meaning": "even though; despite (criticism)",
+    "formation": "V/い-adj plain + くせに; な-adj + な; N + の",
+    "usage": "Criticize a mismatch between someone’s position/action and behavior.",
+    "nuance": "Usually directed at another person and can sound accusing or insulting.",
+    "mistake": "Do not use it for neutral polite contrast with a customer; choose のに/けれども.",
+    "comparison": "のに can express surprise or disappointment without the accusing tone of くせに.",
+    "register": "casual and critical; use carefully",
+    "examples": [
+      {
+        "jp": "知っているくせに、教えてくれない。",
+        "reading": "しっているくせに、おしえてくれない。",
+        "romaji": "Shitte iru kuse ni, oshiete kurenai.",
+        "en": "Even though they know, they will not tell me."
+      },
+      {
+        "jp": "暇なくせに、手伝おうとしない。",
+        "reading": "ひまなくせに、てつだおうとしない。",
+        "romaji": "Hima na kuse ni, tetsudaou to shinai.",
+        "en": "They are free, yet they do not even try to help."
+      },
+      {
+        "jp": "約束したくせに、また遅れた。",
+        "reading": "やくそくしたくせに、またおくれた。",
+        "romaji": "Yakusoku shita kuse ni, mata okureta.",
+        "en": "Despite having promised, they were late again."
+      }
+    ],
+    "question": {
+      "prompt": "暇（な / の / に / を）くせに、手伝ってくれない。",
+      "options": [
+        "な",
+        "の",
+        "に",
+        "を"
+      ],
+      "answer": "な",
+      "explanation": "暇 is a な-adjective, so な links it to くせに."
+    }
+  },
+  {
+    "lesson": 10,
+    "pattern": "わりに",
+    "meaning": "considering; for; relatively unexpectedly",
+    "formation": "V/い-adj plain + わりに; な-adj + な; N + の",
+    "usage": "Compare the actual quality with the expectation from a known condition.",
+    "nuance": "The surprise can be positive or negative; the standard often has a range, such as price or age.",
+    "mistake": "Use 値段のわりに, not 値段なわりに.",
+    "comparison": "にしては often takes a concrete classification; わりに allows nouns with の and adjectives.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "この店は安いわりに、おいしいです。",
+        "reading": "このみせはやすいわりに、おいしいです。",
+        "romaji": "Kono mise wa yasui wari ni, oishii desu.",
+        "en": "This place is good considering how inexpensive it is."
+      },
+      {
+        "jp": "値段のわりに、丈夫なかばんです。",
+        "reading": "ねだんのわりに、じょうぶなかばんです。",
+        "romaji": "Nedan no wari ni, joubu na kaban desu.",
+        "en": "It is a sturdy bag for the price."
+      },
+      {
+        "jp": "練習したわりに、上手にできなかった。",
+        "reading": "れんしゅうしたわりに、じょうずにできなかった。",
+        "romaji": "Renshuu shita wari ni, jouzu ni dekinakatta.",
+        "en": "Considering how much I practiced, I did not do well."
+      }
+    ],
+    "question": {
+      "prompt": "値段（の / な / に / を）わりに、品質がいい。",
+      "options": [
+        "の",
+        "な",
+        "に",
+        "を"
+      ],
+      "answer": "の",
+      "explanation": "A noun takes の before わりに."
+    }
+  },
+  {
+    "lesson": 10,
+    "pattern": "にしては",
+    "meaning": "for; considering (unexpected standard)",
+    "formation": "V plain / N + にしては",
+    "usage": "Express that something is unexpected for the stated fact or category.",
+    "nuance": "The first clause supplies the benchmark, often a known fact rather than a hypothetical condition.",
+    "mistake": "Do not insert の after a noun: 初心者にしては.",
+    "comparison": "にとって states a standpoint without implying surprising performance.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "初心者にしては、発音がきれいです。",
+        "reading": "しょしんしゃにしては、はつおんがきれいです。",
+        "romaji": "Shoshinsha ni shite wa, hatsuon ga kirei desu.",
+        "en": "For a beginner, their pronunciation is clear."
+      },
+      {
+        "jp": "冬にしては、暖かい日ですね。",
+        "reading": "ふゆにしては、あたたかいひですね。",
+        "romaji": "Fuyu ni shite wa, atatakai hi desu ne.",
+        "en": "It is a warm day for winter, isn’t it?"
+      },
+      {
+        "jp": "初めて作ったにしては、よくできています。",
+        "reading": "はじめてつくったにしては、よくできています。",
+        "romaji": "Hajimete tsukutta ni shite wa, yoku dekite imasu.",
+        "en": "It is well made for a first attempt."
+      }
+    ],
+    "question": {
+      "prompt": "初心者（にしては / のにしては / なにしては / をしては）、上手です。",
+      "options": [
+        "にしては",
+        "のにしては",
+        "なにしては",
+        "をしては"
+      ],
+      "answer": "にしては",
+      "explanation": "Attach directly to the noun category."
+    }
+  },
+  {
+    "lesson": 10,
+    "pattern": "といっても",
+    "meaning": "although I say; even though it is called",
+    "formation": "Plain clause + といっても; N/な-adj (だ) + といっても",
+    "usage": "Qualify a statement that might otherwise give an exaggerated impression.",
+    "nuance": "The second clause limits what the first wording suggests.",
+    "mistake": "It does not normally introduce an unrelated contrary fact; the qualification should explain the scope.",
+    "comparison": "ものの contrasts a fact and result; といっても corrects the listener’s likely interpretation.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "料理ができるといっても、簡単な物だけです。",
+        "reading": "りょうりができるといっても、かんたんなものだけです。",
+        "romaji": "Ryouri ga dekiru to itte mo, kantan na mono dake desu.",
+        "en": "Although I say I can cook, I can only make simple things."
+      },
+      {
+        "jp": "旅行といっても、隣の町へ行くだけです。",
+        "reading": "りょこうといっても、となりのまちへいくだけです。",
+        "romaji": "Ryokou to itte mo, tonari no machi e iku dake desu.",
+        "en": "Although I call it a trip, I am only going to the next town."
+      },
+      {
+        "jp": "忙しいといっても、休む時間はあります。",
+        "reading": "いそがしいといっても、やすむじかんはあります。",
+        "romaji": "Isogashii to itte mo, yasumu jikan wa arimasu.",
+        "en": "Although I am busy, I do have time to rest."
+      }
+    ],
+    "question": {
+      "prompt": "忙しい（といっても / にとっても / によっても / としての）、少しは休めます。",
+      "options": [
+        "といっても",
+        "にとっても",
+        "によっても",
+        "としての"
+      ],
+      "answer": "といっても",
+      "explanation": "The second clause limits the impression created by “busy.”"
+    }
+  },
+  {
+    "lesson": 11,
+    "pattern": "とは限らない",
+    "meaning": "not necessarily; not always",
+    "formation": "Plain clause + とは限らない; N/な-adj + だとは限らない",
+    "usage": "Reject a general rule or a conclusion that is not guaranteed.",
+    "nuance": "Some cases can still be true; this is not a complete denial.",
+    "mistake": "Do not translate it as never unless other context supplies that meaning.",
+    "comparison": "はずがない strongly rejects a possibility; とは限らない only denies certainty.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "高い物がよいとは限りません。",
+        "reading": "たかいものがよいとはかぎりません。",
+        "romaji": "Takai mono ga yoi to wa kagirimasen.",
+        "en": "Expensive things are not necessarily good."
+      },
+      {
+        "jp": "明日も晴れるとは限らない。",
+        "reading": "あしたもはれるとはかぎらない。",
+        "romaji": "Ashita mo hareru to wa kagiranai.",
+        "en": "It will not necessarily be sunny tomorrow too."
+      },
+      {
+        "jp": "静かな人が話すのを嫌いだとは限りません。",
+        "reading": "しずかなひとがはなすのをきらいだとはかぎりません。",
+        "romaji": "Shizuka na hito ga hanasu no o kirai da to wa kagirimasen.",
+        "en": "Quiet people do not necessarily dislike talking."
+      }
+    ],
+    "question": {
+      "prompt": "Choose the meaning of 毎回成功するとは限らない。",
+      "options": [
+        "Success is not guaranteed every time.",
+        "It never succeeds.",
+        "It always succeeds.",
+        "It must succeed."
+      ],
+      "answer": "Success is not guaranteed every time.",
+      "explanation": "The construction denies a universal guarantee, not every successful case."
+    }
+  },
+  {
+    "lesson": 12,
+    "pattern": "ないことはない",
+    "meaning": "it is not impossible; not entirely untrue",
+    "formation": "Vない / い-adj negative + ことはない; N/な-adj + ではないことはない",
+    "usage": "Offer a qualified positive through a double negative.",
+    "nuance": "Often suggests conditions, difficulty, or reluctance.",
+    "mistake": "Two negatives do not produce a simple negative statement; identify what remains possible.",
+    "comparison": "ことはない after a dictionary verb often reassures “no need to”; the preceding negative changes the logic.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "一人でもできないことはない。",
+        "reading": "ひとりでもできないことはない。",
+        "romaji": "Hitori demo dekinai koto wa nai.",
+        "en": "It is not impossible to do it alone."
+      },
+      {
+        "jp": "食べられないことはないが、好きではない。",
+        "reading": "たべられないことはないが、すきではない。",
+        "romaji": "Taberarenai koto wa nai ga, suki dewa nai.",
+        "en": "It is not that I cannot eat it, but I do not like it."
+      },
+      {
+        "jp": "その気持ちが分からないことはありません。",
+        "reading": "そのきもちがわからないことはありません。",
+        "romaji": "Sono kimochi ga wakaranai koto wa arimasen.",
+        "en": "It is not that I cannot understand that feeling."
+      }
+    ],
+    "question": {
+      "prompt": "できないことはない means:",
+      "options": [
+        "It may be possible, with reservations.",
+        "It is absolutely impossible.",
+        "It is always easy.",
+        "It has already been done."
+      ],
+      "answer": "It may be possible, with reservations.",
+      "explanation": "The second negative removes the absolute claim that it cannot be done."
+    }
+  },
+  {
+    "lesson": 12,
+    "pattern": "しかない",
+    "meaning": "have no choice but to",
+    "formation": "V dictionary + しかない",
+    "usage": "Present the only remaining feasible course of action.",
+    "nuance": "Often conveys resignation after alternatives have disappeared.",
+    "mistake": "Do not use the Vない form before しかない for this meaning.",
+    "comparison": "Nしかない means only N exists; Vしかない means no alternative but V.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "終電が出たので、歩いて帰るしかない。",
+        "reading": "しゅうでんがでたので、あるいてかえるしかない。",
+        "romaji": "Shuuden ga deta node, aruite kaeru shika nai.",
+        "en": "The last train has left, so I have no choice but to walk home."
+      },
+      {
+        "jp": "ここで待つしかありません。",
+        "reading": "ここでまつしかありません。",
+        "romaji": "Koko de matsu shika arimasen.",
+        "en": "There is nothing to do but wait here."
+      },
+      {
+        "jp": "間違えた所は、自分で直すしかない。",
+        "reading": "まちがえたところは、じぶんでなおすしかない。",
+        "romaji": "Machigaeta tokoro wa, jibun de naosu shika nai.",
+        "en": "I have no choice but to correct the parts I got wrong myself."
+      }
+    ],
+    "question": {
+      "prompt": "バスがないので、（歩く / 歩いて / 歩き / 歩きます）しかない。",
+      "options": [
+        "歩く",
+        "歩いて",
+        "歩き",
+        "歩きます"
+      ],
+      "answer": "歩く",
+      "explanation": "Use the dictionary form before しかない."
+    }
+  },
+  {
+    "lesson": 12,
+    "pattern": "ずに",
+    "meaning": "without doing",
+    "formation": "Vない minus ない + ずに; する → せずに; 来る → 来ずに（こずに）",
+    "usage": "Link an unperformed action to the action actually taken.",
+    "nuance": "A more written or compact alternative to ないで.",
+    "mistake": "する is せずに, not しずに.",
+    "comparison": "ないで is common in conversation; ずに is common in written descriptions too.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "朝ご飯を食べずに出かけました。",
+        "reading": "あさごはんをたべずにでかけました。",
+        "romaji": "Asagohan o tabezu ni dekakemashita.",
+        "en": "I went out without eating breakfast."
+      },
+      {
+        "jp": "誰にも相談せずに決めた。",
+        "reading": "だれにもそうだんせずにきめた。",
+        "romaji": "Dare ni mo soudan sezu ni kimeta.",
+        "en": "I decided without consulting anyone."
+      },
+      {
+        "jp": "辞書を見ずに答えてください。",
+        "reading": "じしょをみずにこたえてください。",
+        "romaji": "Jisho o mizu ni kotaete kudasai.",
+        "en": "Please answer without looking at a dictionary."
+      }
+    ],
+    "question": {
+      "prompt": "何も確認（せずに / しずに / するずに / したずに）、送ってしまった。",
+      "options": [
+        "せずに",
+        "しずに",
+        "するずに",
+        "したずに"
+      ],
+      "answer": "せずに",
+      "explanation": "する changes irregularly to せずに."
+    }
+  },
+  {
+    "lesson": 16,
+    "pattern": "ことだ（advice）",
+    "meaning": "should; the thing to do is",
+    "formation": "V dictionary / Vない + ことだ",
+    "usage": "Give general or practical advice about the best course of action.",
+    "nuance": "Can sound like an instructor stating a principle.",
+    "mistake": "Do not confuse advisory Vことだ with ordinary noun + ことです definitions.",
+    "comparison": "べきだ invokes what is proper; ことだ often offers practical wisdom.",
+    "register": "advisory; can sound authoritative",
+    "examples": [
+      {
+        "jp": "上達したいなら、毎日少し練習することです。",
+        "reading": "じょうたつしたいなら、まいにちすこしれんしゅうすることです。",
+        "romaji": "Joutatsu shitai nara, mainichi sukoshi renshuu suru koto desu.",
+        "en": "If you want to improve, you should practice a little every day."
+      },
+      {
+        "jp": "疲れたときは、無理をしないことだ。",
+        "reading": "つかれたときは、むりをしないことだ。",
+        "romaji": "Tsukareta toki wa, muri o shinai koto da.",
+        "en": "When you are tired, the thing to do is not push yourself."
+      },
+      {
+        "jp": "まず相手の話を聞くことです。",
+        "reading": "まずあいてのはなしをきくことです。",
+        "romaji": "Mazu aite no hanashi o kiku koto desu.",
+        "en": "First, you should listen to what the other person says."
+      }
+    ],
+    "question": {
+      "prompt": "上手になりたいなら、毎日（練習する / 練習します / 練習して / 練習し）ことだ。",
+      "options": [
+        "練習する",
+        "練習します",
+        "練習して",
+        "練習し"
+      ],
+      "answer": "練習する",
+      "explanation": "The advice construction uses a dictionary or negative plain verb."
+    }
+  },
+  {
+    "lesson": 17,
+    "pattern": "てもかまわない",
+    "meaning": "it is all right to; do not mind if",
+    "formation": "Vて + もかまわない; い-adjくて / N・な-adjで + もかまわない",
+    "usage": "Grant permission or state that a condition is acceptable.",
+    "nuance": "The speaker says it causes no objection, rather than actively recommends it.",
+    "mistake": "Do not infer obligation: permission means the action is allowed, not required.",
+    "comparison": "てもいい is a more everyday equivalent; てもかまわない may sound slightly more formal.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "ここに座ってもかまいませんか。",
+        "reading": "ここにすわってもかまいませんか。",
+        "romaji": "Koko ni suwatte mo kamaimasen ka.",
+        "en": "Would it be all right if I sat here?"
+      },
+      {
+        "jp": "少し遅くなってもかまいません。",
+        "reading": "すこしおそくなってもかまいません。",
+        "romaji": "Sukoshi osoku natte mo kamaimasen.",
+        "en": "It is all right if it is a little later."
+      },
+      {
+        "jp": "答えは日本語でなくてもかまいません。",
+        "reading": "こたえはにほんごでなくてもかまいません。",
+        "romaji": "Kotae wa Nihongo de nakute mo kamaimasen.",
+        "en": "The answer does not have to be in Japanese."
+      }
+    ],
+    "question": {
+      "prompt": "ここで（待って / 待つ / 待ち / 待ちます）もかまいません。",
+      "options": [
+        "待って",
+        "待つ",
+        "待ち",
+        "待ちます"
+      ],
+      "answer": "待って",
+      "explanation": "The construction attaches to the て-form."
+    }
+  },
+  {
+    "lesson": 21,
+    "pattern": "ていただく",
+    "meaning": "humbly receive someone doing a favor",
+    "formation": "Personに + Vて + いただく",
+    "usage": "Describe a favor you receive from a respected person.",
+    "nuance": "The grammatical subject is the receiver, often omitted “I/we.”",
+    "mistake": "Do not make the giver the subject with が and keep this same receiving frame.",
+    "comparison": "てくださる makes the respected giver the subject.",
+    "register": "humble/polite; N4-to-N3 keigo bridge",
+    "examples": [
+      {
+        "jp": "先生に作文を見ていただきました。",
+        "reading": "せんせいにさくぶんをみていただきました。",
+        "romaji": "Sensei ni sakubun o mite itadakimashita.",
+        "en": "I had my teacher look over my composition."
+      },
+      {
+        "jp": "係の方に場所を教えていただいた。",
+        "reading": "かかりのかたにばしょをおしえていただいた。",
+        "romaji": "Kakari no kata ni basho o oshiete itadaita.",
+        "en": "A staff member kindly told me the location."
+      },
+      {
+        "jp": "もう一度説明していただけませんか。",
+        "reading": "もういちどせつめいしていただけませんか。",
+        "romaji": "Mou ichido setsumei shite itadakemasen ka.",
+        "en": "Could you please explain once more?"
+      }
+    ],
+    "question": {
+      "prompt": "私は先生（に / が / を / で）説明していただきました。",
+      "options": [
+        "に",
+        "が",
+        "を",
+        "で"
+      ],
+      "answer": "に",
+      "explanation": "に marks the person from whom the speaker receives the favor."
+    }
+  },
+  {
+    "lesson": 21,
+    "pattern": "てくださる",
+    "meaning": "a respected person kindly does",
+    "formation": "Personが/は + Vて + くださる",
+    "usage": "Honor the person who acts for your benefit.",
+    "nuance": "The favor comes toward the speaker or their in-group.",
+    "mistake": "The polite form is くださいます, not くださります.",
+    "comparison": "ていただく shifts the grammatical subject to the receiver.",
+    "register": "respectful; N4-to-N3 keigo bridge",
+    "examples": [
+      {
+        "jp": "先生が丁寧に説明してくださいました。",
+        "reading": "せんせいがていねいにせつめいしてくださいました。",
+        "romaji": "Sensei ga teinei ni setsumei shite kudasaimashita.",
+        "en": "The teacher kindly explained carefully."
+      },
+      {
+        "jp": "来てくださって、ありがとうございます。",
+        "reading": "きてくださって、ありがとうございます。",
+        "romaji": "Kite kudasatte, arigatou gozaimasu.",
+        "en": "Thank you for coming."
+      },
+      {
+        "jp": "先輩が駅まで案内してくださった。",
+        "reading": "せんぱいがえきまであんないしてくださった。",
+        "romaji": "Senpai ga eki made annai shite kudasatta.",
+        "en": "My senior colleague kindly guided me to the station."
+      }
+    ],
+    "question": {
+      "prompt": "先生が教えて（くださいました / くださりました / いただきました / もらいました）。",
+      "options": [
+        "くださいました",
+        "くださりました",
+        "いただきました",
+        "もらいました"
+      ],
+      "answer": "くださいました",
+      "explanation": "The giver is the subject; くださる has the special polite stem ください."
+    }
+  },
+  {
+    "lesson": 20,
+    "pattern": "させていただく",
+    "meaning": "humbly be allowed to do",
+    "formation": "Causative Vて + いただく",
+    "usage": "Present your own action as permitted by another and beneficial to you.",
+    "nuance": "Best used when permission or accommodation is genuinely relevant; overuse for every action sounds cumbersome.",
+    "mistake": "The actor is the speaker’s side, unlike a request that the listener do the original verb.",
+    "comparison": "ていただく receives another person’s action; させていただく receives permission for your action.",
+    "register": "humble and formal",
+    "examples": [
+      {
+        "jp": "先に帰らせていただきます。",
+        "reading": "さきにかえらせていただきます。",
+        "romaji": "Saki ni kaerasete itadakimasu.",
+        "en": "With your permission, I will leave first."
+      },
+      {
+        "jp": "この部屋を使わせていただけませんか。",
+        "reading": "このへやをつかわせていただけませんか。",
+        "romaji": "Kono heya o tsukawasete itadakemasen ka.",
+        "en": "Could I please be allowed to use this room?"
+      },
+      {
+        "jp": "会議で意見を述べさせていただきました。",
+        "reading": "かいぎでいけんをのべさせていただきました。",
+        "romaji": "Kaigi de iken o nobesasete itadakimashita.",
+        "en": "I was given the opportunity to state my opinion at the meeting."
+      }
+    ],
+    "question": {
+      "prompt": "I request permission to use the room: この部屋を（使わせて / 使って / 使わされて / 使わないで）いただけませんか。",
+      "options": [
+        "使わせて",
+        "使って",
+        "使わされて",
+        "使わないで"
+      ],
+      "answer": "使わせて",
+      "explanation": "Causative + いただく asks permission for the speaker to use it."
+    }
+  },
+  {
+    "lesson": 21,
+    "pattern": "お〜になる / ご〜になる",
+    "meaning": "respectful action",
+    "formation": "お + suitable native V stem + になる; ご + suitable Sino-Japanese action noun + になる",
+    "usage": "Describe an action of someone you honor.",
+    "nuance": "Many common verbs use special honorific forms instead, such as いらっしゃる and なさる.",
+    "mistake": "Do not use the honorific form for your own action.",
+    "comparison": "お〜する humbles your action toward another; お〜になる raises the other actor.",
+    "register": "respectful; keigo bridge",
+    "examples": [
+      {
+        "jp": "先生はもうお帰りになりました。",
+        "reading": "せんせいはもうおかえりになりました。",
+        "romaji": "Sensei wa mou okaeri ni narimashita.",
+        "en": "The teacher has already gone home."
+      },
+      {
+        "jp": "こちらの資料をご覧になりますか。",
+        "reading": "こちらのしりょうをごらんになりますか。",
+        "romaji": "Kochira no shiryou o goran ni narimasu ka.",
+        "en": "Would you like to look at these materials?"
+      },
+      {
+        "jp": "お客様は何をお飲みになりますか。",
+        "reading": "おきゃくさまはなにをおのみになりますか。",
+        "romaji": "Okyakusama wa nani o onomi ni narimasu ka.",
+        "en": "What would you like to drink? (addressing a customer politely)"
+      }
+    ],
+    "question": {
+      "prompt": "先生はもう（お帰り / お帰る / お帰って / お帰った）になりました。",
+      "options": [
+        "お帰り",
+        "お帰る",
+        "お帰って",
+        "お帰った"
+      ],
+      "answer": "お帰り",
+      "explanation": "The native verb construction uses the ます stem."
+    }
+  },
+  {
+    "lesson": 21,
+    "pattern": "お〜する / ご〜する",
+    "meaning": "humbly do for someone",
+    "formation": "お + suitable native V stem + する; ご + suitable action noun + する",
+    "usage": "Lower your own or your in-group’s action when it is directed toward someone you respect.",
+    "nuance": "Use established combinations such as お届けする and ご案内する; the prefix is not freely interchangeable.",
+    "mistake": "Do not use this to honor the other person’s action.",
+    "comparison": "お〜になる honors the actor; お〜する humbles the actor’s service toward the recipient.",
+    "register": "humble; keigo bridge",
+    "examples": [
+      {
+        "jp": "駅までご案内します。",
+        "reading": "えきまでごあんないします。",
+        "romaji": "Eki made goannai shimasu.",
+        "en": "I will guide you to the station."
+      },
+      {
+        "jp": "明日、資料をお届けします。",
+        "reading": "あした、しりょうをおとどけします。",
+        "romaji": "Ashita, shiryou o otodoke shimasu.",
+        "en": "I will deliver the materials tomorrow."
+      },
+      {
+        "jp": "詳しいことは後でご説明します。",
+        "reading": "くわしいことはあとでごせつめいします。",
+        "romaji": "Kuwashii koto wa ato de gosetsumei shimasu.",
+        "en": "I will explain the details afterward."
+      }
+    ],
+    "question": {
+      "prompt": "I humbly offer to guide a guest: 私が駅まで（ご案内します / ご案内になります / ご案内なさいます / ご案内くださいます）。",
+      "options": [
+        "ご案内します",
+        "ご案内になります",
+        "ご案内なさいます",
+        "ご案内くださいます"
+      ],
+      "answer": "ご案内します",
+      "explanation": "The speaker performs a service toward the guest and therefore uses the humble construction."
+    }
+  },
+  {
+    "lesson": 22,
+    "pattern": "ば〜ほど",
+    "meaning": "the more ... the more",
+    "formation": "Vば + same V dictionary + ほど; い-adjければ + same い-adj + ほど; な-adjなら + same な-adjな + ほど",
+    "usage": "Describe a correlated change along two scales.",
+    "nuance": "Both halves of the first expression repeat the same predicate; the second clause supplies the linked result.",
+    "mistake": "Do not use a ます form after ば: 読めば読むほど.",
+    "comparison": "ほど alone states degree; ば〜ほど explicitly links increasing conditions.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "読めば読むほど、面白くなります。",
+        "reading": "よめばよむほど、おもしろくなります。",
+        "romaji": "Yomeba yomu hodo, omoshiroku narimasu.",
+        "en": "The more I read, the more interesting it becomes."
+      },
+      {
+        "jp": "駅に近ければ近いほど、家賃が高い。",
+        "reading": "えきにちかければちかいほど、やちんがたかい。",
+        "romaji": "Eki ni chikakereba chikai hodo, yachin ga takai.",
+        "en": "The closer it is to the station, the higher the rent."
+      },
+      {
+        "jp": "説明は簡単なら簡単なほどいいです。",
+        "reading": "せつめいはかんたんならかんたんなほどいいです。",
+        "romaji": "Setsumei wa kantan nara kantan na hodo ii desu.",
+        "en": "The simpler the explanation, the better."
+      }
+    ],
+    "question": {
+      "prompt": "読めば（読む / 読み / 読んで / 読みます）ほど、分かるようになります。",
+      "options": [
+        "読む",
+        "読み",
+        "読んで",
+        "読みます"
+      ],
+      "answer": "読む",
+      "explanation": "Repeat the dictionary form after the conditional."
+    }
+  },
+  {
+    "lesson": 22,
+    "pattern": "ほど（degree）",
+    "meaning": "to the extent that; enough to",
+    "formation": "V plain / い-adj plain + ほど; な-adj + なほど; N + ほど",
+    "usage": "Use a striking comparison or result to show a degree.",
+    "nuance": "The comparison can be figurative, not a literal event that occurred.",
+    "mistake": "Do not translate every ほど as “about”; this use measures intensity.",
+    "comparison": "くらい can similarly show degree; ほど is also common in structured comparisons.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "声が出ないほど驚きました。",
+        "reading": "こえがでないほどおどろきました。",
+        "romaji": "Koe ga denai hodo odorokimashita.",
+        "en": "I was so surprised that I could not speak."
+      },
+      {
+        "jp": "今日は歩けないほど疲れた。",
+        "reading": "きょうはあるけないほどつかれた。",
+        "romaji": "Kyou wa arukenai hodo tsukareta.",
+        "en": "Today I am so tired I can hardly walk."
+      },
+      {
+        "jp": "涙が出るほど笑いました。",
+        "reading": "なみだがでるほどわらいました。",
+        "romaji": "Namida ga deru hodo waraimashita.",
+        "en": "I laughed so much that tears came to my eyes."
+      }
+    ],
+    "question": {
+      "prompt": "涙が（出る / 出ます / 出て / 出）ほど笑った。",
+      "options": [
+        "出る",
+        "出ます",
+        "出て",
+        "出"
+      ],
+      "answer": "出る",
+      "explanation": "A plain verb clause modifies the degree marker ほど."
+    }
+  },
+  {
+    "lesson": 22,
+    "pattern": "代わりに",
+    "meaning": "instead of; in exchange for",
+    "formation": "V plain + 代わりに; N + の代わりに; い-adj + 代わりに; な-adj + な代わりに",
+    "usage": "Show substitution or a compensating tradeoff.",
+    "nuance": "Identify whether one actor/action replaces another or one advantage balances a disadvantage.",
+    "mistake": "A noun needs の: 先生の代わりに.",
+    "comparison": "一方で simply contrasts aspects; 代わりに often suggests exchange or compensation.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "今日は兄の代わりに店を手伝います。",
+        "reading": "きょうはあにのかわりにみせをてつだいます。",
+        "romaji": "Kyou wa ani no kawari ni mise o tetsudaimasu.",
+        "en": "Today I will help at the shop in my older brother’s place."
+      },
+      {
+        "jp": "車で行く代わりに、電車で行きました。",
+        "reading": "くるまでいくかわりに、でんしゃでいきました。",
+        "romaji": "Kuruma de iku kawari ni, densha de ikimashita.",
+        "en": "Instead of going by car, I went by train."
+      },
+      {
+        "jp": "家賃が安い代わりに、駅から遠いです。",
+        "reading": "やちんがやすいかわりに、えきからとおいです。",
+        "romaji": "Yachin ga yasui kawari ni, eki kara tooi desu.",
+        "en": "The rent is cheap, but in exchange it is far from the station."
+      }
+    ],
+    "question": {
+      "prompt": "兄（の / な / を / に）代わりに出席した。",
+      "options": [
+        "の",
+        "な",
+        "を",
+        "に"
+      ],
+      "answer": "の",
+      "explanation": "Attach a substituting person’s noun with の."
+    }
+  },
+  {
+    "lesson": 23,
+    "pattern": "だらけ",
+    "meaning": "covered in; full of undesirable things",
+    "formation": "N + だらけ; N + だらけの + N",
+    "usage": "Describe many unwanted items, errors, or marks.",
+    "nuance": "Often carries a negative evaluation; it does not mean a completely filled container in every context.",
+    "mistake": "Do not use it automatically for pleasant abundance; 花がいっぱい is more neutral than 花だらけ.",
+    "comparison": "いっぱい is neutral “full/many”; まみれ strongly suggests something smeared or covered in a substance.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "作文が間違いだらけでした。",
+        "reading": "さくぶんがまちがいだらけでした。",
+        "romaji": "Sakubun ga machigai darake deshita.",
+        "en": "My composition was full of mistakes."
+      },
+      {
+        "jp": "泥だらけの靴を洗った。",
+        "reading": "どろだらけのくつをあらった。",
+        "romaji": "Doro darake no kutsu o aratta.",
+        "en": "I washed the mud-covered shoes."
+      },
+      {
+        "jp": "この部屋はほこりだらけです。",
+        "reading": "このへやはほこりだらけです。",
+        "romaji": "Kono heya wa hokori darake desu.",
+        "en": "This room is covered in dust."
+      }
+    ],
+    "question": {
+      "prompt": "間違いだらけ（の / な / に / を）作文を直す。",
+      "options": [
+        "の",
+        "な",
+        "に",
+        "を"
+      ],
+      "answer": "の",
+      "explanation": "だらけ modifies a following noun through の."
+    }
+  },
+  {
+    "lesson": 25,
+    "pattern": "にとって",
+    "meaning": "for; from the standpoint of",
+    "formation": "N + にとって; N + にとっての + N",
+    "usage": "State how something is judged by or relevant to a person/group.",
+    "nuance": "Usually followed by evaluation: important, difficult, useful, necessary.",
+    "mistake": "Do not use it merely to name a topic: 日本語について話す, not 日本語にとって話す.",
+    "comparison": "について marks a topic; に対して marks a target or contrast; にとって marks a standpoint.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "私にとって、家族が一番大切です。",
+        "reading": "わたしにとって、かぞくがいちばんたいせつです。",
+        "romaji": "Watashi ni totte, kazoku ga ichiban taisetsu desu.",
+        "en": "For me, family is the most important thing."
+      },
+      {
+        "jp": "この説明は初心者にとって難しい。",
+        "reading": "このせつめいはしょしんしゃにとってむずかしい。",
+        "romaji": "Kono setsumei wa shoshinsha ni totte muzukashii.",
+        "en": "This explanation is difficult for beginners."
+      },
+      {
+        "jp": "これは町にとっての大きな問題です。",
+        "reading": "これはまちにとってのおおきなもんだいです。",
+        "romaji": "Kore wa machi ni totte no ookina mondai desu.",
+        "en": "This is a major problem for the town."
+      }
+    ],
+    "question": {
+      "prompt": "私（にとって / について / によると / をはじめ）、この経験は大切です。",
+      "options": [
+        "にとって",
+        "について",
+        "によると",
+        "をはじめ"
+      ],
+      "answer": "にとって",
+      "explanation": "The sentence gives an evaluation from the speaker’s standpoint."
+    }
+  },
+  {
+    "lesson": 27,
+    "pattern": "きる",
+    "meaning": "finish completely; do to the limit",
+    "formation": "V stem + きる; potential: きれる; negative potential: きれない",
+    "usage": "Emphasize finishing all of an action or exhausting an amount.",
+    "nuance": "Often the amount or effort is significant.",
+    "mistake": "きれない means cannot finish all, not merely do not do it.",
+    "comparison": "てしまう can stress completion/regret; きる foregrounds total completion.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "長い小説を一週間で読みきりました。",
+        "reading": "ながいしょうせつをいっしゅうかんでよみきりました。",
+        "romaji": "Nagai shousetsu o isshuukan de yomikirimashita.",
+        "en": "I finished the entire long novel in one week."
+      },
+      {
+        "jp": "量が多くて、食べきれません。",
+        "reading": "りょうがおおくて、たべきれません。",
+        "romaji": "Ryou ga ookute, tabekiremasen.",
+        "en": "There is too much, so I cannot eat it all."
+      },
+      {
+        "jp": "最後まで走りきった。",
+        "reading": "さいごまではしりきった。",
+        "romaji": "Saigo made hashirikitta.",
+        "en": "I ran all the way to the finish."
+      }
+    ],
+    "question": {
+      "prompt": "全部は（食べ / 食べる / 食べて / 食べた）きれません。",
+      "options": [
+        "食べ",
+        "食べる",
+        "食べて",
+        "食べた"
+      ],
+      "answer": "食べ",
+      "explanation": "きる and its potential form attach to the verb stem."
+    }
+  },
+  {
+    "lesson": 27,
+    "pattern": "かける / かけの",
+    "meaning": "start to; be partway through",
+    "formation": "V stem + かける; V stem + かけの + N",
+    "usage": "Describe an action begun but incomplete, or just about to begin.",
+    "nuance": "The precise stage depends on the verb; 読みかけ usually means partially read.",
+    "mistake": "Do not assume the action was completed.",
+    "comparison": "たばかり follows a completed event; かけ highlights an unfinished state.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "読みかけの本を机に置いた。",
+        "reading": "よみかけのほんをつくえにおいた。",
+        "romaji": "Yomikake no hon o tsukue ni oita.",
+        "en": "I put the book I had partly read on the desk."
+      },
+      {
+        "jp": "何か言いかけて、やめました。",
+        "reading": "なにかいいかけて、やめました。",
+        "romaji": "Nanika iikakete, yamemashita.",
+        "en": "I started to say something, then stopped."
+      },
+      {
+        "jp": "食べかけのパンが残っています。",
+        "reading": "たべかけのパンがのこっています。",
+        "romaji": "Tabekake no pan ga nokotte imasu.",
+        "en": "There is some partly eaten bread left."
+      }
+    ],
+    "question": {
+      "prompt": "読みかけ（の / な / に / を）本を持ってきた。",
+      "options": [
+        "の",
+        "な",
+        "に",
+        "を"
+      ],
+      "answer": "の",
+      "explanation": "かけ connects to a following noun with の."
+    }
+  },
+  {
+    "lesson": 27,
+    "pattern": "てくる",
+    "meaning": "come to; develop toward now; go do and return",
+    "formation": "Vて + くる",
+    "usage": "Track change toward the present/viewpoint, or an action followed by returning.",
+    "nuance": "Distinguish temporal development from literal motion by context.",
+    "mistake": "The direction is toward the viewpoint; future continuation away from now usually uses ていく.",
+    "comparison": "ていく projects change forward; てくる often traces it up to now.",
+    "register": "neutral; N4 bridge with N3 discourse applications",
+    "examples": [
+      {
+        "jp": "日本語のニュースが少し分かってきました。",
+        "reading": "にほんごのニュースがすこしわかってきました。",
+        "romaji": "Nihongo no nyuusu ga sukoshi wakatte kimashita.",
+        "en": "I have begun to understand Japanese news a little."
+      },
+      {
+        "jp": "だんだん寒くなってきた。",
+        "reading": "だんだんさむくなってきた。",
+        "romaji": "Dandan samuku natte kita.",
+        "en": "It has gradually been getting colder."
+      },
+      {
+        "jp": "飲み物を買ってきます。",
+        "reading": "のみものをかってきます。",
+        "romaji": "Nomimono o katte kimasu.",
+        "en": "I will go buy drinks and come back."
+      }
+    ],
+    "question": {
+      "prompt": "I will buy a drink and return here: 飲み物を買って（きます / いきます / あります / おります）。",
+      "options": [
+        "きます",
+        "いきます",
+        "あります",
+        "おります"
+      ],
+      "answer": "きます",
+      "explanation": "くる points back toward the current location."
+    }
+  },
+  {
+    "lesson": 27,
+    "pattern": "ていく",
+    "meaning": "continue on; develop from now; do and go",
+    "formation": "Vて + いく",
+    "usage": "Present change continuing forward or movement away from the viewpoint.",
+    "nuance": "Often appears with これから, 今後, 続ける.",
+    "mistake": "Do not use ていく for a change explicitly traced up to now without a forward/away viewpoint.",
+    "comparison": "てくる moves toward now or the speaker; ていく extends onward.",
+    "register": "neutral; N4 bridge with N3 discourse applications",
+    "examples": [
+      {
+        "jp": "これからも日本語を勉強していきます。",
+        "reading": "これからもにほんごをべんきょうしていきます。",
+        "romaji": "Kore kara mo Nihongo o benkyou shite ikimasu.",
+        "en": "I will continue studying Japanese from now on."
+      },
+      {
+        "jp": "町の人口は少しずつ減っていくだろう。",
+        "reading": "まちのじんこうはすこしずつへっていくだろう。",
+        "romaji": "Machi no jinkou wa sukoshi zutsu hette iku darou.",
+        "en": "The town’s population will probably keep decreasing gradually."
+      },
+      {
+        "jp": "家を出る前に、朝ご飯を食べていきます。",
+        "reading": "いえをでるまえに、あさごはんをたべていきます。",
+        "romaji": "Ie o deru mae ni, asagohan o tabete ikimasu.",
+        "en": "I will eat breakfast before leaving the house."
+      }
+    ],
+    "question": {
+      "prompt": "これからも練習を（続けて / 続ける / 続けた / 続け）いきます。",
+      "options": [
+        "続けて",
+        "続ける",
+        "続けた",
+        "続け"
+      ],
+      "answer": "続けて",
+      "explanation": "The construction links with the て-form."
+    }
+  },
+  {
+    "lesson": 28,
+    "pattern": "がる / たがる",
+    "meaning": "show signs of feeling; show a desire to",
+    "formation": "Selected emotion い-adj stem + がる; な-adj stem + がる; V stem + たがる",
+    "usage": "Describe observable signs of another person’s feelings or wishes.",
+    "nuance": "Often appears in ている to describe current visible behavior. Only certain emotion words combine naturally.",
+    "mistake": "Do not freely add がる to every adjective; 楽しい → 楽しがる is possible, but factual size adjectives do not use it this way.",
+    "comparison": "たい commonly expresses the speaker’s own desire; たがる reports another person’s displayed desire.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "子どもが犬を怖がっています。",
+        "reading": "こどもがいぬをこわがっています。",
+        "romaji": "Kodomo ga inu o kowagatte imasu.",
+        "en": "The child is showing fear of the dog."
+      },
+      {
+        "jp": "妹は一人で旅行したがっています。",
+        "reading": "いもうとはひとりでりょこうしたがっています。",
+        "romaji": "Imouto wa hitori de ryokou shitagatte imasu.",
+        "en": "My younger sister wants to travel alone."
+      },
+      {
+        "jp": "彼は人前で話すのを嫌がる。",
+        "reading": "かれはひとまえではなすのをいやがる。",
+        "romaji": "Kare wa hitomae de hanasu no o iyagaru.",
+        "en": "He shows reluctance to speak in front of people."
+      }
+    ],
+    "question": {
+      "prompt": "弟は外で遊び（たがって / たいがって / たくがって / たかったがって）います。",
+      "options": [
+        "たがって",
+        "たいがって",
+        "たくがって",
+        "たかったがって"
+      ],
+      "answer": "たがって",
+      "explanation": "The observed-desire form is verb stem + たがる."
+    }
+  },
+  {
+    "lesson": 28,
+    "pattern": "ふりをする",
+    "meaning": "pretend to",
+    "formation": "V/い-adj plain + ふりをする; な-adj + な; N + の",
+    "usage": "Describe acting as if a state were true while it is not.",
+    "nuance": "The speaker presents a mismatch between reality and performance.",
+    "mistake": "Do not confuse ふり with appearance based on evidence: it implies pretending.",
+    "comparison": "ようだ describes seeming; ふりをする describes intentional performance.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "分からないふりをしました。",
+        "reading": "わからないふりをしました。",
+        "romaji": "Wakaranai furi o shimashita.",
+        "en": "I pretended not to understand."
+      },
+      {
+        "jp": "弟は寝ているふりをしている。",
+        "reading": "おとうとはねているふりをしている。",
+        "romaji": "Otouto wa nete iru furi o shite iru.",
+        "en": "My younger brother is pretending to be asleep."
+      },
+      {
+        "jp": "元気なふりをしなくてもいいですよ。",
+        "reading": "げんきなふりをしなくてもいいですよ。",
+        "romaji": "Genki na furi o shinakute mo ii desu yo.",
+        "en": "You do not have to pretend you are fine."
+      }
+    ],
+    "question": {
+      "prompt": "元気（な / の / に / で）ふりをした。",
+      "options": [
+        "な",
+        "の",
+        "に",
+        "で"
+      ],
+      "answer": "な",
+      "explanation": "元気 is a な-adjective here and needs な before ふり."
+    }
+  },
+  {
+    "lesson": 28,
+    "pattern": "てたまらない",
+    "meaning": "extremely; unbearably",
+    "formation": "Emotion/sensation Vて / い-adjくて / な-adjで + たまらない",
+    "usage": "Express a feeling or physical sensation that is hard to contain.",
+    "nuance": "Typically describes the speaker’s internal state; third-person descriptions need evidence or reporting.",
+    "mistake": "It is not a general intensifier for every objective fact.",
+    "comparison": "てしょうがない often overlaps; たまらない strongly stresses inability to bear the intensity.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "合格して、うれしくてたまらない。",
+        "reading": "ごうかくして、うれしくてたまらない。",
+        "romaji": "Goukaku shite, ureshikute tamaranai.",
+        "en": "I passed, and I am incredibly happy."
+      },
+      {
+        "jp": "試験の結果が気になってたまらない。",
+        "reading": "しけんのけっかがきになってたまらない。",
+        "romaji": "Shiken no kekka ga ki ni natte tamaranai.",
+        "en": "I cannot stop thinking about the exam result."
+      },
+      {
+        "jp": "今日は眠くてたまりません。",
+        "reading": "きょうはねむくてたまりません。",
+        "romaji": "Kyou wa nemukute tamarimasen.",
+        "en": "I am unbearably sleepy today."
+      }
+    ],
+    "question": {
+      "prompt": "（うれしくて / うれしいで / うれしいな / うれしく）たまりません。",
+      "options": [
+        "うれしくて",
+        "うれしいで",
+        "うれしいな",
+        "うれしく"
+      ],
+      "answer": "うれしくて",
+      "explanation": "An い-adjective uses its くて connective form."
+    }
+  },
+  {
+    "lesson": 28,
+    "pattern": "てしょうがない",
+    "meaning": "cannot help feeling; very",
+    "formation": "Vて / い-adjくて / な-adjで + しょうがない (also しかたがない)",
+    "usage": "Express an overwhelming or persistent feeling.",
+    "nuance": "Often describes a spontaneous internal reaction rather than an intentional act.",
+    "mistake": "Distinguish standalone しょうがない “it cannot be helped” from this attached intensifier.",
+    "comparison": "てたまらない emphasizes unbearable degree; てしょうがない also conveys inability to control the feeling.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "新しい仕事が心配でしょうがない。",
+        "reading": "あたらしいしごとがしんぱいでしょうがない。",
+        "romaji": "Atarashii shigoto ga shinpai de shouganai.",
+        "en": "I cannot help worrying about the new job."
+      },
+      {
+        "jp": "次の旅行が楽しみでしかたがない。",
+        "reading": "つぎのりょこうがたのしみでしかたがない。",
+        "romaji": "Tsugi no ryokou ga tanoshimi de shikata ga nai.",
+        "en": "I am looking forward to the next trip so much."
+      },
+      {
+        "jp": "のどが渇いてしょうがありません。",
+        "reading": "のどがかわいてしょうがありません。",
+        "romaji": "Nodo ga kawaite shouga arimasen.",
+        "en": "I am terribly thirsty."
+      }
+    ],
+    "question": {
+      "prompt": "心配（で / な / に / の）しょうがない。",
+      "options": [
+        "で",
+        "な",
+        "に",
+        "の"
+      ],
+      "answer": "で",
+      "explanation": "A な-adjective takes で in this construction."
+    }
+  },
+  {
+    "lesson": 26,
+    "pattern": "とおりに / どおりに",
+    "meaning": "as; in accordance with",
+    "formation": "V dictionary/た + とおりに; Nの + とおりに; some N + どおりに",
+    "usage": "Match instructions, expectations, or a model.",
+    "nuance": "Common noun combinations include 予定どおり and 時間どおり.",
+    "mistake": "Do not pronounce every form どおり: 言ったとおり uses と.",
+    "comparison": "によると gives an information source; とおりに describes acting or occurring in agreement with a model.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "説明したとおりに、名前を書いてください。",
+        "reading": "せつめいしたとおりに、なまえをかいてください。",
+        "romaji": "Setsumei shita toori ni, namae o kaite kudasai.",
+        "en": "Please write your name as I explained."
+      },
+      {
+        "jp": "予定どおりに出発しました。",
+        "reading": "よていどおりにしゅっぱつしました。",
+        "romaji": "Yotei doori ni shuppatsu shimashita.",
+        "en": "We departed as scheduled."
+      },
+      {
+        "jp": "地図のとおりに歩いたのに、道に迷った。",
+        "reading": "ちずのとおりにあるいたのに、みちにまよった。",
+        "romaji": "Chizu no toori ni aruita noni, michi ni mayotta.",
+        "en": "Although I walked as the map showed, I got lost."
+      }
+    ],
+    "question": {
+      "prompt": "先生が言った（とおりに / どおりに / とおりの / どおりの）書いてください。",
+      "options": [
+        "とおりに",
+        "どおりに",
+        "とおりの",
+        "どおりの"
+      ],
+      "answer": "とおりに",
+      "explanation": "After a verb use とおり; に modifies the following action."
+    }
+  },
+  {
+    "lesson": 30,
+    "pattern": "ことは〜が",
+    "meaning": "do ... but; it is true ... however",
+    "formation": "Repeat the same plain predicate around ことは: VことはVが; い-adjことはい-adjが; な-adjなことはな-adjだが",
+    "usage": "Concede a limited truth before adding a reservation.",
+    "nuance": "The repetition emphasizes that the basic fact is accepted, but it may not meet expectations.",
+    "mistake": "Do not confuse with Vことはない, which often means there is no need.",
+    "comparison": "ものの directly links a fact and contrast; this pattern explicitly concedes the fact through repetition.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "読んだことは読んだが、よく覚えていない。",
+        "reading": "よんだことはよんだが、よくおぼえていない。",
+        "romaji": "Yonda koto wa yonda ga, yoku oboete inai.",
+        "en": "I did read it, but I do not remember it well."
+      },
+      {
+        "jp": "安いことは安いが、少し古い。",
+        "reading": "やすいことはやすいが、すこしふるい。",
+        "romaji": "Yasui koto wa yasui ga, sukoshi furui.",
+        "en": "It is certainly cheap, but it is a little old."
+      },
+      {
+        "jp": "便利なことは便利ですが、毎日は使いません。",
+        "reading": "べんりなことはべんりですが、まいにちはつかいません。",
+        "romaji": "Benri na koto wa benri desu ga, mainichi wa tsukaimasen.",
+        "en": "It is convenient, certainly, but I do not use it every day."
+      }
+    ],
+    "question": {
+      "prompt": "便利（な / の / に / を）ことは便利ですが、高いです。",
+      "options": [
+        "な",
+        "の",
+        "に",
+        "を"
+      ],
+      "answer": "な",
+      "explanation": "The first な-adjective modifies こと and requires な."
+    }
+  },
+  {
+    "lesson": 13,
+    "pattern": "そうもない / そうにない",
+    "meaning": "does not look likely to",
+    "formation": "V stem + そうもない / そうにない",
+    "usage": "Judge from current evidence that an event is unlikely.",
+    "nuance": "This negates an appearance-based prospect, not a reported fact.",
+    "mistake": "Use 終わりそうにない, not 終わるそうにない.",
+    "comparison": "Vないそうだ is hearsay that something will not happen; V stemそうにない is an evidence-based impression.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "今日は雨がやみそうにありません。",
+        "reading": "きょうはあめがやみそうにありません。",
+        "romaji": "Kyou wa ame ga yamisou ni arimasen.",
+        "en": "It does not look as if the rain will stop today."
+      },
+      {
+        "jp": "この仕事は五時までに終わりそうもない。",
+        "reading": "このしごとはごじまでにおわりそうもない。",
+        "romaji": "Kono shigoto wa goji made ni owarisou mo nai.",
+        "en": "This job does not look likely to finish by five."
+      },
+      {
+        "jp": "彼はまだ帰りそうにない。",
+        "reading": "かれはまだかえりそうにない。",
+        "romaji": "Kare wa mada kaerisou ni nai.",
+        "en": "He does not look ready to go home yet."
+      }
+    ],
+    "question": {
+      "prompt": "仕事は（終わり / 終わる / 終わった / 終わります）そうにない。",
+      "options": [
+        "終わり",
+        "終わる",
+        "終わった",
+        "終わります"
+      ],
+      "answer": "終わり",
+      "explanation": "Appearance そう attaches to the verb stem."
+    }
+  },
+  {
+    "lesson": 6,
+    "pattern": "ところに / ところで / ところを",
+    "meaning": "at the moment when; when in a particular situation",
+    "formation": "V dictionary/ている/た + ところ + appropriate particle",
+    "usage": "Connect a stage of an action to another event.",
+    "nuance": "ところに often presents an event arriving at that moment; ところで locates the stage; ところを is used with an action affecting the person at that stage.",
+    "mistake": "Choose the particle according to the following predicate, not by English “when” alone.",
+    "comparison": "ところだ states the stage; adding a particle connects that stage to another clause.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "出かけようとしていたところに、電話が来た。",
+        "reading": "でかけようとしていたところに、でんわがきた。",
+        "romaji": "Dekakeyou to shite ita tokoro ni, denwa ga kita.",
+        "en": "Just as I was about to go out, a call came."
+      },
+      {
+        "jp": "半分読んだところで、休憩しました。",
+        "reading": "はんぶんよんだところで、きゅうけいしました。",
+        "romaji": "Hanbun yonda tokoro de, kyuukei shimashita.",
+        "en": "I took a break when I had read half."
+      },
+      {
+        "jp": "困っていたところを、友達に助けてもらった。",
+        "reading": "こまっていたところを、ともだちにたすけてもらった。",
+        "romaji": "Komatte ita tokoro o, tomodachi ni tasukete moratta.",
+        "en": "My friend helped me when I was in trouble."
+      }
+    ],
+    "question": {
+      "prompt": "困っていたところ（を / へ / と / の）、友達に助けてもらいました。",
+      "options": [
+        "を",
+        "へ",
+        "と",
+        "の"
+      ],
+      "answer": "を",
+      "explanation": "The situation of being in trouble is acted upon by the help received."
+    }
+  },
+  {
+    "lesson": 18,
+    "pattern": "ようがない",
+    "meaning": "there is no way to",
+    "formation": "V stem + ようがない; suru noun + のしようがない",
+    "usage": "State that there is no available method or means.",
+    "nuance": "More specific than generic inability: the means to do it are missing.",
+    "mistake": "This よう is a noun meaning way; it is not ように “so that.”",
+    "comparison": "できない simply says cannot; ようがない explains impossibility through absence of a method.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "住所が分からないので、送りようがない。",
+        "reading": "じゅうしょがわからないので、おくりようがない。",
+        "romaji": "Juusho ga wakaranai node, okuriyou ga nai.",
+        "en": "I do not know the address, so there is no way to send it."
+      },
+      {
+        "jp": "連絡先がなくて、連絡のしようがありません。",
+        "reading": "れんらくさきがなくて、れんらくのしようがありません。",
+        "romaji": "Renrakusaki ga nakute, renraku no shiyou ga arimasen.",
+        "en": "Without contact details, there is no way to get in touch."
+      },
+      {
+        "jp": "説明しようがないほど驚いた。",
+        "reading": "せつめいしようがないほどおどろいた。",
+        "romaji": "Setsumei shiyou ga nai hodo odoroita.",
+        "en": "I was surprised beyond what I can explain."
+      }
+    ],
+    "question": {
+      "prompt": "住所がないので、（送り / 送る / 送って / 送った）ようがない。",
+      "options": [
+        "送り",
+        "送る",
+        "送って",
+        "送った"
+      ],
+      "answer": "送り",
+      "explanation": "Attach the noun よう to the verb stem."
+    }
+  },
+  {
+    "lesson": 15,
+    "pattern": "ということだ（report / conclusion）",
+    "meaning": "it is reported that; that means",
+    "formation": "Plain clause + ということだ; retain だ after N/な-adj for clear quoted statements",
+    "usage": "Relay information or explain the logical meaning of information.",
+    "nuance": "The source/context tells you whether it is a report or an inference.",
+    "mistake": "Do not translate every instance as hearsay; “つまり” often signals a conclusion.",
+    "comparison": "そうだ伝聞 mainly reports heard information; ということだ can also summarize an implication.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "案内によると、明日は休館だということです。",
+        "reading": "あんないによると、あしたはきゅうかんだということです。",
+        "romaji": "Annai ni yoru to, ashita wa kyuukan da to iu koto desu.",
+        "en": "According to the notice, the facility will be closed tomorrow."
+      },
+      {
+        "jp": "一人千円なら、三人で三千円ということですね。",
+        "reading": "ひとりせんえんなら、さんにんでさんぜんえんということですね。",
+        "romaji": "Hitori sen en nara, sannin de sanzen en to iu koto desu ne.",
+        "en": "At a thousand yen each, that means three thousand yen for three people, right?"
+      },
+      {
+        "jp": "先生から、提出日は金曜日だということを聞きました。",
+        "reading": "せんせいから、ていしゅつびはきんようびだということをききました。",
+        "romaji": "Sensei kara, teishutsubi wa kinyoubi da to iu koto o kikimashita.",
+        "en": "I heard from the teacher that the submission date is Friday."
+      }
+    ],
+    "question": {
+      "prompt": "二人で二千円。つまり、一人千円（ということです / といいますか / にとってです / ようにです）。",
+      "options": [
+        "ということです",
+        "といいますか",
+        "にとってです",
+        "ようにです"
+      ],
+      "answer": "ということです",
+      "explanation": "つまり marks a conclusion drawn from the total cost."
+    }
+  },
+  {
+    "lesson": 10,
+    "pattern": "からといって",
+    "meaning": "just because",
+    "formation": "Plain clause + からといって; often followed by a negative evaluation/conclusion",
+    "usage": "Reject an inference based only on the stated reason.",
+    "nuance": "A may be true; the speaker denies that A alone justifies B.",
+    "mistake": "Do not treat it as ordinary から for a straightforward reason.",
+    "comparison": "から supports a conclusion; からといって warns that the reason is insufficient.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "安いからといって、たくさん買う必要はない。",
+        "reading": "やすいからといって、たくさんかうひつようはない。",
+        "romaji": "Yasui kara to itte, takusan kau hitsuyou wa nai.",
+        "en": "Just because it is cheap, there is no need to buy a lot."
+      },
+      {
+        "jp": "日本に住んでいるからといって、日本語が上手だとは限りません。",
+        "reading": "にほんにすんでいるからといって、にほんごがじょうずだとはかぎりません。",
+        "romaji": "Nihon ni sunde iru kara to itte, Nihongo ga jouzu da to wa kagirimasen.",
+        "en": "Living in Japan does not necessarily mean someone is good at Japanese."
+      },
+      {
+        "jp": "忙しいからといって、約束を忘れてはいけません。",
+        "reading": "いそがしいからといって、やくそくをわすれてはいけません。",
+        "romaji": "Isogashii kara to itte, yakusoku o wasurete wa ikemasen.",
+        "en": "Being busy is no excuse for forgetting a promise."
+      }
+    ],
+    "question": {
+      "prompt": "Choose the logic of 安いからといって、必要とは限らない。",
+      "options": [
+        "Low price does not guarantee need.",
+        "It is needed because it is cheap.",
+        "It is never cheap.",
+        "It is always necessary."
+      ],
+      "answer": "Low price does not guarantee need.",
+      "explanation": "The reason is acknowledged but is not enough for the conclusion."
+    }
+  },
+  {
+    "lesson": 5,
+    "pattern": "中（ちゅう / じゅう）",
+    "meaning": "during; in progress; throughout; before the period ends",
+    "formation": "Activity N + 中（ちゅう）; time/place expressions may use 中（じゅう）",
+    "usage": "Read common compounds as whole expressions rather than applying one universal pronunciation.",
+    "nuance": "勉強中 is during study, 世界中 is throughout the world, 今日中に is by the end of today. Some forms vary in reading/meaning with context.",
+    "mistake": "Do not read every 中 as なか or every time expression as じゅう.",
+    "comparison": "間 focuses on a span/clause; N中 compactly names an ongoing activity or complete scope.",
+    "register": "neutral; use polite endings in polite conversation",
+    "examples": [
+      {
+        "jp": "会議中なので、後で電話します。",
+        "reading": "かいぎちゅうなので、あとででんわします。",
+        "romaji": "Kaigichuu na node, ato de denwa shimasu.",
+        "en": "I am in a meeting, so I will call later."
+      },
+      {
+        "jp": "今日中に返事をください。",
+        "reading": "きょうじゅうにへんじをください。",
+        "romaji": "Kyoujuu ni henji o kudasai.",
+        "en": "Please reply by the end of today."
+      },
+      {
+        "jp": "世界中の人がこの映画を見た。",
+        "reading": "せかいじゅうのひとがこのえいがをみた。",
+        "romaji": "Sekaijuu no hito ga kono eiga o mita.",
+        "en": "People all over the world saw this film."
+      }
+    ],
+    "question": {
+      "prompt": "Read 会議中 and 今日中に.",
+      "options": [
+        "かいぎちゅう / きょうじゅうに",
+        "かいぎじゅう / きょうなかに",
+        "かいぎなか / きょうちゅうに",
+        "かいぎちゅう / こんにちなかに"
+      ],
+      "answer": "かいぎちゅう / きょうじゅうに",
+      "explanation": "These are the standard readings for being in a meeting and by the end of today."
+    }
+  }
+]

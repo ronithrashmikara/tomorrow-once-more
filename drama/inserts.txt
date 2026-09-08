@@ -1,0 +1,516 @@
+## 01b | Names on the door | ドアの なまえ | Upstairs corridor, morning
+@ Before breakfast, Aoi studies old name labels on the bedroom doors. Haru has added a ridiculous label to the bathroom. Misaki brings a laundry basket. Aoi's phone has no messages from the year she remembers. | あさごはんの まえです。ドアに なまえが あります。おかあさんは せんたくものを もちます。あおいは でんわを みます。あの としの メッセージは ありません。
+あおい|これは わたしの なまえです。あおい。|This is my name. Aoi.
+みさき|そうですよ。となりは はるの へやです。|That's right. The next room is Haru's.
+あおい|この ドアの なまえも はるですか。|Is the name on this door Haru too?
+みさき|いいえ。そこは おふろです。|No. That's the bathroom.
+あおい|「はるの おしろ」です。|It says “Haru's castle.”
+みさき|また はるですね。あの こは おうさまです。|Haru again. That boy is a king.
+あおい|おうさまの おふろですね。|The king's bath, then.
+みさき|でも、タオルは みんなの タオルです。|But the towels belong to everyone.
+あおい|この タオルは、まだ ここです。|This towel is still here.
+みさき|まだ？ きのうも ここでしたよ。|Still? It was here yesterday too.
+あおい|はい。きのうも。すみません。|Yes. Yesterday too. Sorry.
+みさき|でんわは だいじょうぶですか。|Is your phone all right?
+あおい|でんわは だいじょうぶです。わたしが……。|The phone is all right. I'm the one...
+みさき|きょうは おやすみでも いいですよ。|You can take today off.
+あおい|いいえ。きょうは わたしも おみせです。|No. I'll be at the cafe today too.
+みさき|じゃ、こちらが あおいさんの おしごとです。|Then this is your job, Miss Aoi.
+あおい|タオルですか。|The towels?
+みさき|はい。しろは キッチン。あおは テーブルです。|Yes. White is for the kitchen. Blue is for the tables.
+あおい|あかは？ この あかい タオルは？|What about red? This red towel?
+みさき|それは はるの おしろです。|That's for Haru's castle.
+あおい|おしろも しごとですね。|The castle is work too, then.
+みさき|おうさまは なにもしません。|The king doesn't do anything.
+はる|おうさまは いそがしいです！|The king is busy!
+あおい|どこですか、おうさま。|Where are you, Your Majesty?
+はる|ここです。おしろの なかです。|Here. Inside the castle.
+みさき|あさごはんは あと ごふんです。|Breakfast is in five minutes.
+はる|パンは ぼくのです。おねえちゃんのじゃ ありません。|The bread is mine. It isn't Aoi's.
+あおい|わたしは パンの どろぼうじゃありません。|I'm not a bread thief.
+はる|きのうの パンは？|What about yesterday's bread?
+あおい|きのう……。|Yesterday...
+みさき|きのうの パンは わたしの おなかの なかです。|Yesterday's bread is in my stomach.
+はる|おかあさんが おうさまですね。|Mom is the king, then.
+あおい|はい。おかあさんが おうさまです。|Yes. Mom is the king.
+みさき|じゃ、みんな、キッチンへ。|Then everyone, to the kitchen.
+あおい|おかあさん。この なまえは そのままです。|Mom. Leave this name just as it is.
+みさき|あおいの ドア？ もちろんです。|On your door? Of course.
+@ Aoi presses down a peeling corner of her name label instead of taking a photograph. It is a small decision to live in this morning. She follows the others downstairs. | あおいは なまえの シールを おさえます。しゃしんは とりません。かぞくと いっしょに したへ いきます。
+! G001 G002 G004 G006 G007 G008 G010
+? Why does Aoi examine ordinary household objects? | They let her test whether she is really back in her old life.
+? What are the blue towels for? | The cafe tables.
+
+## 02b | A missing year | ない メッセージ | Kitchen window, after breakfast
+@ Haru clears cups while Aoi scrolls through her phone. She searches for a conversation with a former friend, Yui. The last message is an invitation she had ignored in her remembered life. | はるは カップを はこびます。あおいは でんわを みます。ゆいの メッセージが あります。さいごの メッセージは、おちゃの さそいです。
+はる|それは だれの しゃしんですか。|Whose picture is that?
+あおい|ゆいの しゃしんです。わたしの ともだちです。|It's Yui's picture. She's my friend.
+はる|ゆいさんは きょうも がっこうですか。|Is Yui at school today too?
+あおい|はい。たぶん がっこうです。|Yes. Probably at school.
+はる|おねえちゃんも がっこうですか。|Are you at school too?
+あおい|きょうは ここです。おみせです。|I'm here today. At the cafe.
+はる|じゃ、ゆいさんも ここですか。|Then is Yui here too?
+あおい|いいえ。まだ メッセージだけです。|No. Just a message for now.
+はる|なんの メッセージですか。|What kind of message?
+あおい|「きょう、おちゃは どうですか。」|“How about tea today?”
+はる|おちゃは ここに ありますよ。|There's tea here.
+あおい|そうですね。ここに あります。|That's right. There is.
+はる|この カップは ゆいさんのですか。|Is this cup Yui's?
+あおい|いいえ。それは おとうさんのです。|No. That's Dad's.
+はる|じゃ、しろい カップが いいです。|Then the white cup would be good.
+あおい|それは おかあさんの カップですよ。|That's Mom's cup.
+はる|この おみせは カップが すくないですね。|This cafe doesn't have many cups.
+あおい|したに たくさん あります。ここは キッチンです。|There are plenty downstairs. This is the kitchen.
+はる|そうでした。ぼくは カメラの ひとです。|Oh, right. I'm the camera person.
+あおい|カップの ひとじゃありませんね。|You aren't the cup person, then.
+はる|ゆいさんの しゃしんも とります。|I'll take Yui's photo too.
+あおい|きょうは わかりません。|I don't know about today.
+はる|どうして？ ともだちでしょう。|Why? She's your friend, isn't she?
+あおい|ともだちです。でも、わたしは……。|She is. But I...
+はる|けんかですか。|Did you have a fight?
+あおい|いいえ。まだ けんかじゃありません。|No. We haven't had a fight yet.
+はる|まだ？ へんな にほんごです。|Yet? That's strange Japanese.
+あおい|そうですね。ごめん。|You're right. Sorry.
+はる|「ここで おちゃです。」それで いいです。|“Tea here.” That's all you need.
+あおい|「ここで おちゃです。」|“Tea here.”
+はる|それから、「パンも あります。」|And then, “There's bread too.”
+あおい|はるの パンは ありませんよ。|There isn't any of your bread left.
+はる|ゆいさんの パンです。べつです。|It's Yui's bread. That's different.
+あおい|じゃ、ゆいの パンも。|Then bread for Yui too.
+はる|はい。これで だいじょうぶです。|Yes. That's good.
+あおい|ありがとう。きょうの はるは せんせいですね。|Thank you. Today you're the teacher, Haru.
+はる|きょうだけじゃ ありません。|Not just today.
+@ Aoi types a short invitation and sends it to the fictional friend within the story. A reply bubble appears, vanishes, then returns: 「いきます。」 Aoi smiles before the sound of the cafe drawer pulls her back to the mystery. | あおいは みじかい メッセージを おくります。ゆいの へんじは「いきます。」です。あおいは わらいます。したで ひきだしの おとが します。
+! G001 G002 G006 G010 G022 G023
+? What earlier mistake does Aoi begin to change? | She responds to Yui instead of ignoring her invitation.
+? Is the past fight shown as already happening now? | No. Aoi's word “yet” reveals that she is remembering a different sequence.
+
+## 03b | The floor plan | おみせの ちず | Cafe floor, before opening
+@ Aoi moves a chair to watch both the drawer and side door. Misaki makes her walk a tray through the narrowed aisle. Aoi must find a position that protects the cafe without making ordinary service impossible. | あおいは いすを うごかします。いすから ひきだしと ドアが みえます。でも、みちは せまいです。おかあさんは あおいに トレーを わたします。
+みさき|この いすは ここじゃありません。|This chair doesn't belong here.
+あおい|でも、ここは いい ばしょです。|But this is a good spot.
+みさき|おきゃくさんの みちです。せまいですよ。|It's the customers' aisle. It's narrow.
+あおい|じゃ、テーブルの よこは どうですか。|Then how about beside the table?
+みさき|そこは れいぞうこの まえです。|That's in front of the fridge.
+あおい|まどの したは どうですか。|How about under the window?
+みさき|そこは はなの ばしょです。|That's where the flowers go.
+あおい|この おみせは ばしょが ありませんね。|There's no room in this cafe.
+みさき|いすは いつもの ばしょが いいです。|The chair is best in its usual place.
+あおい|いつもの ばしょは どこですか。|Where is its usual place?
+みさき|あの テーブルの みぎです。|To the right of that table.
+あおい|ドアは ひだり。ひきだしは うしろ。|The door is on the left. The drawer is behind.
+みさき|そうです。まどは まえです。|That's right. The window is in front.
+あおい|おかあさんは いつも どこですか。|Where are you usually?
+みさき|キッチンと カウンターです。|The kitchen and the counter.
+あおい|よこの ドアは だれの ドアですか。|Whose door is the side door?
+みさき|みんなの ドアです。はいたつも そこです。|Everyone's door. Deliveries use it too.
+あおい|まえの ドアは おきゃくさんですね。|The front door is for customers, right?
+みさき|はい。うしろは ごみの ばしょです。|Yes. The rubbish area is at the back.
+あおい|かぎは よこの ドアにも ありますか。|Does the side door have a lock too?
+みさき|あります。でも、いまは あいています。|It does. But it's open now.
+あおい|どうして あいていますか。|Why is it open?
+みさき|はいたつの じかんです。|It's delivery time.
+あおい|はいたつは なんじまでですか。|Until when are there deliveries?
+みさき|きょうは はちじはんまでです。|Until eight thirty today.
+あおい|いまは はちじ じゅうごふん。|It's eight fifteen now.
+みさき|あと じゅうごふんです。|Fifteen minutes left.
+あおい|じゃ、わたしは ここに います。|Then I'll stay here.
+みさき|ここで なにを しますか。|What will you do here?
+あおい|テーブルを ふきます。|I'll wipe the tables.
+みさき|いいですね。あおい タオルです。|Good. The blue towel.
+あおい|しろい タオルじゃありませんね。|Not the white towel, right?
+みさき|はい。しろは キッチンです。|Right. White is for the kitchen.
+あおい|この タオルは わたしの しごとです。|This towel is my job.
+みさき|その とおり。いすも おねがいします。|Exactly. The chairs too, please.
+あおい|はい。いすは いつもの ばしょです。|Yes. The chairs go in their usual places.
+@ Aoi walks the route with a full tray. She spills a little water at the blind corner, then shifts a small menu stand rather than a chair. The mirror behind the counter now gives her a narrow view of the side entrance. | あおいは トレーを もちます。かどで みずが すこし こぼれます。あおいは メニューを うごかします。カウンターの かがみに、よこの ドアが みえます。
+! G010 G023 G024 G017 G018 G019
+? Why can Aoi not simply block the aisle? | The cafe still needs safe, ordinary service routes.
+? What gives her a view of the side door? | Moving the menu stand exposes the counter mirror's reflection.
+
+## 04b | A card with no name | なまえの ない カード | Counter, after Ren leaves
+@ Aoi wants her mother to explain the damaged logo. Misaki answers practical questions about the cafe's cards but avoids the mark itself. The card contains a pressure indentation on the reverse, as if someone wrote on paper above it. | あおいは カードを おかあさんに みせます。おかあさんは ほかの カードを だします。ふしぎな カードの うらに、ちいさい あとが あります。
+あおい|おかあさん。この カードは ここのですか。|Mom. Is this one of our cards?
+みさき|はい。おみせの カードです。|Yes. It's a cafe card.
+あおい|この カップの えも ここのですか。|Is this cup drawing ours too?
+みさき|そうです。むかしの わたしの えです。|It is. It's an old drawing of mine.
+あおい|おかあさんの え。しりませんでした。|Your drawing. I didn't know.
+みさき|あなたは ちいさかったです。|You were little.
+あおい|でも、この カップは われています。|But this cup is broken.
+みさき|カードは ふるいです。きずも あります。|The card is old. It has scratches too.
+あおい|きずは カップの ここだけです。|The scratch is only on this part of the cup.
+みさき|そうですね。ここだけですね。|That's true. Just there.
+あおい|なまえは ありません。でんわも ありません。|There's no name. No phone number either.
+みさき|おみせの なまえは おもてに あります。|The cafe name is on the front.
+あおい|この ひとの なまえです。|I mean this person's name.
+みさき|だれの カードか、わかりません。|I don't know whose card it is.
+あおい|おかあさんの カードじゃありませんか。|Isn't it your card?
+みさき|わたしの カードは こっちです。|My cards are these ones.
+あおい|たくさん ありますね。ぜんぶ おなじですか。|There are a lot. Are they all the same?
+みさき|おもては おなじです。うらは べつです。|The fronts are the same. The backs vary.
+あおい|こちらは スタンプですね。|This one has stamps.
+みさき|はい。あちらは メッセージの カードです。|Yes. Those are message cards.
+あおい|これは メッセージの カードですか。|Is this a message card?
+みさき|そうですね。でも、メッセージは ありません。|Yes. But there's no message.
+あおい|えが メッセージです。たぶん。|The drawing is the message. Maybe.
+みさき|あおい。こわい ゆめと、これは べつです。|Aoi. Your scary dream and this are separate things.
+あおい|べつですか。ほんとうに？|Are they separate? Really?
+みさき|ここには おきゃくさんも きます。|Customers come here too.
+あおい|はい。おきゃくさんの カードかも。|Yes. Maybe it's a customer's card.
+みさき|まず、おみせです。カードは あとです。|First, the cafe. The card comes later.
+あおい|じゃ、これは ここに おきます。|Then I'll put this here.
+みさき|レジの となりは だめです。|Not next to the till.
+あおい|どうしてですか。ほかの カードも ここです。|Why? The other cards are here too.
+みさき|おきゃくさんの ものかも しれません。|It might belong to a customer.
+あおい|わかりました。わたしが もちます。|Understood. I'll keep it.
+みさき|なくさないで くださいね。|Please don't lose it.
+あおい|はい。この カードは たいせつです。|Yes. This card is important.
+みさき|あなたも たいせつですよ。カードだけじゃありません。|You matter too. It isn't just the card.
+@ Aoi tilts the card toward the window. The indentation resembles a curved digit, but she cannot read a full number. She does not shade it in or invent a message. Misaki interrupts with the opening bell. | あおいは まどの ひかりで カードを みます。うらに すうじの ような あと。でも、はっきり しません。おみせの ベルが なります。
+! G001 G002 G006 G008 G009 G010
+? Who drew the cafe logo? | Misaki, when Aoi was small.
+? Can the indentation be read yet? | No. Only a partial shape is visible.
+
+## 05b | The first change | はじめての ちがい | Front pavement, after opening
+@ A loose flowerpot stands on the cafe step. In Aoi's memory, Ren trips over it and argues with Rina. Aoi moves it before his bicycle returns. Instead, a customer's umbrella knocks a different pot; Rina catches it and splashes herself. | みせの だんに はちが あります。あおいは はちを うごかします。れんの じてんしゃは ぶじです。でも、おきゃくさんの かさが べつの はちに あたります。りなは はちを つかみます。
+りな|あ、つめたい！|Oh, cold!
+あおい|りなさん。だいじょうぶですか。|Rina. Are you all right?
+りな|わたしは だいじょうぶです。くつは だめです。|I'm all right. My shoes aren't.
+あおい|タオルは ここに あります。|There's a towel here.
+りな|ありがとう。あおい タオルですね。|Thanks. The blue towel.
+あおい|いえ、これは べつの タオルです。くつのです。|No, this is a different towel. For shoes.
+りな|タオルも いろいろ ですね。|There are all kinds of towels.
+れん|すみません。ぼくの じてんしゃですか。|Sorry. Was it my bicycle?
+あおい|いいえ。じてんしゃじゃありません。|No. It wasn't the bicycle.
+りな|おきゃくさんの かさです。わざとじゃありません。|A customer's umbrella. It wasn't on purpose.
+れん|よかった。あ、よくないですね。くつが。|Good. Oh, not good. Your shoes.
+りな|くつは ふるいです。だいじょうぶです。|The shoes are old. It's all right.
+あおい|はちは あそこです。みちの そとです。|The pot goes over there. Out of the path.
+れん|あそこに おきますね。|I'll put it over there.
+あおい|ありがとうございます。そこが いいです。|Thank you. That's a good place.
+りな|こちらも おねがいします。おもいです。|This one too, please. It's heavy.
+れん|はい。これは おおきいですね。|Yes. This one is big.
+あおい|わたしも もちます。いっしょに。|I'll carry it too. Together.
+りな|きょうは いい チームですね。|We're a good team today.
+あおい|チーム……。|A team...
+れん|あおいさん。こちらは もう だいじょうぶです。|Aoi. This one's all right now.
+あおい|はい。すみません。|Yes. Sorry.
+りな|どうして はちの ばしょを？|Why did you move the pot?
+あおい|あぶない ばしょでした。|It was in a dangerous place.
+れん|ほんとうですね。ぼくの じてんしゃは おおきいです。|That's true. My bicycle is large.
+りな|あおいちゃんの おかげです。|Thanks to Aoi.
+あおい|でも、くつは ぬれました。|But your shoes got wet.
+りな|くつだけです。わたしは だいじょうぶ。|Just my shoes. I'm fine.
+あおい|けんかも ありませんね。|And there's no argument.
+れん|けんか？ だれと だれですか。|An argument? Between whom?
+あおい|いえ。なんでも ありません。|No. It's nothing.
+りな|れんくんとは パンの けんかだけです。|Ren and I only argue about bread.
+れん|さいごの パンは、いつも りなさんです。|Rina always gets the last piece.
+りな|はやい ひとの パンです。|It belongs to the quick person.
+あおい|きょうは ふたりぶん ありますよ。|There is enough for both of you today.
+れん|じゃ、けんかは ありません。|Then there won't be an argument.
+@ Aoi looks at the unbroken pot, then at Rina laughing with Ren. The remembered argument has not happened, but the water spill is new. Changing a small cause has changed more than one outcome. | はちは われていません。りなと れんは わらいます。あおいの ゆめとは ちがいます。でも、くつの みずも ゆめには ありませんでした。
+! G001 G002 G010 G022 G023 G024
+? What did Aoi successfully prevent? | Ren's remembered collision with the flowerpot.
+? Why does this also make her memories less reliable? | A different accident and a friendly interaction now replace the remembered sequence.
+
+## 06b | The friend who came | ともだちの テーブル | Cafe window table, late morning
+@ Yui arrives with a notebook and sits at the window table. Aoi brings bread before asking for an order. Yui recognizes the gesture as an apology but refuses to let it replace an honest conversation. | ゆいは ノートを もって きます。まどの テーブルに すわります。あおいは パンを もちます。ゆいは パンと あおいの かおを みます。
+ゆい|こんにちは。ほんとうに ここですね。|Hi. You really are here.
+あおい|いらっしゃいませ。きて くれて ありがとう。|Welcome. Thanks for coming.
+ゆい|きょうは おきゃくさんですか。ともだちですか。|Am I a customer today or a friend?
+あおい|ともだちです。パンも あります。|A friend. There's bread too.
+ゆい|パンは うれしいです。でも、はなしも あります。|I'm glad about the bread. But there's something to talk about too.
+あおい|はい。ここで はなします。|Yes. We can talk here.
+ゆい|きのうの メッセージは みましたか。|Did you see yesterday's message?
+あおい|はい。みました。へんじは しませんでした。|Yes. I did. I didn't reply.
+ゆい|わたし、なにか しましたか。|Did I do something?
+あおい|いいえ。ゆいは なにも しませんでした。|No. You didn't do anything.
+ゆい|じゃ、どうしてですか。|Then why?
+あおい|じぶんの ことだけでした。ごめんなさい。|I was thinking only of myself. I'm sorry.
+ゆい|きょうは べつの あおいですね。|You're a different Aoi today.
+あおい|おなじ あおいです。たぶん。|I'm the same Aoi. Probably.
+ゆい|たぶん？ なまえも かくにんですか。|Probably? Are we checking your name too?
+あおい|なまえは あおいです。パンは サービスです。|My name is Aoi. The bread is complimentary.
+ゆい|じゃ、わたしは ゆいです。コーヒーは おかねを はらいます。|Then I'm Yui. I'll pay for the coffee.
+あおい|ありがとうございます、おきゃくさま。|Thank you, ma'am.
+ゆい|ともだちでしょう。|I'm your friend, aren't I?
+あおい|はい。ともだちです。|Yes. You are.
+ゆい|この ノートは、きょうの プレゼントです。|This notebook is your present today.
+あおい|わたしの プレゼントですか。おみせの たんじょうびですよ。|A present for me? It's the cafe's anniversary.
+ゆい|おみせの はなしの ノートです。しゃしんも いれます。|It's a notebook for the cafe's story. We'll put photos in it too.
+あおい|あたらしい ノートですね。きれいです。|A new notebook. It's lovely.
+ゆい|さいしょの ページは、みさきさんです。|The first page is for Misaki.
+あおい|おかあさんの はなしは、わたしも しりません。|I don't know Mom's story either.
+ゆい|じゃ、きょう ききます。|Then we'll ask today.
+あおい|きょうは いそがしいです。よるは どうですか。|She's busy today. How about tonight?
+ゆい|よるは だいじょうぶです。しちじ ごろですか。|Tonight is fine. Around seven?
+あおい|しちじに ここで。みんなも います。|Here at seven. Everyone will be here too.
+ゆい|いいですね。はるくんの しゃしんも ありますか。|Great. Will there be Haru's photos too?
+あおい|はい。でも、バターが おおいです。|Yes. But there's a lot of butter.
+ゆい|バターも おみせの れきしです。|Butter is part of the cafe's history too.
+あおい|そうですね。パンだけじゃありません。|That's true. It isn't just bread.
+ゆい|あおい。きょうは ちゃんと はなしましたね。|Aoi. We actually talked today.
+あおい|はい。あしたも はなします。|Yes. We'll talk tomorrow too.
+@ Yui leaves the notebook open to its blank first page. Aoi writes only 「おかあさん」. She has been so busy protecting her memory of her mother that she has never asked about Misaki's own past. | ノートの さいしょの ページは しろいです。あおいは「おかあさん」と かきます。おかあさんの むかしは、まだ わかりません。
+! G025 G026 G027 G018 G035 G041
+? What does Yui want besides free bread? | An honest explanation for Aoi's silence.
+? What is the notebook for? | Collecting the cafe's story and photographs.
+
+## 07b | A witness with limits | わからない かお | Station bench, before returning
+@ Before Aoi leaves the station, Ren reconstructs exactly what he saw. Aoi offers possible details; he refuses to agree to things he does not remember. A train passes loudly during a critical question, requiring a natural repetition. | あおいと れんは ベンチの そばです。れんは あさの ことを はなします。でんしゃの おとが おおきいです。あおいは もういちど ききます。
+あおい|その ひとは わかい ひとでしたか。|Was that person young?
+れん|わかりません。かおは みませんでした。|I don't know. I didn't see their face.
+あおい|かみは ながかったですか。|Was their hair long?
+れん|それも わかりません。かさが ありました。|I don't know that either. There was an umbrella.
+あおい|こえは おんなの ひとでしたか。|Did the voice sound like a woman's?
+れん|こえは ききませんでした。|I didn't hear a voice.
+あおい|でも、おんなの ひとですか。|But you said it was a woman?
+れん|そう おもいました。でも、わかりません。|That's what I thought. But I don't know.
+あおい|すみません。しつもんが おおいですね。|Sorry. I'm asking a lot of questions.
+れん|だいじょうぶです。でも、ほんとうの ことだけです。|It's all right. But only what I really know.
+あおい|はい。ほんとうの ことだけ。|Yes. Only what you really know.
+れん|かさは あおでした。ふくろは しろでした。|The umbrella was blue. The bag was white.
+あおい|ふくろは その ひとの てに ありましたか。|Was the bag in that person's hand?
+れん|いいえ。ぼくは ベンチの したで みました。|No. I saw it under the bench.
+あおい|じゃ、その ひとの ふくろか わかりませんね。|Then we don't know if the bag belonged to that person.
+れん|はい。そこは わかりません。|Right. We don't know that.
+あおい|わたしは すぐ きめました。まちがいです。|I decided too quickly. That was a mistake.
+れん|ぼくも よく まちがいます。|I often get things wrong too.
+あおい|はいたつの ばしょですか。|Delivery addresses?
+れん|それは あまり まちがえません。ひとの なまえです。|I don't often get those wrong. People's names.
+あおい|わたしの なまえは？|What's my name?
+れん|あおいさんです。あおい カップの あおいさん。|Aoi. Aoi of the blue cup.
+あおい|それは おぼえやすいですね。|That's easy to remember.
+れん|ぼくの なまえは？|What's my name?
+あおい|バナナさんです。|Mr. Banana.
+れん|それは こまります。|That's a problem.
+あおい|じょうだんです。れんさん。|I'm joking. Ren.
+れん|よかった。あ、じかんです。|Good. Oh, it's time.
+あおい|つぎも びょういんですか。|Is your next stop the hospital too?
+れん|いいえ。がっこうへ いきます。|No. I'm going to a school.
+あおい|ごごは おみせに きますか。|Will you come to the cafe this afternoon?
+れん|はい。コーヒーを のみます。|Yes. I'll have coffee.
+あおい|パンも あります。バナナじゃありません。|There's bread too. It isn't bananas.
+れん|それは いい ニュースです。|That's good news.
+あおい|ありがとう。はなしも、ふくろも。|Thank you. For talking, and for the bag.
+れん|じゃ、また あとで。ミルクは れいぞうこですよ。|See you later. The milk belongs in the fridge.
+@ Aoi writes three separate entries: 「みた」, 「きいた」, 「まだ わからない」. She places the umbrella carrier's identity in the third column. She returns to the cafe carrying milk and fewer assumptions. | あおいは ノートに みっつの ことばを かきます。「みた」「きいた」「まだ わからない」。あおい かさの ひとの なまえは、まだ わかりません。
+! G026 G041 G043 G029 G027
+? Which detail does Ren know directly? | He saw a blue umbrella and found a white bag under the bench.
+? Does he know that the umbrella carrier owned the bag? | No.
+
+## 08b | The other side of a photograph | しゃしんの むこう | Back room, just before midday
+@ Haru enlarges the photograph until it becomes blocky. Aoi is tempted to read detail into the blur. Yui, still finishing coffee, shows how cropping out the clock makes the same scene misleading. | はるは しゃしんを おおきく します。かおは はっきり しません。ゆいは とけいの ない しゃしんも みせます。あおいは ふたつを くらべます。
+はる|もっと おおきい しゃしんです。どうですか。|Here's a bigger picture. How is it?
+あおい|かおは、まだ わかりませんね。|We still can't make out the face.
+はる|これは めですか。くちですか。|Is this an eye? A mouth?
+ゆい|たぶん、かさの かげです。|Probably the umbrella's shadow.
+あおい|わたしは くちだと おもいました。|I thought it was a mouth.
+ゆい|ちいさい しゃしんです。むりは だめです。|It's a small image. We can't force it.
+はる|この カメラは わるい カメラですか。|Is this a bad camera?
+あおい|いいえ。たいせつな しゃしんが あります。|No. We have an important photograph.
+ゆい|ぜんぶは わかりません。でも、すこし わかります。|We don't know everything. But we know a little.
+あおい|おかあさんは ドアの なか。かさは そと。|Mom is inside the door. The umbrella is outside.
+はる|ふうとうは あいだです。だれのですか。|The envelope is between them. Whose is it?
+あおい|まだ わかりません。これも たいせつです。|We don't know yet. That matters too.
+ゆい|こちらは どうですか。ドアだけです。|What about this version? Only the door.
+あおい|おかあさんの てが ありません。|Mom's hand is gone.
+ゆい|そうです。でも、おなじ しゃしんです。|Right. But it's the same photograph.
+はる|へんな しゃしんです。ぼくのじゃ ありません。|That's a strange picture. It isn't mine.
+ゆい|もとの しゃしんも ありますよ。ここです。|The original is still here. Look.
+あおい|もとの しゃしんは そのままですね。|The original stays unchanged, right?
+ゆい|はい。こちらは コピーです。|Yes. This is a copy.
+はる|コピーは いいです。でも、ぼくの なまえも です。|A copy is fine. But my name goes on it too.
+あおい|もちろん。カメラの ひとは はるです。|Of course. The photographer is Haru.
+ゆい|あとで ノートに いれます。いいですか。|We'll put it in the notebook later. Is that all right?
+はる|はい。でも、バターの しゃしんも です。|Yes. But the butter photo too.
+あおい|バターは べつの ページです。|The butter gets a separate page.
+ゆい|バターの ページは おおきいですね。|The butter page will be large.
+はる|いちばん たいせつな ページです。|The most important page.
+あおい|この しゃしんの まえは なにですか。|What's the photo before this one?
+はる|これです。おねえちゃんの あしです。|This. Your feet.
+ゆい|どうして あしですか。|Why her feet?
+はる|カメラが したでした。まちがいです。|The camera pointed down. A mistake.
+あおい|でも、うしろに とけいが あります。|But there's a clock in the background.
+ゆい|ほんとうですね。カメラの じかんと ちがいます。|You're right. It differs from the camera time.
+はる|まちがいも ヒントですね。|A mistake can be a clue too.
+あおい|はい。でも、まちがいは まちがいです。|Yes. But a mistake is still a mistake.
+ゆい|そこは ノートにも かきます。|We'll write that in the notebook too.
+はる|ぼくの なまえは、まちがえないで ください。|Please don't get my name wrong.
+@ They save the original separately from the crop. Aoi's confidence has shifted from certainty about a suspect to care about what can actually be known. Yui leaves for class, promising to return at seven. | もとの しゃしんと コピーは べつです。あおいは ノートに かきます。ゆいは がっこうへ いきます。しちじに また カフェです。
+! G023 G024 G001 G002 G006
+? Why is a larger image not necessarily better evidence? | Enlarging it does not restore missing facial detail.
+? Which version is preserved? | The original, separately from the cropped copy.
+
+## 09b | Her mother's customer | おかあさんの おきゃくさん | Cafe counter, midday
+@ An elderly regular, Nao, buys bread on credit. Aoi initially interprets the blank envelope she brings as another clue. Nao explains its ordinary purpose: small repayments for meals. Misaki has helped more people than Aoi knew. | なおさんは パンを かいます。てには しろい ふうとう。あおいは その ふうとうを みます。なかは、すこしの おかねです。
+なお|みさきさん。きょうは ごひゃくえんです。|Misaki. Five hundred yen today.
+みさき|ありがとうございます。あわてなくて いいですよ。|Thank you. There's no need to rush.
+あおい|その ふうとうは なんですか。|What's that envelope?
+なお|パンの おかねです。わたしの パンです。|Money for bread. My bread.
+あおい|きょうの パンですか。|Today's bread?
+なお|いいえ。まえの パンです。きょうも パンですけど。|No. Bread from before. Though I'm having bread today too.
+みさき|きょうは やわらかい パンが あります。|We have soft bread today.
+なお|それが いいです。かたい パンは むずかしいです。|That would be good. Hard bread is difficult for me.
+あおい|ふたつで いいですか。|Will two be all right?
+なお|はい。ひとつは あさ、ひとつは よるです。|Yes. One for morning, one for evening.
+あおい|ひるは なにを たべますか。|What do you eat for lunch?
+なお|ひるは むすめと たべます。きょうは うれしい ひです。|Lunch with my daughter. It's a happy day.
+みさき|よかったですね。おむかえは ここですか。|That's lovely. Is she picking you up here?
+なお|はい。じゅうにじはんです。あと すこしです。|Yes. At twelve thirty. Just a little longer.
+あおい|こちらで まちますか。いすが あります。|Would you like to wait here? There's a chair.
+なお|ありがとう。おかあさんと おなじですね。|Thank you. You're just like your mother.
+あおい|いいえ。わたしは まだ なにも しりません。|No. I still don't know anything.
+なお|パンの ばしょは しっていますよ。|You know where the bread is.
+あおい|それは しっています。ここです。|I know that. Here.
+なお|いすの ばしょも しっています。|And you know where the chairs are.
+あおい|はい。こちらです。|Yes. This way.
+なお|それで、きょうの わたしは たすかります。|And that helps me today.
+あおい|そうですか。|Does it?
+なお|そうです。おおきい ことだけじゃ ありません。|It does. It isn't only big things that matter.
+みさき|おみずは ここです。おちゃも あります。|Water is here. We have tea too.
+なお|おみずで だいじょうぶです。ありがとう。|Water is fine. Thank you.
+あおい|おかあさん。この ふうとうは どこですか。|Mom. Where does this envelope go?
+みさき|こっちの はこです。ぎんこうの とは べつです。|This box. Separate from the bank money.
+あおい|べつですね。わかりました。|Separate. Understood.
+なお|ふうとうは おなじです。でも、なかは ちがいます。|The envelopes look the same. But what's inside differs.
+あおい|はい。ほんとうに そうですね。|Yes. That's very true.
+なお|わたしの ふうとうは かるいですよ。|My envelope is light.
+みさき|きもちは おもいです。ありがとうございます。|The kindness carries weight. Thank you.
+なお|おもい きもちは いやですね。あたたかい、で。|Heavy feelings don't sound nice. Let's say warm.
+あおい|あたたかい ふうとうですね。|A warm envelope, then.
+なお|そうです。パンも あたたかいです。|Exactly. And the bread is warm too.
+@ Nao's daughter arrives and carries her bag. Aoi notices how Misaki watches them leave with relief rather than counting the coins. She labels the repayment box clearly before placing the envelope inside. | なおさんの むすめが きます。おかあさんは ふたりを みます。あおいは はこに なまえを かきます。ふうとうは その はこの なかです。
+! G016 G017 G018 G023 G027 G041 G042
+? Why is this white envelope unrelated to the suspected missing money? | It is a customer's repayment and belongs in a separate box.
+? What does Aoi learn about helping? | Ordinary practical actions can matter without solving the entire mystery.
+
+## 10b | A plan with witnesses | みんなの やくそく | Cafe preparation table, early afternoon
+@ Aoi and Rina prepare the anniversary display. Aoi proposes that someone stay near Misaki when the company representative arrives. Rina agrees to practical help but rejects an order to follow Misaki everywhere. | あおいと りなは おいわいの じゅんびを します。テーブルに カードと はな。あおいは きょうの よていを はなします。りなは はなしを ききます。
+あおい|きょう、かいしゃの ひとが きます。|Someone from the company is coming today.
+りな|はい。しょるいの ひとですね。|Yes. The person with the documents.
+あおい|その とき、りなさんも ここに いますか。|Will you be here then too?
+りな|います。わたしは ここで はたらきます。|I will. I'll be working here.
+あおい|おかあさんの そばが いいです。|It would be good if you were near Mom.
+りな|なにか しんぱいですか。|Are you worried about something?
+あおい|はい。しょるいは むずかしいです。|Yes. The documents are difficult.
+りな|わたしも しょるいは とくいじゃありません。|I'm not good with documents either.
+あおい|でも、ふたりは ひとりより いいです。|But two people are better than one.
+りな|そうですね。でも、みさきさんの きもちも あります。|True. But Misaki has her own feelings too.
+あおい|おかあさんは いつも だいじょうぶです。ことばだけ。|Mom always says she's fine. Just the words.
+りな|わたしたちは おかあさんの かんしじゃありません。|We aren't here to watch over her every move.
+あおい|かんしじゃ ありません。おてつだいです。|It isn't surveillance. It's help.
+りな|じゃ、まず おかあさんに ききます。|Then we'll ask her first.
+あおい|はい。それが いいです。|Yes. That's a good idea.
+りな|みさきさん。あとで わたしたちも いっしょですか。|Misaki. Can we join you later too?
+みさき|しょるいの はなしですか。|For the discussion about the documents?
+あおい|はい。わたしも ききます。|Yes. I'd like to listen too.
+みさき|いいですよ。でも、おみせの しごとも あります。|That's fine. But there's cafe work too.
+りな|わたしは レジです。あおいちゃんは おちゃです。|I'll cover the till. Aoi can bring tea.
+あおい|おちゃと、しょるいの はなしです。|Tea, and the document discussion.
+みさき|はい。わかりました。|Yes. Understood.
+りな|これは はなの カードです。どこに おきますか。|This is the flower card. Where should it go?
+みさき|まどの テーブルに おねがいします。|On the window table, please.
+あおい|この しろい カードですか。|This white card?
+りな|そうです。こちらは パンの カードです。|Yes. This one is for the bread.
+あおい|「じゅうねん、ありがとう。」いいですね。|“Ten years. Thank you.” That's nice.
+みさき|あと じゅうねんも ここです。|Another ten years here too.
+あおい|はい。あと じゅうねんも。|Yes. Another ten years.
+りな|その とき、はるくんは おとなですね。|Haru will be an adult then.
+みさき|その ときも パンでしょう。|He'll still be all about bread.
+あおい|カメラも ありますよ。|And cameras too.
+りな|じゃ、しゃしんの カフェですね。|Then it'll be a photography cafe.
+あおい|ゆいの ノートも ここです。みんなの おみせです。|Yui's notebook will be here too. Everyone's cafe.
+みさき|そうですね。わたしだけの おみせじゃありません。|That's true. It isn't only my cafe.
+あおい|だから、はなしも みんなで おねがいします。|Then please include everyone in the conversation too.
+@ Misaki agrees but checks her phone as soon as Aoi turns away. A new message contains only an umbrella symbol and a time. She turns the phone face down. Aoi has gained permission to participate, not access to every secret. | おかあさんは うなずきます。でも、でんわに あたらしい メッセージ。かさの マークと じかんだけです。おかあさんは がめんを したに します。
+! G025 G027 G028 G013 G041
+? What boundary does Rina insist on? | Ask Misaki rather than silently controlling or following her.
+? What does Misaki agree to? | Letting Aoi listen to the document discussion while Rina covers service.
+
+## 11b | The number on the old card | ふるい カードの ばんごう | Counter, after Sato leaves
+@ Misaki wants to call the management company. Aoi points out that the number on today's document might lead back to Sato. Misaki retrieves a business card from an older rent receipt. It has a different number and the same company name. | おかあさんは かいしゃに でんわします。あおいは きょうの しょるいを みます。おかあさんは ふるい カードを だします。かいしゃの なまえは おなじです。ばんごうは ちがいます。
+あおい|その ばんごうは きょうの しょるいですか。|Is that number from today's document?
+みさき|はい。ここに あります。|Yes. It's here.
+あおい|ふるい ばんごうも ありますか。|Do you have an older number too?
+みさき|まえの カードが あります。ひきだしです。|There's an earlier card. In the drawer.
+あおい|おかねの ひきだしですか。|The money drawer?
+みさき|いいえ。こっちの ひきだしです。|No. This drawer.
+りな|こちらは レシートですね。カードも あります。|These are receipts. There are cards too.
+あおい|なまえは おなじです。ばんごうは べつです。|The name is the same. The number is different.
+みさき|あたらしい ばんごうかも しれません。|It may be a new number.
+あおい|はい。でも、まず ふるい ほうです。|Yes. But the old one first.
+りな|おみせの でんわで かけますか。|Will you use the cafe phone?
+みさき|いいえ。にかいは しずかです。にかいで かけます。|No. It's quiet upstairs. I'll call upstairs.
+あおい|わたしも いきます。|I'll come too.
+みさき|いまは ひとりで はなします。あとで みんなに はなします。|I'll talk alone now. I'll tell everyone afterward.
+あおい|でも、おかあさん。|But, Mom.
+りな|あおいちゃん。おやくそくです。|Aoi. We agreed.
+あおい|はい。わかりました。|Yes. Understood.
+みさき|ありがとう。ノートは ここですか。|Thank you. Is the notebook here?
+あおい|はい。ゆいの ノートです。さいしょの ページです。|Yes. Yui's notebook. The first page.
+みさき|「おかあさん」ですか。わたしの はなし？|“Mom”? My story?
+あおい|はい。きょうの よる、みんなで。|Yes. Tonight, with everyone.
+みさき|ながい はなしです。|It's a long story.
+あおい|じかんは あります。きょうは あります。|We have time. We have time today.
+みさき|そうですね。きょうは あります。|That's true. We have time today.
+りな|おちゃも パンも あります。|We have tea and bread too.
+みさき|じゃ、あとで。すぐ もどります。|Then later. I'll be right back.
+あおい|おかあさん。あの カードも おかあさんの はなしですか。|Mom. Is that card part of your story too?
+みさき|どの カードですか。|Which card?
+あおい|われた カップの カードです。|The card with the broken cup.
+みさき|その カードは、なくさないで ください。|Please don't lose that card.
+あおい|こたえじゃ ありません。|That isn't an answer.
+みさき|ごめんなさい。よるに はなします。|I'm sorry. I'll tell you tonight.
+りな|みさきさん、おみずも どうぞ。|Misaki, take some water too.
+みさき|ありがとう。あおい、レジを おねがいします。|Thank you. Aoi, the till, please.
+あおい|はい。ここに います。|Yes. I'll be here.
+みさき|そう。それで だいじょうぶです。|Good. That's enough.
+@ As Misaki climbs the stairs, she pauses at the framed opening-day photograph. She touches the face of a young woman mostly hidden behind her own shoulder. Aoi sees the gesture but cannot see which face she touched. | おかあさんは かいだんで とまります。ふるい しゃしんに ふれます。しゃしんに わかい おんなの ひとが います。あおいからは、その かおが よく みえません。
+! G001 G002 G006 G008 G023 G025 G028
+? Why use the older contact number? | It comes from an independent earlier record rather than today's questioned document.
+? What does Misaki promise? | To explain her story to everyone that evening.
+
+## 11c | The photograph on the stairs | かいだんの しゃしん | Stair foot, moments later
+@ Aoi stops at the photograph instead of following Misaki. Haru stands on the lowest step to look with her. Rina knows the date but not the unnamed young woman in the image. They find a second blue cup at the far edge of the table in the photograph. | あおいは かいだんの したで しゃしんを みます。はるも いっしょです。りなは ひづけを しっています。でも、わかい おんなの ひとの なまえは しりません。
+はる|これは おみせの さいしょの ひですか。|Is this the cafe's first day?
+りな|はい。じゅうねん まえです。|Yes. Ten years ago.
+あおい|おかあさんは ここです。おとうさんは となりです。|Mom is here. Dad is beside her.
+はる|ぼくは どこですか。|Where am I?
+あおい|まだ いません。はるの まえです。|You aren't there yet. Before you.
+はる|じゃ、パンは たくさん ありますね。|Then there's plenty of bread.
+りな|そうですね。まだ パンの おうさまは いません。|That's right. The bread king hasn't arrived yet.
+あおい|この ひとは だれですか。おかあさんの うしろです。|Who's this person? Behind Mom.
+りな|わかりません。わたしも その ひは いませんでした。|I don't know. I wasn't there that day either.
+はる|かおが はんぶんだけです。おねえちゃんみたい。|Only half a face. Looks like you.
+あおい|わたしは この とき、こどもです。|I was a child then.
+りな|にていますね。でも、べつの ひとです。|There is a resemblance. But it's someone else.
+あおい|この ひとの まえに カップが あります。|There's a cup in front of this person.
+はる|あおい カップです。おねえちゃんのです。|A blue cup. Yours.
+あおい|でも、こっちにも あおい カップが あります。|But there's a blue cup here too.
+りな|ほんとうですね。ふたつ あります。|You're right. There are two.
+はる|じゃ、ひとつは ぼくのです。|Then one is mine.
+あおい|いまは ひとつだけです。もう ひとつは どこですか。|There's only one now. Where's the other?
+りな|ふるい カップです。われたのかも しれません。|It's an old cup. Maybe it broke.
+あおい|われた カップ……。|A broken cup...
+はる|おねえちゃん。また こわい かおです。|Aoi. You're making that scary face again.
+あおい|ごめん。しゃしんを みます。かおは ふつうです。|Sorry. I'm looking at the photo. Normal face.
+りな|ふつうより、ちょっと へんです。|A little stranger than normal.
+あおい|これで どうですか。|How about this?
+はる|もっと へんです。|Stranger.
+あおい|じゃ、かおは やすみです。|Then my face is taking a break.
+りな|それが いいです。おみせに もどります。|Good idea. I'm going back to the cafe.
+あおい|はい。すぐ いきます。|Yes. I'll be right there.
+はる|しゃしんの うらは みますか。|Shall we look at the back of the photo?
+あおい|これは おかあさんのです。あとで いっしょに みます。|It's Mom's. We'll look with her later.
+はる|かってに だめですね。|We shouldn't do it without asking.
+あおい|はい。わたしも さっき まちがいました。|Right. I made that mistake earlier too.
+はる|じゃ、ノートに「カップ ふたつ」です。|Then write “two cups” in the notebook.
+あおい|「カップ ふたつ」。それから、「なまえは まだ」。|“Two cups.” And “name still unknown.”
+はる|あしたは なまえも ありますか。|Will we have a name tomorrow?
+あおい|たぶん。あしたも ここで。|Maybe. Here tomorrow too.
+@ Haru returns to the tables. Aoi places her present-day blue cup beneath the framed photograph, aligning it with one of the two cups. It matches both. The cafe bell rings: Ren has returned. | はるは テーブルへ いきます。あおいは いまの カップを しゃしんの したに おきます。ふたつの カップは、どちらも おなじです。ベルが なります。れんです。
+! G001 G002 G006 G022 G023 G024
+? What does the old photo establish? | There were originally two similar blue cups.
+? Is the half-hidden woman's identity confirmed? | No. A resemblance is only a lead.

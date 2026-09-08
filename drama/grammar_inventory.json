@@ -1,0 +1,2464 @@
+[
+  {
+    "id": "G001",
+    "group": "N5 foundations",
+    "chapter": 1,
+    "pattern": "です",
+    "explanation": "Noun predicates; polite identity",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G002",
+    "group": "N5 foundations",
+    "chapter": 1,
+    "pattern": "じゃありません / ではありません",
+    "explanation": "Negative noun predicates",
+    "status": "anchor candidates in opening; contextual examples, not exhaustive proof",
+    "actual_anchors": [
+      "S01-L020",
+      "S02-L028",
+      "S04-L020",
+      "S05-L014",
+      "S06-L001",
+      "S07-L003",
+      "S08-L015",
+      "S09-L019",
+      "S10-L009",
+      "S11-L042",
+      "S12-L034",
+      "S14-L033",
+      "S15-L044",
+      "S17-L019",
+      "S19-L003",
+      "S20-L008",
+      "S21-L025"
+    ]
+  },
+  {
+    "id": "G003",
+    "group": "N5 foundations",
+    "chapter": 1,
+    "pattern": "でした / じゃありませんでした",
+    "explanation": "Past noun predicates",
+    "status": "anchor candidates in opening; contextual examples, not exhaustive proof",
+    "actual_anchors": [
+      "S02-L010",
+      "S04-L019",
+      "S10-L024",
+      "S12-L012",
+      "S13-L030",
+      "S14-L001",
+      "S16-L030",
+      "S24-L007"
+    ]
+  },
+  {
+    "id": "G004",
+    "group": "N5 foundations",
+    "chapter": 1,
+    "pattern": "は",
+    "explanation": "Topic and contrast; pronounced wa",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G005",
+    "group": "N5 foundations",
+    "chapter": 1,
+    "pattern": "か",
+    "explanation": "Polite question marker",
+    "status": "anchor candidates in opening; contextual examples, not exhaustive proof",
+    "actual_anchors": [
+      "S01-L027",
+      "S02-L003",
+      "S03-L020",
+      "S04-L001",
+      "S05-L001",
+      "S06-L004",
+      "S07-L004",
+      "S08-L001",
+      "S09-L005",
+      "S10-L002",
+      "S11-L019",
+      "S12-L003",
+      "S13-L002",
+      "S14-L003",
+      "S15-L014",
+      "S16-L001",
+      "S17-L011",
+      "S18-L003",
+      "S19-L004",
+      "S20-L006",
+      "S21-L002",
+      "S22-L001",
+      "S23-L001",
+      "S24-L009"
+    ]
+  },
+  {
+    "id": "G006",
+    "group": "N5 foundations",
+    "chapter": 1,
+    "pattern": "の",
+    "explanation": "Possession and noun linkage",
+    "status": "anchor candidates in opening; contextual examples, not exhaustive proof",
+    "actual_anchors": [
+      "S01-L007",
+      "S02-L001",
+      "S03-L008",
+      "S04-L001",
+      "S05-L002",
+      "S06-L001",
+      "S07-L007",
+      "S08-L001",
+      "S09-L006",
+      "S10-L006",
+      "S11-L025",
+      "S12-L007",
+      "S13-L003",
+      "S14-L001",
+      "S15-L003",
+      "S16-L004",
+      "S17-L011",
+      "S18-L003",
+      "S19-L003",
+      "S20-L001",
+      "S21-L003",
+      "S22-L001",
+      "S23-L001",
+      "S24-L010"
+    ]
+  },
+  {
+    "id": "G007",
+    "group": "N5 foundations",
+    "chapter": 1,
+    "pattern": "も",
+    "explanation": "Also; replaces topic or subject markers",
+    "status": "anchor candidates in opening; contextual examples, not exhaustive proof",
+    "actual_anchors": [
+      "S02-L003",
+      "S03-L011",
+      "S04-L003",
+      "S05-L028",
+      "S06-L014",
+      "S07-L018",
+      "S08-L003",
+      "S09-L034",
+      "S10-L007",
+      "S11-L016",
+      "S12-L004",
+      "S13-L010",
+      "S14-L004",
+      "S15-L019",
+      "S16-L012",
+      "S17-L032",
+      "S18-L006",
+      "S19-L008",
+      "S20-L003",
+      "S21-L018",
+      "S22-L003",
+      "S23-L009",
+      "S24-L004"
+    ]
+  },
+  {
+    "id": "G008",
+    "group": "N5 foundations",
+    "chapter": 1,
+    "pattern": "これ / それ / あれ / どれ",
+    "explanation": "Independent demonstratives",
+    "status": "anchor candidates in opening; contextual examples, not exhaustive proof",
+    "actual_anchors": [
+      "S01-L016",
+      "S02-L001",
+      "S03-L008",
+      "S04-L035",
+      "S05-L001",
+      "S07-L015",
+      "S08-L021",
+      "S09-L005",
+      "S10-L006",
+      "S15-L001",
+      "S16-L003",
+      "S20-L023",
+      "S21-L013",
+      "S23-L001",
+      "S24-L019"
+    ]
+  },
+  {
+    "id": "G009",
+    "group": "N5 foundations",
+    "chapter": 1,
+    "pattern": "この / その / あの / どの",
+    "explanation": "Demonstratives before nouns",
+    "status": "anchor candidates in opening; contextual examples, not exhaustive proof",
+    "actual_anchors": [
+      "S01-L029",
+      "S02-L003",
+      "S04-L013",
+      "S05-L003",
+      "S06-L001",
+      "S07-L007",
+      "S08-L001",
+      "S09-L025",
+      "S11-L026",
+      "S12-L021",
+      "S13-L006",
+      "S15-L029",
+      "S16-L007",
+      "S17-L034",
+      "S18-L027",
+      "S19-L044",
+      "S20-L025",
+      "S21-L021",
+      "S23-L008",
+      "S24-L021"
+    ]
+  },
+  {
+    "id": "G010",
+    "group": "N5 foundations",
+    "chapter": 1,
+    "pattern": "ここ / そこ / あそこ / どこ",
+    "explanation": "Places",
+    "status": "anchor candidates in opening; contextual examples, not exhaustive proof",
+    "actual_anchors": [
+      "S02-L024",
+      "S06-L010",
+      "S07-L042",
+      "S09-L024",
+      "S13-L002",
+      "S17-L025",
+      "S18-L027",
+      "S19-L023",
+      "S20-L023",
+      "S23-L004",
+      "S24-L051"
+    ]
+  },
+  {
+    "id": "G011",
+    "group": "N5 foundations",
+    "chapter": 1,
+    "pattern": "こちら / そちら / あちら / どちら",
+    "explanation": "Polite directions and alternatives",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G012",
+    "group": "N5 foundations",
+    "chapter": 1,
+    "pattern": "だれ / なに / なん",
+    "explanation": "People and things; sound-dependent readings",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G013",
+    "group": "N5 foundations",
+    "chapter": 1,
+    "pattern": "と",
+    "explanation": "Complete noun list and accompaniment",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G014",
+    "group": "N5 foundations",
+    "chapter": 1,
+    "pattern": "ね / よ",
+    "explanation": "Shared confirmation and new information",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G015",
+    "group": "N5 foundations",
+    "chapter": 1,
+    "pattern": "はい / いいえ",
+    "explanation": "Responses; align with proposition and context",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G016",
+    "group": "N5 foundations",
+    "chapter": 1,
+    "pattern": "いくつ / いくら",
+    "explanation": "Number of things and price",
+    "status": "anchor candidates in opening; contextual examples, not exhaustive proof",
+    "actual_anchors": [
+      "S05-L011",
+      "S13-L026"
+    ]
+  },
+  {
+    "id": "G017",
+    "group": "N5 foundations",
+    "chapter": 1,
+    "pattern": "じ / ふん / はん",
+    "explanation": "Clock time and irregular readings",
+    "status": "anchor candidates in opening; contextual examples, not exhaustive proof",
+    "actual_anchors": [
+      "S05-L031",
+      "S06-L024",
+      "S13-L020",
+      "S15-L014"
+    ]
+  },
+  {
+    "id": "G018",
+    "group": "N5 foundations",
+    "chapter": 1,
+    "pattern": "に",
+    "explanation": "Specific time; some time words take no particle",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G019",
+    "group": "N5 foundations",
+    "chapter": 1,
+    "pattern": "から / まで",
+    "explanation": "Starting and ending points",
+    "status": "anchor candidates in opening; contextual examples, not exhaustive proof",
+    "actual_anchors": [
+      "S02-L006",
+      "S05-L035",
+      "S06-L024",
+      "S09-L039",
+      "S16-L018",
+      "S21-L044"
+    ]
+  },
+  {
+    "id": "G020",
+    "group": "N5 foundations",
+    "chapter": 1,
+    "pattern": "や / など",
+    "explanation": "Non-exhaustive lists",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G021",
+    "group": "N5 everyday action",
+    "chapter": 2,
+    "pattern": "が",
+    "explanation": "Subject, new information and question-word subjects",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G022",
+    "group": "N5 everyday action",
+    "chapter": 2,
+    "pattern": "あります / います",
+    "explanation": "Existence; things versus animate beings",
+    "status": "anchor candidates in opening; contextual examples, not exhaustive proof",
+    "actual_anchors": [
+      "S04-L011",
+      "S05-L023",
+      "S06-L020",
+      "S06-L028",
+      "S07-L008",
+      "S07-L031",
+      "S08-L008",
+      "S09-L021",
+      "S09-L003",
+      "S10-L004",
+      "S10-L015",
+      "S11-L050",
+      "S11-L006",
+      "S12-L004",
+      "S12-L017",
+      "S13-L006",
+      "S13-L004",
+      "S14-L033",
+      "S16-L008",
+      "S17-L003",
+      "S17-L018",
+      "S18-L007",
+      "S18-L002",
+      "S19-L010",
+      "S19-L040",
+      "S20-L010",
+      "S20-L003",
+      "S21-L035",
+      "S21-L007",
+      "S22-L002",
+      "S22-L035",
+      "S23-L006",
+      "S24-L012"
+    ]
+  },
+  {
+    "id": "G023",
+    "group": "N5 everyday action",
+    "chapter": 2,
+    "pattern": "に ... が あります",
+    "explanation": "Location of existence",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G024",
+    "group": "N5 everyday action",
+    "chapter": 2,
+    "pattern": "うえ / した / なか / そと / まえ / うしろ / となり / あいだ",
+    "explanation": "Relative position with の",
+    "status": "anchor candidates in opening; contextual examples, not exhaustive proof",
+    "actual_anchors": [
+      "S02-L025",
+      "S03-L019",
+      "S05-L022",
+      "S07-L014",
+      "S09-L012",
+      "S16-L010",
+      "S18-L030",
+      "S19-L024"
+    ]
+  },
+  {
+    "id": "G025",
+    "group": "N5 everyday action",
+    "chapter": 2,
+    "pattern": "ます / ません",
+    "explanation": "Polite nonpast affirmative and negative",
+    "status": "anchor candidates in opening; contextual examples, not exhaustive proof",
+    "actual_anchors": [
+      "S01-L020",
+      "S02-L011",
+      "S04-L020",
+      "S05-L014",
+      "S06-L001",
+      "S07-L001",
+      "S08-L005",
+      "S09-L019",
+      "S10-L008",
+      "S11-L001",
+      "S12-L008",
+      "S13-L019",
+      "S14-L002",
+      "S15-L037",
+      "S16-L002",
+      "S17-L014",
+      "S18-L017",
+      "S19-L002",
+      "S20-L008",
+      "S21-L025",
+      "S22-L009",
+      "S23-L005",
+      "S24-L005"
+    ]
+  },
+  {
+    "id": "G026",
+    "group": "N5 everyday action",
+    "chapter": 2,
+    "pattern": "ました / ませんでした",
+    "explanation": "Polite past affirmative and negative",
+    "status": "anchor candidates in opening; contextual examples, not exhaustive proof",
+    "actual_anchors": [
+      "S05-L047",
+      "S07-L009",
+      "S08-L033",
+      "S09-L023",
+      "S10-L027",
+      "S12-L007",
+      "S13-L016",
+      "S14-L004",
+      "S15-L012",
+      "S16-L005",
+      "S17-L010",
+      "S18-L029",
+      "S19-L015",
+      "S20-L022",
+      "S21-L005",
+      "S22-L017",
+      "S23-L032",
+      "S24-L011"
+    ]
+  },
+  {
+    "id": "G027",
+    "group": "N5 everyday action",
+    "chapter": 2,
+    "pattern": "を",
+    "explanation": "Direct object; pronounced o",
+    "status": "anchor candidates in opening; contextual examples, not exhaustive proof",
+    "actual_anchors": [
+      "S06-L029",
+      "S11-L003",
+      "S12-L017",
+      "S14-L032",
+      "S15-L002",
+      "S17-L001",
+      "S18-L011",
+      "S19-L020",
+      "S21-L009",
+      "S22-L034",
+      "S23-L022",
+      "S24-L003"
+    ]
+  },
+  {
+    "id": "G028",
+    "group": "N5 everyday action",
+    "chapter": 2,
+    "pattern": "で",
+    "explanation": "Place of action and means",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G029",
+    "group": "N5 everyday action",
+    "chapter": 2,
+    "pattern": "へ / に",
+    "explanation": "Direction and destination",
+    "status": "anchor candidates in opening; contextual examples, not exhaustive proof",
+    "actual_anchors": [
+      "S14-L030"
+    ]
+  },
+  {
+    "id": "G030",
+    "group": "N5 everyday action",
+    "chapter": 2,
+    "pattern": "と いっしょに",
+    "explanation": "Together with",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G031",
+    "group": "N5 everyday action",
+    "chapter": 2,
+    "pattern": "いつ / どう / どうして",
+    "explanation": "Time, manner and reason questions",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G032",
+    "group": "N5 everyday action",
+    "chapter": 2,
+    "pattern": "あまり ... ません / ぜんぜん ... ません",
+    "explanation": "Low or zero frequency/degree in beginner usage",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G033",
+    "group": "N5 everyday action",
+    "chapter": 2,
+    "pattern": "いつも / よく / ときどき",
+    "explanation": "Frequency words and placement",
+    "status": "anchor candidates in opening; contextual examples, not exhaustive proof",
+    "actual_anchors": [
+      "S06-L009",
+      "S07-L033",
+      "S10-L033",
+      "S11-L021",
+      "S20-L011"
+    ]
+  },
+  {
+    "id": "G034",
+    "group": "N5 everyday action",
+    "chapter": 2,
+    "pattern": "だけ",
+    "explanation": "Only; limitation",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G035",
+    "group": "N5 everyday action",
+    "chapter": 2,
+    "pattern": "ぐらい / くらい",
+    "explanation": "Approximate quantities",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G036",
+    "group": "N5 everyday action",
+    "chapter": 2,
+    "pattern": "ひとつ / ふたつ / みっつ",
+    "explanation": "General counter series",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G037",
+    "group": "N5 everyday action",
+    "chapter": 2,
+    "pattern": "ひとり / ふたり / にん",
+    "explanation": "People counters",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G038",
+    "group": "N5 everyday action",
+    "chapter": 2,
+    "pattern": "まい / ほん / さつ / ひき / かい",
+    "explanation": "Counter agreement and sound changes",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G039",
+    "group": "N5 everyday action",
+    "chapter": 2,
+    "pattern": "まいにち / しゅうに ... かい",
+    "explanation": "Frequency over a time interval",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G040",
+    "group": "N5 everyday action",
+    "chapter": 2,
+    "pattern": "じかん / かげつ / ねん",
+    "explanation": "Duration, contrasted with clock time",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G041",
+    "group": "N5 descriptions and choices",
+    "chapter": 3,
+    "pattern": "い adjective",
+    "explanation": "Present affirmative and attributive use",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G042",
+    "group": "N5 descriptions and choices",
+    "chapter": 3,
+    "pattern": "くない / くありません",
+    "explanation": "Negative い adjectives; いい becomes よくない",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G043",
+    "group": "N5 descriptions and choices",
+    "chapter": 3,
+    "pattern": "かった / くなかった",
+    "explanation": "Past い adjectives; いい becomes よかった",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G044",
+    "group": "N5 descriptions and choices",
+    "chapter": 3,
+    "pattern": "な adjective",
+    "explanation": "Predicate versus な before a noun",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G045",
+    "group": "N5 descriptions and choices",
+    "chapter": 3,
+    "pattern": "な adjective tense/polarity",
+    "explanation": "Copular conjugations",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G046",
+    "group": "N5 descriptions and choices",
+    "chapter": 3,
+    "pattern": "くて / で",
+    "explanation": "Linking adjective descriptions",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G047",
+    "group": "N5 descriptions and choices",
+    "chapter": 3,
+    "pattern": "く / に",
+    "explanation": "Adverbial adjective forms",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G048",
+    "group": "N5 descriptions and choices",
+    "chapter": 3,
+    "pattern": "すき / きらい / じょうず / へた",
+    "explanation": "Preferences and skills with が",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G049",
+    "group": "N5 descriptions and choices",
+    "chapter": 3,
+    "pattern": "ほしい",
+    "explanation": "Wanting a thing; normally one's own desire",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G050",
+    "group": "N5 descriptions and choices",
+    "chapter": 3,
+    "pattern": "たい",
+    "explanation": "Verb stem plus desire; adjective-like conjugation",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G051",
+    "group": "N5 descriptions and choices",
+    "chapter": 3,
+    "pattern": "より",
+    "explanation": "Comparison standard",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G052",
+    "group": "N5 descriptions and choices",
+    "chapter": 3,
+    "pattern": "の ほうが",
+    "explanation": "Preference or comparative side",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G053",
+    "group": "N5 descriptions and choices",
+    "chapter": 3,
+    "pattern": "ほど ... ない",
+    "explanation": "Not as ... as",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G054",
+    "group": "N5 descriptions and choices",
+    "chapter": 3,
+    "pattern": "の なかで ... が いちばん",
+    "explanation": "Superlative in a set",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G055",
+    "group": "N5 descriptions and choices",
+    "chapter": 3,
+    "pattern": "どちら / どっち",
+    "explanation": "Choosing between two",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G056",
+    "group": "N5 descriptions and choices",
+    "chapter": 3,
+    "pattern": "ませんか",
+    "explanation": "Polite invitation",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G057",
+    "group": "N5 descriptions and choices",
+    "chapter": 3,
+    "pattern": "ましょう / ましょうか",
+    "explanation": "Proposal and offer",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G058",
+    "group": "N5 descriptions and choices",
+    "chapter": 3,
+    "pattern": "に いきます",
+    "explanation": "Verb stem plus purpose of movement",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G059",
+    "group": "N5 descriptions and choices",
+    "chapter": 3,
+    "pattern": "から",
+    "explanation": "Reason clause; distinguish from starting-point から",
+    "status": "anchor candidates in opening; contextual examples, not exhaustive proof",
+    "actual_anchors": [
+      "S03-L023",
+      "S04-L031",
+      "S05-L034",
+      "S07-L002",
+      "S11-L005",
+      "S17-L018",
+      "S19-L046",
+      "S20-L036",
+      "S21-L005",
+      "S23-L034",
+      "S24-L008"
+    ]
+  },
+  {
+    "id": "G060",
+    "group": "N5 descriptions and choices",
+    "chapter": 3,
+    "pattern": "が / でも",
+    "explanation": "Contrast and conversational softening",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G061",
+    "group": "N5 verb foundations",
+    "chapter": 4,
+    "pattern": "dictionary form",
+    "explanation": "Three verb groups and irregular する / くる",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G062",
+    "group": "N5 verb foundations",
+    "chapter": 4,
+    "pattern": "ない form",
+    "explanation": "Negative plain verbs and irregular ない / こない",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G063",
+    "group": "N5 verb foundations",
+    "chapter": 4,
+    "pattern": "た form",
+    "explanation": "Plain past and sound changes",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G064",
+    "group": "N5 verb foundations",
+    "chapter": 4,
+    "pattern": "て form",
+    "explanation": "Conjugation sound changes; いく becomes いって",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G065",
+    "group": "N5 verb foundations",
+    "chapter": 4,
+    "pattern": "て ください",
+    "explanation": "Positive request",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G066",
+    "group": "N5 verb foundations",
+    "chapter": 4,
+    "pattern": "ないで ください",
+    "explanation": "Negative request",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G067",
+    "group": "N5 verb foundations",
+    "chapter": 4,
+    "pattern": "て います",
+    "explanation": "Ongoing action; common resulting states",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G068",
+    "group": "N5 verb foundations",
+    "chapter": 4,
+    "pattern": "て も いい",
+    "explanation": "Permission",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G069",
+    "group": "N5 verb foundations",
+    "chapter": 4,
+    "pattern": "て は いけません",
+    "explanation": "Prohibition",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G070",
+    "group": "N5 verb foundations",
+    "chapter": 4,
+    "pattern": "て ... て",
+    "explanation": "Ordered or linked actions",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G071",
+    "group": "N5 verb foundations",
+    "chapter": 4,
+    "pattern": "て から",
+    "explanation": "After completing an action",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G072",
+    "group": "N5 verb foundations",
+    "chapter": 4,
+    "pattern": "まえに",
+    "explanation": "Before noun/verb event; dictionary form",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G073",
+    "group": "N5 verb foundations",
+    "chapter": 4,
+    "pattern": "あとで",
+    "explanation": "After noun/verb event; た form",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G074",
+    "group": "N5 verb foundations",
+    "chapter": 4,
+    "pattern": "とき",
+    "explanation": "Time clauses; tense changes interpretation",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G075",
+    "group": "N5 verb foundations",
+    "chapter": 4,
+    "pattern": "もう / まだ",
+    "explanation": "Already and still; まだ ... ていません",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G076",
+    "group": "N5 verb foundations",
+    "chapter": 4,
+    "pattern": "plain noun/adjective predicates",
+    "explanation": "だ / だった / じゃない and register",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G077",
+    "group": "N5 verb foundations",
+    "chapter": 4,
+    "pattern": "relative clauses",
+    "explanation": "Plain clause before a noun without a relative pronoun",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G078",
+    "group": "N5 verb foundations",
+    "chapter": 4,
+    "pattern": "の / こと",
+    "explanation": "Nominalizing actions",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G079",
+    "group": "N5 verb foundations",
+    "chapter": 4,
+    "pattern": "ことが できます",
+    "explanation": "Ability using dictionary form",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G080",
+    "group": "N5 verb foundations",
+    "chapter": 4,
+    "pattern": "なければ なりません",
+    "explanation": "Obligation",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G081",
+    "group": "N5 verb foundations",
+    "chapter": 4,
+    "pattern": "なくても いい",
+    "explanation": "Lack of necessity",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G082",
+    "group": "N5 verb foundations",
+    "chapter": 4,
+    "pattern": "でしょう",
+    "explanation": "Tentative judgment; intonation and context",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G083",
+    "group": "N4 plans and experience",
+    "chapter": 5,
+    "pattern": "た ことが あります",
+    "explanation": "Past experience; not a single dated event",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G084",
+    "group": "N4 plans and experience",
+    "chapter": 5,
+    "pattern": "たり ... たり します",
+    "explanation": "Representative actions",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G085",
+    "group": "N4 plans and experience",
+    "chapter": 5,
+    "pattern": "つもりです",
+    "explanation": "Intention; affirmative and negative",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G086",
+    "group": "N4 plans and experience",
+    "chapter": 5,
+    "pattern": "よていです",
+    "explanation": "Scheduled plans; noun の or dictionary form",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G087",
+    "group": "N4 plans and experience",
+    "chapter": 5,
+    "pattern": "volitional form",
+    "explanation": "Plain proposal and intention stem",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G088",
+    "group": "N4 plans and experience",
+    "chapter": 5,
+    "pattern": "ようと おもいます",
+    "explanation": "Intention using volitional form",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G089",
+    "group": "N4 plans and experience",
+    "chapter": 5,
+    "pattern": "と おもいます",
+    "explanation": "Thought and opinion",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G090",
+    "group": "N4 plans and experience",
+    "chapter": 5,
+    "pattern": "と いいます",
+    "explanation": "Naming and quotation",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G091",
+    "group": "N4 plans and experience",
+    "chapter": 5,
+    "pattern": "と いって いました",
+    "explanation": "Reported statement",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G092",
+    "group": "N4 plans and experience",
+    "chapter": 5,
+    "pattern": "か / かどうか",
+    "explanation": "Embedded questions and whether",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G093",
+    "group": "N4 plans and experience",
+    "chapter": 5,
+    "pattern": "んです / のです",
+    "explanation": "Explanatory framing",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G094",
+    "group": "N4 plans and experience",
+    "chapter": 5,
+    "pattern": "ので",
+    "explanation": "Reason with explanatory tone",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G095",
+    "group": "N4 plans and experience",
+    "chapter": 5,
+    "pattern": "し ... し",
+    "explanation": "Accumulating reasons or qualities",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G096",
+    "group": "N4 plans and experience",
+    "chapter": 5,
+    "pattern": "のに",
+    "explanation": "Unexpected contrast; noun/な adjective なのに",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G097",
+    "group": "N4 plans and experience",
+    "chapter": 5,
+    "pattern": "ても / でも",
+    "explanation": "Even if; conditional concession",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G098",
+    "group": "N4 plans and experience",
+    "chapter": 5,
+    "pattern": "かもしれません",
+    "explanation": "Possibility",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G099",
+    "group": "N4 plans and experience",
+    "chapter": 5,
+    "pattern": "はずです",
+    "explanation": "Evidence-based expectation",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G100",
+    "group": "N4 plans and experience",
+    "chapter": 5,
+    "pattern": "でしょう / だろう",
+    "explanation": "Probable judgment; register",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G101",
+    "group": "N4 plans and experience",
+    "chapter": 5,
+    "pattern": "そうです (hearsay)",
+    "explanation": "Report from a source; plain form",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G102",
+    "group": "N4 plans and experience",
+    "chapter": 5,
+    "pattern": "そうです (appearance)",
+    "explanation": "Looks/seems; stem form and exceptions",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G103",
+    "group": "N4 changes and preparation",
+    "chapter": 6,
+    "pattern": "potential form",
+    "explanation": "Ability; group rules and できる / こられる",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G104",
+    "group": "N4 changes and preparation",
+    "chapter": 6,
+    "pattern": "ように なります",
+    "explanation": "Change in ability or habit",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G105",
+    "group": "N4 changes and preparation",
+    "chapter": 6,
+    "pattern": "ことに なります",
+    "explanation": "Externally determined arrangement",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G106",
+    "group": "N4 changes and preparation",
+    "chapter": 6,
+    "pattern": "ことに します",
+    "explanation": "Personal decision",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G107",
+    "group": "N4 changes and preparation",
+    "chapter": 6,
+    "pattern": "ように します",
+    "explanation": "Make an effort to maintain a behavior",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G108",
+    "group": "N4 changes and preparation",
+    "chapter": 6,
+    "pattern": "ように",
+    "explanation": "Purpose with ability/nonvolitional outcome",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G109",
+    "group": "N4 changes and preparation",
+    "chapter": 6,
+    "pattern": "ために",
+    "explanation": "Purpose with intentional action; noun の",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G110",
+    "group": "N4 changes and preparation",
+    "chapter": 6,
+    "pattern": "て みます",
+    "explanation": "Try an action experimentally",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G111",
+    "group": "N4 changes and preparation",
+    "chapter": 6,
+    "pattern": "て おきます",
+    "explanation": "Prepare in advance or leave as is",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G112",
+    "group": "N4 changes and preparation",
+    "chapter": 6,
+    "pattern": "て しまいます",
+    "explanation": "Completion or unwanted outcome",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G113",
+    "group": "N4 changes and preparation",
+    "chapter": 6,
+    "pattern": "て あります",
+    "explanation": "Intentional resulting state of a transitive action",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G114",
+    "group": "N4 changes and preparation",
+    "chapter": 6,
+    "pattern": "transitive/intransitive pairs",
+    "explanation": "Distinguish action on an object from state/change",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G115",
+    "group": "N4 changes and preparation",
+    "chapter": 6,
+    "pattern": "く / に なります",
+    "explanation": "Adjectival change",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G116",
+    "group": "N4 changes and preparation",
+    "chapter": 6,
+    "pattern": "く / に します",
+    "explanation": "Make something a particular state",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G117",
+    "group": "N4 changes and preparation",
+    "chapter": 6,
+    "pattern": "ながら",
+    "explanation": "Same-agent simultaneous actions",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G118",
+    "group": "N4 changes and preparation",
+    "chapter": 6,
+    "pattern": "はじめます / おわります / つづけます",
+    "explanation": "Start, finish, continue with verb stems",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G119",
+    "group": "N4 changes and preparation",
+    "chapter": 6,
+    "pattern": "すぎます",
+    "explanation": "Excessive action or quality",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G120",
+    "group": "N4 changes and preparation",
+    "chapter": 6,
+    "pattern": "やすい / にくい",
+    "explanation": "Ease and difficulty of an action",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G121",
+    "group": "N4 changes and preparation",
+    "chapter": 6,
+    "pattern": "かた",
+    "explanation": "Way of doing with verb stem",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G122",
+    "group": "N4 changes and preparation",
+    "chapter": 6,
+    "pattern": "ばかり",
+    "explanation": "Only/mostly; common beginner senses",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G123",
+    "group": "N4 conditions and social action",
+    "chapter": 7,
+    "pattern": "たら",
+    "explanation": "If/when after a condition is realized",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G124",
+    "group": "N4 conditions and social action",
+    "chapter": 7,
+    "pattern": "ば / ければ",
+    "explanation": "Conditional verb/adjective forms",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G125",
+    "group": "N4 conditions and social action",
+    "chapter": 7,
+    "pattern": "なら",
+    "explanation": "Context-based condition or advice",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G126",
+    "group": "N4 conditions and social action",
+    "chapter": 7,
+    "pattern": "と (conditional)",
+    "explanation": "Regular result; restrictions with requests/intentions",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G127",
+    "group": "N4 conditions and social action",
+    "chapter": 7,
+    "pattern": "たら どうですか",
+    "explanation": "Suggestion",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G128",
+    "group": "N4 conditions and social action",
+    "chapter": 7,
+    "pattern": "ほうが いい",
+    "explanation": "Advice with た / ない",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G129",
+    "group": "N4 conditions and social action",
+    "chapter": 7,
+    "pattern": "なければ / なくては",
+    "explanation": "Obligation patterns and spoken contractions",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G130",
+    "group": "N4 conditions and social action",
+    "chapter": 7,
+    "pattern": "ては だめ / ちゃ だめ",
+    "explanation": "Prohibition and spoken contraction",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G131",
+    "group": "N4 conditions and social action",
+    "chapter": 7,
+    "pattern": "あげます / くれます / もらいます",
+    "explanation": "Giving/receiving with perspective",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G132",
+    "group": "N4 conditions and social action",
+    "chapter": 7,
+    "pattern": "て あげます",
+    "explanation": "Doing a favor; avoid presumptuous use",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G133",
+    "group": "N4 conditions and social action",
+    "chapter": 7,
+    "pattern": "て くれます",
+    "explanation": "Someone does a favor toward the speaker's side",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G134",
+    "group": "N4 conditions and social action",
+    "chapter": 7,
+    "pattern": "て もらいます",
+    "explanation": "Receive a favor; agent marked に",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G135",
+    "group": "N4 conditions and social action",
+    "chapter": 7,
+    "pattern": "て くれませんか",
+    "explanation": "Request a favor",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G136",
+    "group": "N4 conditions and social action",
+    "chapter": 7,
+    "pattern": "て いただけませんか",
+    "explanation": "Deferential request; bridge register",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G137",
+    "group": "N4 conditions and social action",
+    "chapter": 7,
+    "pattern": "お ... ください",
+    "explanation": "Polite request with appropriate verb stem",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G138",
+    "group": "N4 conditions and social action",
+    "chapter": 7,
+    "pattern": "なくて / ないで",
+    "explanation": "Negative cause/linking versus without doing",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G139",
+    "group": "N4 conditions and social action",
+    "chapter": 7,
+    "pattern": "ずに",
+    "explanation": "Without doing; する becomes せずに",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G140",
+    "group": "N4 conditions and social action",
+    "chapter": 7,
+    "pattern": "て いきます / て きます",
+    "explanation": "Direction and change relative to now",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G141",
+    "group": "N4 conditions and social action",
+    "chapter": 7,
+    "pattern": "まだ ... ていません",
+    "explanation": "Not yet; contrast simple negative",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G142",
+    "group": "N4 conditions and social action",
+    "chapter": 7,
+    "pattern": "ところです",
+    "explanation": "About to / in progress / just finished",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G143",
+    "group": "N4 perspective and register",
+    "chapter": 8,
+    "pattern": "passive form",
+    "explanation": "Verb formation and affected-person perspective",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G144",
+    "group": "N4 perspective and register",
+    "chapter": 8,
+    "pattern": "causative form",
+    "explanation": "Make/let; participant particles",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G145",
+    "group": "N4 perspective and register",
+    "chapter": 8,
+    "pattern": "causative-passive recognition",
+    "explanation": "Bridge extension; placement varies",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G146",
+    "group": "N4 perspective and register",
+    "chapter": 8,
+    "pattern": "honorific special verbs",
+    "explanation": "いらっしゃる / おっしゃる / なさる / めしあがる",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G147",
+    "group": "N4 perspective and register",
+    "chapter": 8,
+    "pattern": "お ... に なります",
+    "explanation": "Productive respectful action pattern",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G148",
+    "group": "N4 perspective and register",
+    "chapter": 8,
+    "pattern": "humble special verbs",
+    "explanation": "うかがう / もうす / いたす / まいる / おる",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G149",
+    "group": "N4 perspective and register",
+    "chapter": 8,
+    "pattern": "お / ご ... します",
+    "explanation": "Humble pattern with appropriate words",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G150",
+    "group": "N4 perspective and register",
+    "chapter": 8,
+    "pattern": "ございます / でございます",
+    "explanation": "Formal existence and copula",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G151",
+    "group": "N4 perspective and register",
+    "chapter": 8,
+    "pattern": "ようです",
+    "explanation": "Inference or resemblance; noun の / な adjective な",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G152",
+    "group": "N4 perspective and register",
+    "chapter": 8,
+    "pattern": "みたいです",
+    "explanation": "Colloquial resemblance/inference",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G153",
+    "group": "N4 perspective and register",
+    "chapter": 8,
+    "pattern": "らしいです",
+    "explanation": "Reported inference or characteristic quality; placement varies",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G154",
+    "group": "N4 perspective and register",
+    "chapter": 8,
+    "pattern": "そうに / そうな",
+    "explanation": "Appearance modifying action or noun",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G155",
+    "group": "N4 perspective and register",
+    "chapter": 8,
+    "pattern": "さ",
+    "explanation": "Adjectival degree noun",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G156",
+    "group": "N4 perspective and register",
+    "chapter": 8,
+    "pattern": "がる / たがる",
+    "explanation": "Observable third-person feelings/desire",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G157",
+    "group": "N4 perspective and register",
+    "chapter": 8,
+    "pattern": "か ... か",
+    "explanation": "Alternatives",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G158",
+    "group": "N4 perspective and register",
+    "chapter": 8,
+    "pattern": "でも (example)",
+    "explanation": "Suggestion such as tea or something",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G159",
+    "group": "N4 perspective and register",
+    "chapter": 8,
+    "pattern": "しか ... ない",
+    "explanation": "Nothing except; negative predicate required",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G160",
+    "group": "N4 perspective and register",
+    "chapter": 8,
+    "pattern": "も (quantity)",
+    "explanation": "As many/as much as",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G161",
+    "group": "N4 perspective and register",
+    "chapter": 8,
+    "pattern": "も ... も",
+    "explanation": "Both ... and",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G162",
+    "group": "N4 perspective and register",
+    "chapter": 8,
+    "pattern": "に する",
+    "explanation": "Choose or decide on an item",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G163",
+    "group": "N4 consolidation and bridge",
+    "chapter": 9,
+    "pattern": "あいだ / あいだに",
+    "explanation": "Throughout an interval versus event within it",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G164",
+    "group": "N4 consolidation and bridge",
+    "chapter": 9,
+    "pattern": "までに",
+    "explanation": "Deadline; contrast まで",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G165",
+    "group": "N4 consolidation and bridge",
+    "chapter": 9,
+    "pattern": "ば ... ほど",
+    "explanation": "The more ... the more; bridge placement varies",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G166",
+    "group": "N4 consolidation and bridge",
+    "chapter": 9,
+    "pattern": "た ばかり",
+    "explanation": "Recently completed; speaker's perception",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G167",
+    "group": "N4 consolidation and bridge",
+    "chapter": 9,
+    "pattern": "ている あいだ",
+    "explanation": "During an ongoing action",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G168",
+    "group": "N4 consolidation and bridge",
+    "chapter": 9,
+    "pattern": "ことが あります (occasional)",
+    "explanation": "Sometimes happens; nonpast clause",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G169",
+    "group": "N4 consolidation and bridge",
+    "chapter": 9,
+    "pattern": "ことは ... が",
+    "explanation": "Concession recognizing one fact",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G170",
+    "group": "N4 consolidation and bridge",
+    "chapter": 9,
+    "pattern": "という",
+    "explanation": "Naming or defining something",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G171",
+    "group": "N4 consolidation and bridge",
+    "chapter": 9,
+    "pattern": "かしら / かな",
+    "explanation": "Wondering; register and speaker choice",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G172",
+    "group": "N4 consolidation and bridge",
+    "chapter": 9,
+    "pattern": "なさい",
+    "explanation": "Directive with stem; relationship-sensitive",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G173",
+    "group": "N4 consolidation and bridge",
+    "chapter": 9,
+    "pattern": "な (prohibition)",
+    "explanation": "Dictionary-form command; recognition first",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G174",
+    "group": "N4 consolidation and bridge",
+    "chapter": 9,
+    "pattern": "imperative recognition",
+    "explanation": "Emergency commands; avoid as everyday politeness",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G175",
+    "group": "N4 consolidation and bridge",
+    "chapter": 9,
+    "pattern": "て (casual request)",
+    "explanation": "Contextual request with rising intonation",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G176",
+    "group": "N4 consolidation and bridge",
+    "chapter": 9,
+    "pattern": "って (quotation/topic)",
+    "explanation": "Conversational compression; explain before reuse",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G177",
+    "group": "N4 consolidation and bridge",
+    "chapter": 9,
+    "pattern": "じゃ / ちゃ / とく / てる",
+    "explanation": "Common contractions; map to full forms",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G178",
+    "group": "N4 consolidation and bridge",
+    "chapter": 9,
+    "pattern": "sentence-final の / んだ",
+    "explanation": "Explanatory and question intonation",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G179",
+    "group": "N4 consolidation and bridge",
+    "chapter": 9,
+    "pattern": "は vs が",
+    "explanation": "Information structure in questions and answers",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G180",
+    "group": "N4 consolidation and bridge",
+    "chapter": 9,
+    "pattern": "に vs で",
+    "explanation": "Existence/destination versus action site/means",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G181",
+    "group": "N4 consolidation and bridge",
+    "chapter": 9,
+    "pattern": "ている vs てある",
+    "explanation": "Resulting state versus deliberately arranged state",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G182",
+    "group": "N4 consolidation and bridge",
+    "chapter": 9,
+    "pattern": "そう vs よう vs らしい",
+    "explanation": "Evidence source and form comparison",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G183",
+    "group": "N5 supplementary patterns and variants",
+    "chapter": 3,
+    "pattern": "どんな / どうやって",
+    "explanation": "Type-of question and method-of-action question",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G184",
+    "group": "N5 supplementary patterns and variants",
+    "chapter": 3,
+    "pattern": "けど / けれど / けれども",
+    "explanation": "Contrast or an unfinished softening clause",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G185",
+    "group": "N5 supplementary patterns and variants",
+    "chapter": 3,
+    "pattern": "なあ",
+    "explanation": "Reflective or emotional sentence ending",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G186",
+    "group": "N5 supplementary patterns and variants",
+    "chapter": 3,
+    "pattern": "ないと いけない / なくちゃ / なきゃ",
+    "explanation": "Obligation variants; teach the omitted full ending",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G187",
+    "group": "N5 supplementary patterns and variants",
+    "chapter": 3,
+    "pattern": "のが すき / のが じょうず",
+    "explanation": "Nominalized action as preference or skill",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G188",
+    "group": "N5 supplementary patterns and variants",
+    "chapter": 3,
+    "pattern": "のでしょうか",
+    "explanation": "Tentative explanatory question; formal bridge",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G189",
+    "group": "N5 supplementary patterns and variants",
+    "chapter": 3,
+    "pattern": "だれか / なにか / どこか",
+    "explanation": "Indefinite person, thing and place",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G190",
+    "group": "N5 supplementary patterns and variants",
+    "chapter": 3,
+    "pattern": "だれも / なにも / どこにも + negative",
+    "explanation": "No one, nothing and nowhere with appropriate particles",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G191",
+    "group": "N5 supplementary patterns and variants",
+    "chapter": 3,
+    "pattern": "ましょう vs よう",
+    "explanation": "Polite and plain proposal contrast",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G192",
+    "group": "N5 supplementary patterns and variants",
+    "chapter": 3,
+    "pattern": "に / と あいます",
+    "explanation": "Meeting a person; particle perspective",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G193",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "まま",
+    "explanation": "An existing condition is maintained",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G194",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "ばあいは",
+    "explanation": "Set up a circumstance for an instruction or outcome",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G195",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "だけで",
+    "explanation": "A limited action or means is sufficient",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G196",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "だします",
+    "explanation": "Stem compound for a sudden start",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G197",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "が ひつよう / ひつようが あります",
+    "explanation": "Needed thing versus necessary action",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G198",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "が します",
+    "explanation": "Sensory impression with sound, smell or taste nouns",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G199",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "がり",
+    "explanation": "Person characterized by sensitivity or a tendency",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G200",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "はずが ありません",
+    "explanation": "Strong expectation that something cannot be so",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G201",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "から / で つくります",
+    "explanation": "Source material versus material/means",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G202",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "ころ / ごろ",
+    "explanation": "Approximate period or time; distinguish quantity ぐらい",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G203",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "おきに",
+    "explanation": "Repeated interval; make the intended interval explicit",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G204",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "なかなか ... ない",
+    "explanation": "Expected action remains difficult or unrealized",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G205",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "に きが つきます",
+    "explanation": "Notice a fact or change",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G206",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "に みえます",
+    "explanation": "Appear a certain way to an observer",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G207",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "のに (purpose/use)",
+    "explanation": "Nominalized action + に for utility or required resources",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G208",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "のは ... です",
+    "explanation": "Focus an action or fact as the topic",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G209",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "させて ください",
+    "explanation": "Ask permission to perform an action",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G210",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "たら いいですか",
+    "explanation": "Ask what action would be appropriate",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G211",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "て ほしい",
+    "explanation": "Want another person to do something",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G212",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "て すみません",
+    "explanation": "Apologize for a completed action or situation",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G213",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "て よかった",
+    "explanation": "Express relief about what happened",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G214",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "て やります",
+    "explanation": "Familiar/downward favor expression; relationship-sensitive",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G215",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "て いました",
+    "explanation": "Past ongoing action or past resulting state",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G216",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "て / で (cause)",
+    "explanation": "Link a cause to a nonvolitional result",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G217",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "と ききました / と いわれています",
+    "explanation": "Report what was heard or is commonly said",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G218",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "という こと",
+    "explanation": "Package a quoted proposition as a noun-like unit",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G219",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "と いっても いい",
+    "explanation": "Present a characterization as reasonable",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G220",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "とか ... とか",
+    "explanation": "Offer non-exhaustive examples in conversation",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G221",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "ような / ように",
+    "explanation": "Resemblance modifying a noun or an action",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G222",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "みたいな / みたいに",
+    "explanation": "Conversational noun/action resemblance forms",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G223",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "づらい",
+    "explanation": "Action feels difficult or burdensome",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G224",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "ではないか / じゃないか",
+    "explanation": "Context-sensitive assertion, discovery or appeal for agreement",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G225",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "かい",
+    "explanation": "Familiar yes/no question ending; recognize social tone",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G226",
+    "group": "N4 supplementary constructions",
+    "chapter": 6,
+    "pattern": "ようと します",
+    "explanation": "Attempt or be on the point of an action; bridge placement varies",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G227",
+    "group": "N4 discourse and adverbial expressions",
+    "chapter": 7,
+    "pattern": "または",
+    "explanation": "Written or formal choice between alternatives",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G228",
+    "group": "N4 discourse and adverbial expressions",
+    "chapter": 7,
+    "pattern": "それでも",
+    "explanation": "Continue despite the previous fact",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G229",
+    "group": "N4 discourse and adverbial expressions",
+    "chapter": 7,
+    "pattern": "それに",
+    "explanation": "Add another supporting consideration",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G230",
+    "group": "N4 discourse and adverbial expressions",
+    "chapter": 7,
+    "pattern": "きっと",
+    "explanation": "Strong confidence, without turning a guess into a fact",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G231",
+    "group": "N4 discourse and adverbial expressions",
+    "chapter": 7,
+    "pattern": "きゅうに",
+    "explanation": "An abrupt change or onset",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G232",
+    "group": "N4 discourse and adverbial expressions",
+    "chapter": 7,
+    "pattern": "さっき",
+    "explanation": "A recent moment before now",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G233",
+    "group": "N4 discourse and adverbial expressions",
+    "chapter": 7,
+    "pattern": "さすが",
+    "explanation": "A result matches an established reputation or expectation",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G234",
+    "group": "N4 discourse and adverbial expressions",
+    "chapter": 7,
+    "pattern": "そんなに",
+    "explanation": "Degree referring back to context",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G235",
+    "group": "N4 discourse and adverbial expressions",
+    "chapter": 7,
+    "pattern": "やっと",
+    "explanation": "Completion after waiting or effort",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G236",
+    "group": "N4 discourse and adverbial expressions",
+    "chapter": 7,
+    "pattern": "ぜひ",
+    "explanation": "An emphatic invitation, recommendation or wish",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G237",
+    "group": "N5 conversational building blocks",
+    "chapter": 2,
+    "pattern": "を ください",
+    "explanation": "Request an item; contrast action request てください",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G238",
+    "group": "N5 conversational building blocks",
+    "chapter": 2,
+    "pattern": "お / ご",
+    "explanation": "Conventional respectful or beautifying prefixes; not freely added to every word",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G239",
+    "group": "N5 conversational building blocks",
+    "chapter": 2,
+    "pattern": "しかし",
+    "explanation": "A more formal contrast between statements",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G240",
+    "group": "N5 conversational building blocks",
+    "chapter": 2,
+    "pattern": "それから / そして",
+    "explanation": "Sequence or addition across sentences",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G241",
+    "group": "N5 conversational building blocks",
+    "chapter": 2,
+    "pattern": "とても",
+    "explanation": "High degree; combine with appropriate predicates",
+    "status": "planned",
+    "actual_anchors": []
+  },
+  {
+    "id": "G242",
+    "group": "N5 conversational building blocks",
+    "chapter": 2,
+    "pattern": "は どうですか",
+    "explanation": "Ask for an assessment or suggest an option",
+    "status": "planned",
+    "actual_anchors": []
+  }
+]

@@ -1,0 +1,1560 @@
+[
+  {
+    "pattern": "てあげる",
+    "meaning": "do a favor for another person",
+    "formation": "Vて + あげる",
+    "usage": "Present an action as benefiting another person.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "The actor gives the favor outward, unlike てくれる toward the speaker.",
+    "mistake": "Do not announce てあげます to a superior as a routine polite offer; it can imply doing them a favor.",
+    "comparison": "てもらう presents the recipient as the grammatical subject.",
+    "examples": [
+      {
+        "jp": "妹に日本語を教えてあげた。",
+        "reading": "いもうとににほんごをおしえてあげた。",
+        "romaji": "Imouto ni Nihongo o oshiete ageta.",
+        "en": "I helped my younger sister by teaching her Japanese."
+      },
+      {
+        "jp": "友達の荷物を持ってあげました。",
+        "reading": "ともだちのにもつをもってあげました。",
+        "romaji": "Tomodachi no nimotsu o motte agemashita.",
+        "en": "I carried my friend’s luggage for them."
+      },
+      {
+        "jp": "困っている人を手伝ってあげたい。",
+        "reading": "こまっているひとをてつだってあげたい。",
+        "romaji": "Komatte iru hito o tetsudatte agetai.",
+        "en": "I want to help people who are having trouble."
+      }
+    ],
+    "question": {
+      "prompt": "私は妹に漢字を教えて（あげた / くれた / くださった / いらっしゃった）。",
+      "options": [
+        "あげた",
+        "くれた",
+        "くださった",
+        "いらっしゃった"
+      ],
+      "answer": "あげた",
+      "explanation": "Do not announce てあげます to a superior as a routine polite offer; it can imply doing them a favor. Formation: Vて + あげる"
+    }
+  },
+  {
+    "pattern": "より",
+    "meaning": "than; comparison standard",
+    "formation": "N / plain clause + より",
+    "usage": "Name the standard that the main description exceeds or differs from.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "The thing before より is the comparison baseline.",
+    "mistake": "AよりBのほうが高い says B is more expensive, not A.",
+    "comparison": "ほど〜ない uses a negative predicate to say less ... than.",
+    "examples": [
+      {
+        "jp": "今日は昨日より暖かいです。",
+        "reading": "きょうはきのうよりあたたかいです。",
+        "romaji": "Kyou wa kinou yori atatakai desu.",
+        "en": "Today is warmer than yesterday."
+      },
+      {
+        "jp": "車より電車のほうが速い。",
+        "reading": "くるまよりでんしゃのほうがはやい。",
+        "romaji": "Kuruma yori densha no hou ga hayai.",
+        "en": "The train is faster than the car."
+      },
+      {
+        "jp": "聞くより、実際に見るほうが分かりやすい。",
+        "reading": "きくより、じっさいにみるほうがわかりやすい。",
+        "romaji": "Kiku yori, jissai ni miru hou ga wakariyasui.",
+        "en": "It is easier to understand by actually seeing than by hearing about it."
+      }
+    ],
+    "question": {
+      "prompt": "AよりBのほうが高い。Which costs more?",
+      "options": [
+        "A",
+        "B",
+        "Both cost the same.",
+        "The sentence gives no comparison."
+      ],
+      "answer": "B",
+      "explanation": "AよりBのほうが高い says B is more expensive, not A. Formation: N / plain clause + より"
+    }
+  },
+  {
+    "pattern": "ほど〜ない",
+    "meaning": "not as ... as",
+    "formation": "N / plain clause + ほど + negative predicate",
+    "usage": "Say that something does not reach the comparison standard.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "The noun before ほど supplies the higher standard.",
+    "mistake": "Do not omit the negative ending in the “not as” construction.",
+    "comparison": "AよりB is an affirmative comparison; BはAほど〜ない gives the reverse relation.",
+    "examples": [
+      {
+        "jp": "この町は東京ほど大きくありません。",
+        "reading": "このまちはとうきょうほどおおきくありません。",
+        "romaji": "Kono machi wa Toukyou hodo ookiku arimasen.",
+        "en": "This town is not as large as Tokyo."
+      },
+      {
+        "jp": "今日は昨日ほど寒くない。",
+        "reading": "きょうはきのうほどさむくない。",
+        "romaji": "Kyou wa kinou hodo samukunai.",
+        "en": "Today is not as cold as yesterday."
+      },
+      {
+        "jp": "試験は思ったほど難しくなかった。",
+        "reading": "しけんはおもったほどむずかしくなかった。",
+        "romaji": "Shiken wa omotta hodo muzukashiku nakatta.",
+        "en": "The exam was not as difficult as I expected."
+      }
+    ],
+    "question": {
+      "prompt": "Say “not as cold as yesterday”: 昨日ほど（寒くない / 寒い / 寒かった / 寒くなる）。",
+      "options": [
+        "寒くない",
+        "寒い",
+        "寒かった",
+        "寒くなる"
+      ],
+      "answer": "寒くない",
+      "explanation": "Do not omit the negative ending in the “not as” construction. Formation: N / plain clause + ほど + negative predicate"
+    }
+  },
+  {
+    "pattern": "くらい・ぐらい",
+    "meaning": "about; to the degree; at least a small amount",
+    "formation": "Quantity + くらい/ぐらい; plain clause + くらい",
+    "usage": "Approximate quantities or give a benchmark of degree.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "The forms largely overlap; context separates approximate amount from degree or a dismissive minimum.",
+    "mistake": "Do not treat approximate 三人くらい as an exact count.",
+    "comparison": "ほど also marks degree; くらい is especially common for rough amounts.",
+    "examples": [
+      {
+        "jp": "駅まで十分くらい歩きます。",
+        "reading": "えきまでじゅっぷんくらいあるきます。",
+        "romaji": "Eki made juppun kurai arukimasu.",
+        "en": "I walk about ten minutes to the station."
+      },
+      {
+        "jp": "一人では持てないくらい重い。",
+        "reading": "ひとりではもてないくらいおもい。",
+        "romaji": "Hitori dewa motenai kurai omoi.",
+        "en": "It is so heavy that I cannot carry it alone."
+      },
+      {
+        "jp": "名前ぐらいは覚えてください。",
+        "reading": "なまえぐらいはおぼえてください。",
+        "romaji": "Namae gurai wa oboete kudasai.",
+        "en": "Please remember at least the name."
+      }
+    ],
+    "question": {
+      "prompt": "三人くらい means:",
+      "options": [
+        "about three people",
+        "exactly thirty people",
+        "fewer than one person",
+        "three times every day"
+      ],
+      "answer": "about three people",
+      "explanation": "Do not treat approximate 三人くらい as an exact count. Formation: Quantity + くらい/ぐらい; plain clause + くらい"
+    }
+  },
+  {
+    "pattern": "に比べて",
+    "meaning": "compared with",
+    "formation": "N + に比べて; N + と比べて also common",
+    "usage": "Explicitly introduce a comparison between two things or times.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "It states a comparison without necessarily implying surprise.",
+    "mistake": "Use a noun or nominalized clause before に比べて.",
+    "comparison": "にしては judges something against an expected standard and often signals surprise.",
+    "examples": [
+      {
+        "jp": "去年に比べて、雨が多い。",
+        "reading": "きょねんにくらべて、あめがおおい。",
+        "romaji": "Kyonen ni kurabete, ame ga ooi.",
+        "en": "There is more rain compared with last year."
+      },
+      {
+        "jp": "都会に比べて、ここは静かです。",
+        "reading": "とかいにくらべて、ここはしずかです。",
+        "romaji": "Tokai ni kurabete, koko wa shizuka desu.",
+        "en": "Compared with the city, it is quiet here."
+      },
+      {
+        "jp": "前の仕事に比べて、通勤時間が短くなった。",
+        "reading": "まえのしごとにくらべて、つうきんじかんがみじかくなった。",
+        "romaji": "Mae no shigoto ni kurabete, tsuukin jikan ga mijikaku natta.",
+        "en": "Compared with my previous job, my commute has become shorter."
+      }
+    ],
+    "question": {
+      "prompt": "去年（に比べて / を比べて / の比べて / な比べて）、暖かい。",
+      "options": [
+        "に比べて",
+        "を比べて",
+        "の比べて",
+        "な比べて"
+      ],
+      "answer": "に比べて",
+      "explanation": "Use a noun or nominalized clause before に比べて. Formation: N + に比べて; N + と比べて also common"
+    }
+  },
+  {
+    "pattern": "さえ",
+    "meaning": "even; only if (with conditional)",
+    "formation": "N + さえ; particles may combine: にさえ, でさえ",
+    "usage": "Pick an extreme example or, with a conditional, a minimum requirement.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "The core assertion is surprising even for the marked item.",
+    "mistake": "Do not confuse “even a child” with “only children”; さえ is not だけ.",
+    "comparison": "まで can also mean even, often highlighting an unexpected addition.",
+    "examples": [
+      {
+        "jp": "自分の名前さえ書けなかった。",
+        "reading": "じぶんのなまえさえかけなかった。",
+        "romaji": "Jibun no namae sae kakenakatta.",
+        "en": "I could not even write my own name."
+      },
+      {
+        "jp": "忙しくて、昼ご飯を食べる時間さえない。",
+        "reading": "いそがしくて、ひるごはんをたべるじかんさえない。",
+        "romaji": "Isogashikute, hirugohan o taberu jikan sae nai.",
+        "en": "I am so busy that I do not even have time to eat lunch."
+      },
+      {
+        "jp": "この道具は子どもでさえ使えます。",
+        "reading": "このどうぐはこどもでさえつかえます。",
+        "romaji": "Kono dougu wa kodomo de sae tsukaemasu.",
+        "en": "Even children can use this tool."
+      }
+    ],
+    "question": {
+      "prompt": "名前さえ書けない means:",
+      "options": [
+        "Cannot even write one’s name.",
+        "Can write only names.",
+        "Always writes a name.",
+        "Must write a name."
+      ],
+      "answer": "Cannot even write one’s name.",
+      "explanation": "Do not confuse “even a child” with “only children”; さえ is not だけ. Formation: N + さえ; particles may combine: にさえ, でさえ"
+    }
+  },
+  {
+    "pattern": "こそ",
+    "meaning": "precisely; the very thing/person; emphasis",
+    "formation": "N/phrase + こそ; reason clause + からこそ",
+    "usage": "Strongly focus the information the speaker considers decisive.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "Often contrasts the highlighted item with other possibilities.",
+    "mistake": "It does not normally mean only to the exclusion of everything else.",
+    "comparison": "だけ restricts; こそ emphasizes.",
+    "examples": [
+      {
+        "jp": "今こそ始めるときです。",
+        "reading": "いまこそはじめるときです。",
+        "romaji": "Ima koso hajimeru toki desu.",
+        "en": "Now is precisely the time to start."
+      },
+      {
+        "jp": "こちらこそ、ありがとうございます。",
+        "reading": "こちらこそ、ありがとうございます。",
+        "romaji": "Kochira koso, arigatou gozaimasu.",
+        "en": "It is I who should thank you."
+      },
+      {
+        "jp": "失敗したからこそ、分かったことがあります。",
+        "reading": "しっぱいしたからこそ、わかったことがあります。",
+        "romaji": "Shippai shita kara koso, wakatta koto ga arimasu.",
+        "en": "There are things I understood precisely because I failed."
+      }
+    ],
+    "question": {
+      "prompt": "今こそ emphasizes:",
+      "options": [
+        "This very moment.",
+        "No time at all.",
+        "Only yesterday.",
+        "Every other day."
+      ],
+      "answer": "This very moment.",
+      "explanation": "It does not normally mean only to the exclusion of everything else. Formation: N/phrase + こそ; reason clause + からこそ"
+    }
+  },
+  {
+    "pattern": "まで",
+    "meaning": "even; an unexpected further extent",
+    "formation": "N/phrase + まで",
+    "usage": "Extend a situation to a surprising additional participant or consequence.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "Different from endpoint まで; context can identify either meaning.",
+    "mistake": "Do not automatically translate it as until when it marks an unexpected person or object.",
+    "comparison": "さえ often picks an extreme example; まで highlights how far the situation extends.",
+    "examples": [
+      {
+        "jp": "先生まで間違えました。",
+        "reading": "せんせいまでまちがえました。",
+        "romaji": "Sensei made machigaemashita.",
+        "en": "Even the teacher made a mistake."
+      },
+      {
+        "jp": "財布だけでなく、鍵までなくした。",
+        "reading": "さいふだけでなく、かぎまでなくした。",
+        "romaji": "Saifu dake de naku, kagi made nakushita.",
+        "en": "I lost not only my wallet but even my keys."
+      },
+      {
+        "jp": "忙しくて、休日まで働いた。",
+        "reading": "いそがしくて、きゅうじつまではたらいた。",
+        "romaji": "Isogashikute, kyuujitsu made hataraita.",
+        "en": "I was so busy that I worked even on my day off."
+      }
+    ],
+    "question": {
+      "prompt": "先生まで間違えた means:",
+      "options": [
+        "Even the teacher made a mistake.",
+        "Wait until the teacher.",
+        "The teacher never makes mistakes.",
+        "Only the teacher may answer."
+      ],
+      "answer": "Even the teacher made a mistake.",
+      "explanation": "Do not automatically translate it as until when it marks an unexpected person or object. Formation: N/phrase + まで"
+    }
+  },
+  {
+    "pattern": "なんか・なんて",
+    "meaning": "things like; such a thing as; surprised quotation",
+    "formation": "N + なんか/なんて; plain clause + なんて",
+    "usage": "Give casual examples, downplay something, or express emotion about a fact.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "Tone can be dismissive; context and intonation matter.",
+    "mistake": "Do not use dismissive なんか about something a listener values in formal interaction.",
+    "comparison": "など is a more neutral/formal way to list examples.",
+    "examples": [
+      {
+        "jp": "お茶なんかどうですか。",
+        "reading": "おちゃなんかどうですか。",
+        "romaji": "Ocha nanka dou desu ka.",
+        "en": "How about something like tea?"
+      },
+      {
+        "jp": "一人で全部作ったなんて、すごいです。",
+        "reading": "ひとりでぜんぶつくったなんて、すごいです。",
+        "romaji": "Hitori de zenbu tsukutta nante, sugoi desu.",
+        "en": "It is amazing that you made it all yourself."
+      },
+      {
+        "jp": "私なんかには難しすぎます。",
+        "reading": "わたしなんかにはむずかしすぎます。",
+        "romaji": "Watashi nanka ni wa muzukashisugimasu.",
+        "en": "It is too difficult for someone like me."
+      }
+    ],
+    "question": {
+      "prompt": "一人で作ったなんて、すごい expresses:",
+      "options": [
+        "Surprise and admiration.",
+        "A deadline.",
+        "An order to cook.",
+        "A confirmed future schedule."
+      ],
+      "answer": "Surprise and admiration.",
+      "explanation": "Do not use dismissive なんか about something a listener values in formal interaction. Formation: N + なんか/なんて; plain clause + なんて"
+    }
+  },
+  {
+    "pattern": "とか〜とか",
+    "meaning": "things such as; or things like",
+    "formation": "NとかNとか; plain clause + とか",
+    "usage": "Give casual, non-exhaustive examples.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "The list does not necessarily name every possibility.",
+    "mistake": "Keep examples grammatically parallel; do not interpret とか as an exhaustive and-only list.",
+    "comparison": "や is a simple noun list; とか can also follow clauses.",
+    "examples": [
+      {
+        "jp": "週末は掃除とか洗濯とかをします。",
+        "reading": "しゅうまつはそうじとかせんたくとかをします。",
+        "romaji": "Shuumatsu wa souji toka sentaku toka o shimasu.",
+        "en": "At weekends I do things like cleaning and laundry."
+      },
+      {
+        "jp": "パンとか果物とかを買ってきて。",
+        "reading": "パンとかくだものとかをかってきて。",
+        "romaji": "Pan toka kudamono toka o katte kite.",
+        "en": "Please buy things like bread and fruit and bring them back."
+      },
+      {
+        "jp": "映画を見るとか、本を読むとかして休みます。",
+        "reading": "えいがをみるとか、ほんをよむとかしてやすみます。",
+        "romaji": "Eiga o miru toka, hon o yomu toka shite yasumimasu.",
+        "en": "I relax by doing things like watching films and reading books."
+      }
+    ],
+    "question": {
+      "prompt": "パンとか果物とか indicates:",
+      "options": [
+        "Examples, not necessarily a complete list.",
+        "Bread only.",
+        "Neither item.",
+        "Exactly two mandatory items and nothing else."
+      ],
+      "answer": "Examples, not necessarily a complete list.",
+      "explanation": "Keep examples grammatically parallel; do not interpret とか as an exhaustive and-only list. Formation: NとかNとか; plain clause + とか"
+    }
+  },
+  {
+    "pattern": "たり〜たり",
+    "meaning": "do things such as",
+    "formation": "Vた + り, Vた + り + する; adjectives can also alternate with たり",
+    "usage": "List representative actions or alternating states.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "Although built from the た-form, the final する determines tense.",
+    "mistake": "Do not omit する at the end of an ordinary complete verb-list sentence.",
+    "comparison": "とか can list noun/clause examples; たり uses the た-form and often a final する.",
+    "examples": [
+      {
+        "jp": "休みの日は本を読んだり、散歩したりします。",
+        "reading": "やすみのひはほんをよんだり、さんぽしたりします。",
+        "romaji": "Yasumi no hi wa hon o yondari, sanpo shitari shimasu.",
+        "en": "On days off I do things like reading and taking walks."
+      },
+      {
+        "jp": "昨日は掃除をしたり、料理を作ったりした。",
+        "reading": "きのうはそうじをしたり、りょうりをつくったりした。",
+        "romaji": "Kinou wa souji o shitari, ryouri o tsukuttari shita.",
+        "en": "Yesterday I did things like cleaning and cooking."
+      },
+      {
+        "jp": "最近は暑かったり、寒かったりします。",
+        "reading": "さいきんはあつかったり、さむかったりします。",
+        "romaji": "Saikin wa atsukattari, samukattari shimasu.",
+        "en": "Recently it alternates between hot and cold."
+      }
+    ],
+    "question": {
+      "prompt": "本を（読んだり / 読むたり / 読みたり / 読んでたり）、散歩したりします。",
+      "options": [
+        "読んだり",
+        "読むたり",
+        "読みたり",
+        "読んでたり"
+      ],
+      "answer": "読んだり",
+      "explanation": "Do not omit する at the end of an ordinary complete verb-list sentence. Formation: Vた + り, Vた + り + する; adjectives can also alternate with たり"
+    }
+  },
+  {
+    "pattern": "など",
+    "meaning": "and the like; such as",
+    "formation": "NやNなど; NなどのN",
+    "usage": "Mark examples as non-exhaustive.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "Common in written explanations and lists.",
+    "mistake": "NなどのN needs の before the following noun.",
+    "comparison": "なんか is more casual and can be dismissive.",
+    "examples": [
+      {
+        "jp": "野菜や果物などを買いました。",
+        "reading": "やさいやくだものなどをかいました。",
+        "romaji": "Yasai ya kudamono nado o kaimashita.",
+        "en": "I bought things such as vegetables and fruit."
+      },
+      {
+        "jp": "住所などの個人情報を確認します。",
+        "reading": "じゅうしょなどのこじんじょうほうをかくにんします。",
+        "romaji": "Juusho nado no kojin jouhou o kakunin shimasu.",
+        "en": "We will check personal information such as your address."
+      },
+      {
+        "jp": "会場には学生などが集まっていました。",
+        "reading": "かいじょうにはがくせいなどがあつまっていました。",
+        "romaji": "Kaijou ni wa gakusei nado ga atsumatte imashita.",
+        "en": "Students and others had gathered at the venue."
+      }
+    ],
+    "question": {
+      "prompt": "住所など（の / な / に / を）情報を記入する。",
+      "options": [
+        "の",
+        "な",
+        "に",
+        "を"
+      ],
+      "answer": "の",
+      "explanation": "NなどのN needs の before the following noun. Formation: NやNなど; NなどのN"
+    }
+  },
+  {
+    "pattern": "をはじめ",
+    "meaning": "starting with; including notably",
+    "formation": "N + をはじめ; N + をはじめとする + N",
+    "usage": "Name a representative prominent example before referring to the broader group.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "The named example is a starting representative, not necessarily first in time.",
+    "mistake": "A following noun normally uses をはじめとする or をはじめとした.",
+    "comparison": "など gives examples without necessarily singling out a prominent representative.",
+    "examples": [
+      {
+        "jp": "東京をはじめ、多くの都市を訪れました。",
+        "reading": "とうきょうをはじめ、おおくのとしをおとずれました。",
+        "romaji": "Toukyou o hajime, ooku no toshi o otozuremashita.",
+        "en": "I visited many cities, including Tokyo."
+      },
+      {
+        "jp": "先生をはじめ、皆さんに感謝しています。",
+        "reading": "せんせいをはじめ、みなさんにかんしゃしています。",
+        "romaji": "Sensei o hajime, minasan ni kansha shite imasu.",
+        "en": "I am grateful to everyone, beginning with my teacher."
+      },
+      {
+        "jp": "米をはじめとする食品を輸出しています。",
+        "reading": "こめをはじめとするしょくひんをゆしゅつしています。",
+        "romaji": "Kome o hajime to suru shokuhin o yushutsu shite imasu.",
+        "en": "They export food products, notably rice."
+      }
+    ],
+    "question": {
+      "prompt": "米をはじめ（とする / なする / をする / がする）食品。",
+      "options": [
+        "とする",
+        "なする",
+        "をする",
+        "がする"
+      ],
+      "answer": "とする",
+      "explanation": "A following noun normally uses をはじめとする or をはじめとした. Formation: N + をはじめ; N + をはじめとする + N"
+    }
+  },
+  {
+    "pattern": "に関して",
+    "meaning": "regarding; concerning",
+    "formation": "N + に関して; N + に関する + N",
+    "usage": "Introduce the subject of information, inquiry, or discussion.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "Generally more formal than について.",
+    "mistake": "Use に関する before a noun, not に関しての as the basic taught attributive form.",
+    "comparison": "について is common conversationally; に関して suits reports and notices.",
+    "examples": [
+      {
+        "jp": "日程に関して質問があります。",
+        "reading": "にっていにかんしてしつもんがあります。",
+        "romaji": "Nittei ni kanshite shitsumon ga arimasu.",
+        "en": "I have a question regarding the schedule."
+      },
+      {
+        "jp": "この制度に関して説明します。",
+        "reading": "このせいどにかんしてせつめいします。",
+        "romaji": "Kono seido ni kanshite setsumei shimasu.",
+        "en": "I will explain this system."
+      },
+      {
+        "jp": "環境に関する本を読みました。",
+        "reading": "かんきょうにかんするほんをよみました。",
+        "romaji": "Kankyou ni kansuru hon o yomimashita.",
+        "en": "I read a book about the environment."
+      }
+    ],
+    "question": {
+      "prompt": "環境に（関する / 関して / 関したり / 関します）本を読む。",
+      "options": [
+        "関する",
+        "関して",
+        "関したり",
+        "関します"
+      ],
+      "answer": "関する",
+      "explanation": "Use に関する before a noun, not に関しての as the basic taught attributive form. Formation: N + に関して; N + に関する + N"
+    }
+  },
+  {
+    "pattern": "に対して比較",
+    "meaning": "whereas; in contrast to",
+    "formation": "N + に対して; V/い-adj plain + のに対して; N/な-adj + なのに対して",
+    "usage": "Set two contrasting facts side by side.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "Different from the target use in 人に対して丁寧だ; here two clauses or groups contrast.",
+    "mistake": "A verb clause requires の before に対して in this contrasting construction.",
+    "comparison": "一方で similarly contrasts aspects without the same nominalizing attachment.",
+    "examples": [
+      {
+        "jp": "兄は静かなのに対して、弟はよく話します。",
+        "reading": "あにはしずかなのにたいして、おとうとはよくはなします。",
+        "romaji": "Ani wa shizuka na no ni taishite, otouto wa yoku hanashimasu.",
+        "en": "My older brother is quiet, whereas my younger brother talks a lot."
+      },
+      {
+        "jp": "去年は赤字だったのに対して、今年は利益が出た。",
+        "reading": "きょねんはあかじだったのにたいして、ことしはりえきがでた。",
+        "romaji": "Kyonen wa akaji datta no ni taishite, kotoshi wa rieki ga deta.",
+        "en": "Last year there was a deficit, whereas this year there was a profit."
+      },
+      {
+        "jp": "平日に対して、休日は利用者が多い。",
+        "reading": "へいじつにたいして、きゅうじつはりようしゃがおおい。",
+        "romaji": "Heijitsu ni taishite, kyuujitsu wa riyousha ga ooi.",
+        "en": "Compared with weekdays, there are many users on holidays."
+      }
+    ],
+    "question": {
+      "prompt": "兄は静か（なの / の / に / を）に対して、弟はにぎやかだ。",
+      "options": [
+        "なの",
+        "の",
+        "に",
+        "を"
+      ],
+      "answer": "なの",
+      "explanation": "A verb clause requires の before に対して in this contrasting construction. Formation: N + に対して; V/い-adj plain + のに対して; N/な-adj + なのに対して"
+    }
+  },
+  {
+    "pattern": "によって",
+    "meaning": "depending on; by means of; because of",
+    "formation": "N + によって; N + による + N",
+    "usage": "Identify a variable factor, method, or cause; determine the sense from context.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "These meanings share a form but are not interchangeable in translation.",
+    "mistake": "Do not interpret every によって as the agent of a passive verb.",
+    "comparison": "によると specifically cites an information source; によって does not by itself mean according to a report.",
+    "examples": [
+      {
+        "jp": "値段は季節によって変わります。",
+        "reading": "ねだんはきせつによってかわります。",
+        "romaji": "Nedan wa kisetsu ni yotte kawarimasu.",
+        "en": "Prices vary depending on the season."
+      },
+      {
+        "jp": "練習によって、発音がよくなった。",
+        "reading": "れんしゅうによって、はつおんがよくなった。",
+        "romaji": "Renshuu ni yotte, hatsuon ga yoku natta.",
+        "en": "My pronunciation improved through practice."
+      },
+      {
+        "jp": "大雨による被害が出ました。",
+        "reading": "おおあめによるひがいがでました。",
+        "romaji": "Ooame ni yoru higai ga demashita.",
+        "en": "There was damage caused by heavy rain."
+      }
+    ],
+    "question": {
+      "prompt": "大雨に（よる / よって / よります / よりて）被害。",
+      "options": [
+        "よる",
+        "よって",
+        "よります",
+        "よりて"
+      ],
+      "answer": "よる",
+      "explanation": "Do not interpret every によって as the agent of a passive verb. Formation: N + によって; N + による + N"
+    }
+  },
+  {
+    "pattern": "によると",
+    "meaning": "according to",
+    "formation": "Information source N + によると; often followed by そうだ/ということだ",
+    "usage": "Name where reported information comes from.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "It attributes rather than independently verifies the information.",
+    "mistake": "Use a source such as a forecast, report, or person, not a mere cause.",
+    "comparison": "によって can mean due to or depending on; によると is the reporting frame.",
+    "examples": [
+      {
+        "jp": "天気予報によると、明日は晴れるそうです。",
+        "reading": "てんきよほうによると、あしたははれるそうです。",
+        "romaji": "Tenki yohou ni yoru to, ashita wa hareru sou desu.",
+        "en": "According to the forecast, it will be sunny tomorrow."
+      },
+      {
+        "jp": "案内によると、入場は無料です。",
+        "reading": "あんないによると、にゅうじょうはむりょうです。",
+        "romaji": "Annai ni yoru to, nyuujou wa muryou desu.",
+        "en": "According to the notice, admission is free."
+      },
+      {
+        "jp": "友達によると、駅前の店は安いらしい。",
+        "reading": "ともだちによると、えきまえのみせはやすいらしい。",
+        "romaji": "Tomodachi ni yoru to, ekimae no mise wa yasui rashii.",
+        "en": "According to my friend, the shop near the station is apparently inexpensive."
+      }
+    ],
+    "question": {
+      "prompt": "天気予報（によると / をはじめ / にとって / に対する）、明日は雨だそうです。",
+      "options": [
+        "によると",
+        "をはじめ",
+        "にとって",
+        "に対する"
+      ],
+      "answer": "によると",
+      "explanation": "Use a source such as a forecast, report, or person, not a mere cause. Formation: Information source N + によると; often followed by そうだ/ということだ"
+    }
+  },
+  {
+    "pattern": "に従って",
+    "meaning": "as; in accordance with",
+    "formation": "N / V dictionary + に従って",
+    "usage": "Describe parallel change or following a rule/instruction.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "With change, the second development accompanies the first.",
+    "mistake": "Vます cannot attach directly; use dictionary form.",
+    "comparison": "とおりに stresses matching a model; に従って can also describe a developing correlation.",
+    "examples": [
+      {
+        "jp": "説明に従って、番号を押してください。",
+        "reading": "せつめいにしたがって、ばんごうをおしてください。",
+        "romaji": "Setsumei ni shitagatte, bangou o oshite kudasai.",
+        "en": "Please press the number according to the instructions."
+      },
+      {
+        "jp": "時間がたつに従って、不安が減りました。",
+        "reading": "じかんがたつにしたがって、ふあんがへりました。",
+        "romaji": "Jikan ga tatsu ni shitagatte, fuan ga herimashita.",
+        "en": "As time passed, my anxiety decreased."
+      },
+      {
+        "jp": "町が大きくなるに従って、店も増えた。",
+        "reading": "まちがおおきくなるにしたがって、みせもふえた。",
+        "romaji": "Machi ga ookiku naru ni shitagatte, mise mo fueta.",
+        "en": "As the town grew, the number of shops also increased."
+      }
+    ],
+    "question": {
+      "prompt": "時間が（たつ / たちます / たって / たち）に従って、変わる。",
+      "options": [
+        "たつ",
+        "たちます",
+        "たって",
+        "たち"
+      ],
+      "answer": "たつ",
+      "explanation": "Vます cannot attach directly; use dictionary form. Formation: N / V dictionary + に従って"
+    }
+  },
+  {
+    "pattern": "ながら",
+    "meaning": "while doing; although in some established contrasts",
+    "formation": "V stem + ながら for simultaneous actions",
+    "usage": "Describe one person doing two actions at the same time.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "The action in the main clause is normally the focus.",
+    "mistake": "For this simultaneous-action use, the actor should be the same in both clauses.",
+    "comparison": "間に can locate a separate person’s action inside another event’s duration.",
+    "examples": [
+      {
+        "jp": "音楽を聞きながら料理をします。",
+        "reading": "おんがくをききながらりょうりをします。",
+        "romaji": "Ongaku o kikinagara ryouri o shimasu.",
+        "en": "I cook while listening to music."
+      },
+      {
+        "jp": "地図を見ながら歩きました。",
+        "reading": "ちずをみながらあるきました。",
+        "romaji": "Chizu o minagara arukimashita.",
+        "en": "I walked while looking at the map."
+      },
+      {
+        "jp": "メモを取りながら説明を聞いています。",
+        "reading": "メモをとりながらせつめいをきいています。",
+        "romaji": "Memo o torinagara setsumei o kiite imasu.",
+        "en": "I am listening to the explanation while taking notes."
+      }
+    ],
+    "question": {
+      "prompt": "音楽を（聞き / 聞く / 聞いて / 聞いた）ながら、料理をする。",
+      "options": [
+        "聞き",
+        "聞く",
+        "聞いて",
+        "聞いた"
+      ],
+      "answer": "聞き",
+      "explanation": "For this simultaneous-action use, the actor should be the same in both clauses. Formation: V stem + ながら for simultaneous actions"
+    }
+  },
+  {
+    "pattern": "まま",
+    "meaning": "with a state unchanged",
+    "formation": "Vた / Vない + まま; Nの / な-adjな / い-adj + まま",
+    "usage": "Describe preserving a state or doing another action without changing it.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "Often points out that a needed change was not made.",
+    "mistake": "Use 靴を履いたまま for keeping shoes on, not 履いてまま.",
+    "comparison": "ながら describes simultaneous actions; まま describes a continuing state.",
+    "examples": [
+      {
+        "jp": "電気をつけたまま寝てしまいました。",
+        "reading": "でんきをつけたままねてしまいました。",
+        "romaji": "Denki o tsuketa mama nete shimaimashita.",
+        "en": "I fell asleep with the light left on."
+      },
+      {
+        "jp": "靴を履いたまま入らないでください。",
+        "reading": "くつをはいたままはいらないでください。",
+        "romaji": "Kutsu o haita mama hairanaide kudasai.",
+        "en": "Please do not enter with your shoes on."
+      },
+      {
+        "jp": "何も言わないまま帰った。",
+        "reading": "なにもいわないままかえった。",
+        "romaji": "Nani mo iwanai mama kaetta.",
+        "en": "They went home without saying anything."
+      }
+    ],
+    "question": {
+      "prompt": "窓を（開けた / 開けて / 開けます / 開け）まま出かけた。",
+      "options": [
+        "開けた",
+        "開けて",
+        "開けます",
+        "開け"
+      ],
+      "answer": "開けた",
+      "explanation": "Use 靴を履いたまま for keeping shoes on, not 履いてまま. Formation: Vた / Vない + まま; Nの / な-adjな / い-adj + まま"
+    }
+  },
+  {
+    "pattern": "がち",
+    "meaning": "tend to; often fall into",
+    "formation": "V stem / N + がち; がちなN / がちのN",
+    "usage": "Describe a recurrent tendency, often undesirable.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "More about repeated occurrence than visual resemblance.",
+    "mistake": "Attach to the stem: 忘れがち, not 忘れるがち.",
+    "comparison": "気味 suggests a slight current condition; がち suggests a recurring tendency.",
+    "examples": [
+      {
+        "jp": "忙しいと、朝ご飯を抜きがちです。",
+        "reading": "いそがしいと、あさごはんをぬきがちです。",
+        "romaji": "Isogashii to, asagohan o nukigachi desu.",
+        "en": "When I am busy, I tend to skip breakfast."
+      },
+      {
+        "jp": "最近、授業を休みがちだ。",
+        "reading": "さいきん、じゅぎょうをやすみがちだ。",
+        "romaji": "Saikin, jugyou o yasumigachi da.",
+        "en": "Recently I have tended to miss class."
+      },
+      {
+        "jp": "彼は子どものころ病気がちでした。",
+        "reading": "かれはこどものころびょうきがちでした。",
+        "romaji": "Kare wa kodomo no koro byoukigachi deshita.",
+        "en": "He was often ill as a child."
+      }
+    ],
+    "question": {
+      "prompt": "予定を（忘れ / 忘れる / 忘れた / 忘れて）がちです。",
+      "options": [
+        "忘れ",
+        "忘れる",
+        "忘れた",
+        "忘れて"
+      ],
+      "answer": "忘れ",
+      "explanation": "Attach to the stem: 忘れがち, not 忘れるがち. Formation: V stem / N + がち; がちなN / がちのN"
+    }
+  },
+  {
+    "pattern": "気味",
+    "meaning": "a little; showing a slight tendency",
+    "formation": "V stem / N + 気味（ぎみ）",
+    "usage": "Describe a mild condition, often unwanted and felt now or recently.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "Common combinations: 疲れ気味, 風邪気味, 遅れ気味.",
+    "mistake": "Do not attach to every adjective freely; learn common combinations.",
+    "comparison": "がち describes repeated tendency; 気味 indicates a slight state.",
+    "examples": [
+      {
+        "jp": "今日は少し疲れ気味です。",
+        "reading": "きょうはすこしつかれぎみです。",
+        "romaji": "Kyou wa sukoshi tsukaregimi desu.",
+        "en": "I am a little tired today."
+      },
+      {
+        "jp": "風邪気味なので、早く寝ます。",
+        "reading": "かぜぎみなので、はやくねます。",
+        "romaji": "Kazegimi na node, hayaku nemasu.",
+        "en": "I feel a bit of a cold coming on, so I will go to bed early."
+      },
+      {
+        "jp": "仕事が遅れ気味になっています。",
+        "reading": "しごとがおくれぎみになっています。",
+        "romaji": "Shigoto ga okuregimi ni natte imasu.",
+        "en": "The work is running a little behind schedule."
+      }
+    ],
+    "question": {
+      "prompt": "疲れ気味 is read:",
+      "options": [
+        "つかれぎみ",
+        "つかれきみ",
+        "つかれあじ",
+        "つかれけみ"
+      ],
+      "answer": "つかれぎみ",
+      "explanation": "Do not attach to every adjective freely; learn common combinations. Formation: V stem / N + 気味（ぎみ）"
+    }
+  },
+  {
+    "pattern": "っぽい",
+    "meaning": "-ish; prone to; having much of a quality",
+    "formation": "Selected N / V stem / adjective stem + っぽい",
+    "usage": "Describe a noticeable quality or tendency in an い-adjective-like form.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "Common words include 子どもっぽい, 忘れっぽい, 油っぽい.",
+    "mistake": "It conjugates like an い-adjective: 子どもっぽくない.",
+    "comparison": "がち counts recurrence; っぽい presents a characteristic or impression.",
+    "examples": [
+      {
+        "jp": "この服は少し子どもっぽい。",
+        "reading": "このふくはすこしこどもっぽい。",
+        "romaji": "Kono fuku wa sukoshi kodomoppoi.",
+        "en": "These clothes look a little childish."
+      },
+      {
+        "jp": "最近、忘れっぽくなりました。",
+        "reading": "さいきん、わすれっぽくなりました。",
+        "romaji": "Saikin, wasureppoku narimashita.",
+        "en": "I have become forgetful recently."
+      },
+      {
+        "jp": "この料理は油っぽくありません。",
+        "reading": "このりょうりはあぶらっぽくありません。",
+        "romaji": "Kono ryouri wa aburappoku arimasen.",
+        "en": "This dish is not greasy."
+      }
+    ],
+    "question": {
+      "prompt": "Choose the negative: 子どもっぽい →",
+      "options": [
+        "子どもっぽくない",
+        "子どもっぽいではない",
+        "子どもっぽくな",
+        "子どもっぽなない"
+      ],
+      "answer": "子どもっぽくない",
+      "explanation": "It conjugates like an い-adjective: 子どもっぽくない. Formation: Selected N / V stem / adjective stem + っぽい"
+    }
+  },
+  {
+    "pattern": "に決まっている",
+    "meaning": "must be; surely",
+    "formation": "V/い-adj plain / N / な-adj stem + に決まっている",
+    "usage": "Express strong subjective certainty.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "Can sound dismissive of doubts; the speaker’s certainty is not objective proof.",
+    "mistake": "Do not add だ between a noun and に決まっている.",
+    "comparison": "に違いない is also a strong deduction, often somewhat more measured.",
+    "examples": [
+      {
+        "jp": "そんな話はうそに決まっている。",
+        "reading": "そんなはなしはうそにきまっている。",
+        "romaji": "Sonna hanashi wa uso ni kimatte iru.",
+        "en": "That story must be a lie."
+      },
+      {
+        "jp": "毎日練習したのだから、上手になるに決まっている。",
+        "reading": "まいにちれんしゅうしたのだから、じょうずになるにきまっている。",
+        "romaji": "Mainichi renshuu shita no dakara, jouzu ni naru ni kimatte iru.",
+        "en": "Having practiced every day, of course you will improve."
+      },
+      {
+        "jp": "こんな時間なら、店は閉まっているに決まっています。",
+        "reading": "こんなじかんなら、みせはしまっているにきまっています。",
+        "romaji": "Konna jikan nara, mise wa shimatte iru ni kimatte imasu.",
+        "en": "At this hour, the shop is surely closed."
+      }
+    ],
+    "question": {
+      "prompt": "うそ（に / だに / なに / のに）決まっている。",
+      "options": [
+        "に",
+        "だに",
+        "なに",
+        "のに"
+      ],
+      "answer": "に",
+      "explanation": "Do not add だ between a noun and に決まっている. Formation: V/い-adj plain / N / な-adj stem + に決まっている"
+    }
+  },
+  {
+    "pattern": "ようとする",
+    "meaning": "try to; be about to",
+    "formation": "V volitional + とする",
+    "usage": "Describe attempting an action or the moment just before it.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "The context determines attempt versus imminent action; success is not guaranteed.",
+    "mistake": "This よう is part of the volitional, not dictionary form + よう.",
+    "comparison": "てみる tries an action to see its result; ようとする focuses on attempting to start it.",
+    "examples": [
+      {
+        "jp": "ドアを開けようとしたが、開かなかった。",
+        "reading": "ドアをあけようとしたが、あかなかった。",
+        "romaji": "Doa o akeyou to shita ga, akanakatta.",
+        "en": "I tried to open the door, but it would not open."
+      },
+      {
+        "jp": "寝ようとしたとき、電話が鳴った。",
+        "reading": "ねようとしたとき、でんわがなった。",
+        "romaji": "Neyou to shita toki, denwa ga natta.",
+        "en": "Just as I was about to go to bed, the phone rang."
+      },
+      {
+        "jp": "弟は自分で料理を作ろうとしています。",
+        "reading": "おとうとはじぶんでりょうりをつくろうとしています。",
+        "romaji": "Otouto wa jibun de ryouri o tsukurou to shite imasu.",
+        "en": "My younger brother is trying to cook by himself."
+      }
+    ],
+    "question": {
+      "prompt": "ドアを（開けよう / 開けるよう / 開けたよう / 開けてよう）とした。",
+      "options": [
+        "開けよう",
+        "開けるよう",
+        "開けたよう",
+        "開けてよう"
+      ],
+      "answer": "開けよう",
+      "explanation": "This よう is part of the volitional, not dictionary form + よう. Formation: V volitional + とする"
+    }
+  },
+  {
+    "pattern": "てみせる",
+    "meaning": "will definitely do and show; demonstrate by doing",
+    "formation": "Vて + みせる",
+    "usage": "Express determination or demonstrate an action for someone to see.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "The determined use promises to prove oneself through the result.",
+    "mistake": "It is not identical to simply trying; it can sound confident or challenging.",
+    "comparison": "てみる is exploratory; てみせる demonstrates or resolves to prove.",
+    "examples": [
+      {
+        "jp": "次の試験には必ず合格してみせる。",
+        "reading": "つぎのしけんにはかならずごうかくしてみせる。",
+        "romaji": "Tsugi no shiken ni wa kanarazu goukaku shite miseru.",
+        "en": "I will definitely pass the next exam and prove it."
+      },
+      {
+        "jp": "先生が一度やってみせました。",
+        "reading": "せんせいがいちどやってみせました。",
+        "romaji": "Sensei ga ichido yatte misemashita.",
+        "en": "The teacher demonstrated it once."
+      },
+      {
+        "jp": "この仕事を最後まで終わらせてみせます。",
+        "reading": "このしごとをさいごまでおわらせてみせます。",
+        "romaji": "Kono shigoto o saigo made owarasete misemasu.",
+        "en": "I will see this job through to completion."
+      }
+    ],
+    "question": {
+      "prompt": "Determination: 必ず合格（して / する / し / した）みせる。",
+      "options": [
+        "して",
+        "する",
+        "し",
+        "した"
+      ],
+      "answer": "して",
+      "explanation": "It is not identical to simply trying; it can sound confident or challenging. Formation: Vて + みせる"
+    }
+  },
+  {
+    "pattern": "てみる",
+    "meaning": "try doing to see the result",
+    "formation": "Vて + みる",
+    "usage": "Perform an action as an experiment or experience.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "It implies trying the action itself, unlike merely attempting but failing to start.",
+    "mistake": "Use the て-form, not V dictionary + みる.",
+    "comparison": "ようとする focuses on an attempt; てみる explores an outcome.",
+    "examples": [
+      {
+        "jp": "この料理を食べてみたいです。",
+        "reading": "このりょうりをたべてみたいです。",
+        "romaji": "Kono ryouri o tabete mitai desu.",
+        "en": "I would like to try this dish."
+      },
+      {
+        "jp": "分からなければ、先生に聞いてみます。",
+        "reading": "わからなければ、せんせいにきいてみます。",
+        "romaji": "Wakaranakereba, sensei ni kiite mimasu.",
+        "en": "If I do not understand, I will try asking the teacher."
+      },
+      {
+        "jp": "別の方法を試してみました。",
+        "reading": "べつのほうほうをためしてみました。",
+        "romaji": "Betsu no houhou o tameshite mimashita.",
+        "en": "I tried out another method."
+      }
+    ],
+    "question": {
+      "prompt": "先生に（聞いて / 聞く / 聞き / 聞いた）みます。",
+      "options": [
+        "聞いて",
+        "聞く",
+        "聞き",
+        "聞いた"
+      ],
+      "answer": "聞いて",
+      "explanation": "Use the て-form, not V dictionary + みる. Formation: Vて + みる"
+    }
+  },
+  {
+    "pattern": "こと",
+    "meaning": "nominalize an action or fact",
+    "formation": "Plain verb/clause + こと; な-adjな / Nの where required",
+    "usage": "Turn a clause into a noun-like concept.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "Common in general rules, abstract facts, and fixed patterns like ことができる.",
+    "mistake": "Do not treat こと and の as interchangeable inside fixed grammatical constructions.",
+    "comparison": "の often suits directly perceived actions; こと often treats an abstract idea.",
+    "examples": [
+      {
+        "jp": "毎日続けることが大切です。",
+        "reading": "まいにちつづけることがたいせつです。",
+        "romaji": "Mainichi tsuzukeru koto ga taisetsu desu.",
+        "en": "Continuing every day is important."
+      },
+      {
+        "jp": "日本語を学ぶことは楽しい。",
+        "reading": "にほんごをまなぶことはたのしい。",
+        "romaji": "Nihongo o manabu koto wa tanoshii.",
+        "en": "Learning Japanese is enjoyable."
+      },
+      {
+        "jp": "約束を守ることを忘れないでください。",
+        "reading": "やくそくをまもることをわすれないでください。",
+        "romaji": "Yakusoku o mamoru koto o wasurenaide kudasai.",
+        "en": "Please do not forget to keep your promise."
+      }
+    ],
+    "question": {
+      "prompt": "毎日（続ける / 続けます / 続けて / 続け）ことが大切です。",
+      "options": [
+        "続ける",
+        "続けます",
+        "続けて",
+        "続け"
+      ],
+      "answer": "続ける",
+      "explanation": "Do not treat こと and の as interchangeable inside fixed grammatical constructions. Formation: Plain verb/clause + こと; な-adjな / Nの where required"
+    }
+  },
+  {
+    "pattern": "の",
+    "meaning": "nominalize a concrete action; refer to one",
+    "formation": "Plain clause + の; な-adjな / Nな for explanatory nominal clauses",
+    "usage": "Treat an action as a noun or replace a recoverable noun.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "Especially common for observing an action and in のが好き/のは難しい.",
+    "mistake": "Before a perception verb, の is usually natural: 走っているのを見た.",
+    "comparison": "こと commonly treats an abstract idea; の can refer to an observed event or “the one.”",
+    "examples": [
+      {
+        "jp": "子どもが走っているのを見ました。",
+        "reading": "こどもがはしっているのをみました。",
+        "romaji": "Kodomo ga hashitte iru no o mimashita.",
+        "en": "I saw a child running."
+      },
+      {
+        "jp": "早く起きるのは難しいです。",
+        "reading": "はやくおきるのはむずかしいです。",
+        "romaji": "Hayaku okiru no wa muzukashii desu.",
+        "en": "Getting up early is difficult."
+      },
+      {
+        "jp": "赤いのをください。",
+        "reading": "あかいのをください。",
+        "romaji": "Akai no o kudasai.",
+        "en": "Please give me the red one."
+      }
+    ],
+    "question": {
+      "prompt": "赤いのをください。の stands for:",
+      "options": [
+        "A recoverable item, “the one.”",
+        "A reason.",
+        "A past action only.",
+        "A person’s obligation."
+      ],
+      "answer": "A recoverable item, “the one.”",
+      "explanation": "Before a perception verb, の is usually natural: 走っているのを見た. Formation: Plain clause + の; な-adjな / Nな for explanatory nominal clauses"
+    }
+  },
+  {
+    "pattern": "ということ",
+    "meaning": "the fact that; the meaning that",
+    "formation": "Plain clause + ということ; N/な-adj + だということ",
+    "usage": "Package the content of a statement as a fact or proposition.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "It makes the content being discussed explicit.",
+    "mistake": "Retain the plain copula when quoting a noun predicate: 学生だということ.",
+    "comparison": "こと directly nominalizes; ということ often foregrounds a stated content or conclusion.",
+    "examples": [
+      {
+        "jp": "明日が休みだということを忘れていました。",
+        "reading": "あしたがやすみだということをわすれていました。",
+        "romaji": "Ashita ga yasumi da to iu koto o wasurete imashita.",
+        "en": "I had forgotten that tomorrow is a day off."
+      },
+      {
+        "jp": "彼が来ないということは、まだ聞いていません。",
+        "reading": "かれがこないということは、まだきいていません。",
+        "romaji": "Kare ga konai to iu koto wa, mada kiite imasen.",
+        "en": "I have not yet heard that he is not coming."
+      },
+      {
+        "jp": "全員が参加できるということが分かりました。",
+        "reading": "ぜんいんがさんかできるということがわかりました。",
+        "romaji": "Zenin ga sanka dekiru to iu koto ga wakarimashita.",
+        "en": "We found out that everyone can participate."
+      }
+    ],
+    "question": {
+      "prompt": "明日は休み（だ / な / の / に）ということを聞いた。",
+      "options": [
+        "だ",
+        "な",
+        "の",
+        "に"
+      ],
+      "answer": "だ",
+      "explanation": "Retain the plain copula when quoting a noun predicate: 学生だということ. Formation: Plain clause + ということ; N/な-adj + だということ"
+    }
+  },
+  {
+    "pattern": "というのは",
+    "meaning": "as for what is called; defines a term",
+    "formation": "N/quoted phrase + というのは ... ことだ / 意味だ",
+    "usage": "Explain a name, term, or concept.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "Common when restating unfamiliar vocabulary for the reader.",
+    "mistake": "Do not confuse explanatory というのは with a hearsay report.",
+    "comparison": "ということ packages content; というのは makes that content or term the topic for explanation.",
+    "examples": [
+      {
+        "jp": "定休日というのは、毎週決まって休む日のことです。",
+        "reading": "ていきゅうびというのは、まいしゅうきまってやすむひのことです。",
+        "romaji": "Teikyuubi to iu no wa, maishuu kimatte yasumu hi no koto desu.",
+        "en": "A regular closing day means the fixed day each week when a business is closed."
+      },
+      {
+        "jp": "節約というのは、無駄を減らすことです。",
+        "reading": "せつやくというのは、むだをへらすことです。",
+        "romaji": "Setsuyaku to iu no wa, muda o herasu koto desu.",
+        "en": "Economizing means reducing waste."
+      },
+      {
+        "jp": "この印というのは、何を表していますか。",
+        "reading": "このしるしというのは、なにをあらわしていますか。",
+        "romaji": "Kono shirushi to iu no wa, nani o arawashite imasu ka.",
+        "en": "What does this symbol represent?"
+      }
+    ],
+    "question": {
+      "prompt": "節約（というのは / にとって / によって / までに）、無駄を減らすことです。",
+      "options": [
+        "というのは",
+        "にとって",
+        "によって",
+        "までに"
+      ],
+      "answer": "というのは",
+      "explanation": "Do not confuse explanatory というのは with a hearsay report. Formation: N/quoted phrase + というのは ... ことだ / 意味だ"
+    }
+  },
+  {
+    "pattern": "つまり",
+    "meaning": "in other words; that is",
+    "formation": "Connector at the start of a restatement or conclusion",
+    "usage": "Restate the previous content more directly or draw its summary implication.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "The following clause should clarify the previous point.",
+    "mistake": "Do not use it merely to add an unrelated new fact.",
+    "comparison": "そのため introduces a consequence; つまり reformulates meaning.",
+    "examples": [
+      {
+        "jp": "今日は定休日です。つまり、店は開いていません。",
+        "reading": "きょうはていきゅうびです。つまり、みせはあいていません。",
+        "romaji": "Kyou wa teikyuubi desu. Tsumari, mise wa aite imasen.",
+        "en": "Today is the regular closing day. In other words, the shop is not open."
+      },
+      {
+        "jp": "一人千円です。つまり、二人で二千円になります。",
+        "reading": "ひとりせんえんです。つまり、ふたりでにせんえんになります。",
+        "romaji": "Hitori sen en desu. Tsumari, futari de nisen en ni narimasu.",
+        "en": "It is a thousand yen each. That means two thousand yen for two people."
+      },
+      {
+        "jp": "彼は父の兄です。つまり、私のおじです。",
+        "reading": "かれはちちのあにです。つまり、わたしのおじです。",
+        "romaji": "Kare wa chichi no ani desu. Tsumari, watashi no oji desu.",
+        "en": "He is my father’s older brother. In other words, he is my uncle."
+      }
+    ],
+    "question": {
+      "prompt": "父の兄、（つまり / しかし / それでも / ところで）私のおじです。",
+      "options": [
+        "つまり",
+        "しかし",
+        "それでも",
+        "ところで"
+      ],
+      "answer": "つまり",
+      "explanation": "Do not use it merely to add an unrelated new fact. Formation: Connector at the start of a restatement or conclusion"
+    }
+  },
+  {
+    "pattern": "そのため",
+    "meaning": "therefore; for that reason",
+    "formation": "Previous cause. そのため、result.",
+    "usage": "Connect an already stated reason to its consequence.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "その points back to the preceding situation.",
+    "mistake": "The following content must be a consequence, not simply a rewording.",
+    "comparison": "その結果 emphasizes the outcome of an action/process; そのため can follow any causal situation.",
+    "examples": [
+      {
+        "jp": "大雪が降りました。そのため、電車が止まりました。",
+        "reading": "おおゆきがふりました。そのため、でんしゃがとまりました。",
+        "romaji": "Ooyuki ga furimashita. Sono tame, densha ga tomarimashita.",
+        "en": "It snowed heavily. As a result, the trains stopped."
+      },
+      {
+        "jp": "参加者が増えた。そのため、広い会場を予約した。",
+        "reading": "さんかしゃがふえた。そのため、ひろいかいじょうをよやくした。",
+        "romaji": "Sankasha ga fueta. Sono tame, hiroi kaijou o yoyaku shita.",
+        "en": "The number of participants increased. For that reason, we booked a spacious venue."
+      },
+      {
+        "jp": "道が混んでいた。そのため、到着が遅れた。",
+        "reading": "みちがこんでいた。そのため、とうちゃくがおくれた。",
+        "romaji": "Michi ga konde ita. Sono tame, touchaku ga okureta.",
+        "en": "The roads were congested. Consequently, we arrived late."
+      }
+    ],
+    "question": {
+      "prompt": "大雪が降った。（そのため / ところで / それなのに / つまりの）、電車が止まった。",
+      "options": [
+        "そのため",
+        "ところで",
+        "それなのに",
+        "つまりの"
+      ],
+      "answer": "そのため",
+      "explanation": "The following content must be a consequence, not simply a rewording. Formation: Previous cause. そのため、result."
+    }
+  },
+  {
+    "pattern": "その結果",
+    "meaning": "as a result",
+    "formation": "Previous action/process. その結果、outcome.",
+    "usage": "Identify what happened as the outcome of the preceding effort, process, or event.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "Useful for reading the structure of reports.",
+    "mistake": "The result need not be positive; the phrase itself does not mean success.",
+    "comparison": "そのため highlights the causal reason; その結果 foregrounds the outcome.",
+    "examples": [
+      {
+        "jp": "毎日練習した。その結果、発音がよくなった。",
+        "reading": "まいにちれんしゅうした。そのけっか、はつおんがよくなった。",
+        "romaji": "Mainichi renshuu shita. Sono kekka, hatsuon ga yoku natta.",
+        "en": "I practiced every day. As a result, my pronunciation improved."
+      },
+      {
+        "jp": "値段を比べました。その結果、安い店が見つかりました。",
+        "reading": "ねだんをくらべました。そのけっか、やすいみせがみつかりました。",
+        "romaji": "Nedan o kurabemashita. Sono kekka, yasui mise ga mitsukarimashita.",
+        "en": "I compared prices. As a result, I found an inexpensive shop."
+      },
+      {
+        "jp": "確認せずに送った。その結果、間違った相手に届いた。",
+        "reading": "かくにんせずにおくった。そのけっか、まちがったあいてにとどいた。",
+        "romaji": "Kakunin sezu ni okutta. Sono kekka, machigatta aite ni todoita.",
+        "en": "I sent it without checking. As a result, it reached the wrong recipient."
+      }
+    ],
+    "question": {
+      "prompt": "その結果 can introduce:",
+      "options": [
+        "A positive or negative outcome.",
+        "Only a success.",
+        "Only a command.",
+        "Only a different topic."
+      ],
+      "answer": "A positive or negative outcome.",
+      "explanation": "The result need not be positive; the phrase itself does not mean success. Formation: Previous action/process. その結果、outcome."
+    }
+  },
+  {
+    "pattern": "というより",
+    "meaning": "rather than saying; more accurately",
+    "formation": "Plain clause / N + というより",
+    "usage": "Replace an initial description with a more accurate one.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "The second description is preferred as the better characterization.",
+    "mistake": "Do not treat it as a numerical greater-than comparison.",
+    "comparison": "より compares degree; というより compares ways of describing something.",
+    "examples": [
+      {
+        "jp": "怒っているというより、心配しています。",
+        "reading": "おこっているというより、しんぱいしています。",
+        "romaji": "Okotte iru to iu yori, shinpai shite imasu.",
+        "en": "Rather than being angry, I am worried."
+      },
+      {
+        "jp": "旅行というより、仕事でした。",
+        "reading": "りょこうというより、しごとでした。",
+        "romaji": "Ryokou to iu yori, shigoto deshita.",
+        "en": "It was work rather than a trip."
+      },
+      {
+        "jp": "難しいというより、時間がかかる問題です。",
+        "reading": "むずかしいというより、じかんがかかるもんだいです。",
+        "romaji": "Muzukashii to iu yori, jikan ga kakaru mondai desu.",
+        "en": "It is a time-consuming problem rather than a difficult one."
+      }
+    ],
+    "question": {
+      "prompt": "怒っているというより心配している: the better description is",
+      "options": [
+        "Worried.",
+        "Angry.",
+        "Happy.",
+        "Indifferent."
+      ],
+      "answer": "Worried.",
+      "explanation": "Do not treat it as a numerical greater-than comparison. Formation: Plain clause / N + というより"
+    }
+  },
+  {
+    "pattern": "わけがない",
+    "meaning": "there is no way that",
+    "formation": "V/い-adj plain + わけがない; な-adjな / Nの + わけがない",
+    "usage": "Strongly reject a possibility based on the speaker’s reasoning.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "Often an emphatic judgment rather than mathematical impossibility.",
+    "mistake": "Do not confuse with わけではない, which may only partly deny a claim.",
+    "comparison": "はずがない also expresses strong negative expectation; わけがない is often more emphatic.",
+    "examples": [
+      {
+        "jp": "一日で全部覚えられるわけがない。",
+        "reading": "いちにちでぜんぶおぼえられるわけがない。",
+        "romaji": "Ichinichi de zenbu oboerareru wake ga nai.",
+        "en": "There is no way I can memorize it all in one day."
+      },
+      {
+        "jp": "あの店が無料のわけがありません。",
+        "reading": "あのみせがむりょうのわけがありません。",
+        "romaji": "Ano mise ga muryou no wake ga arimasen.",
+        "en": "There is no way that shop is free."
+      },
+      {
+        "jp": "説明を聞いていないのだから、分かるわけがない。",
+        "reading": "せつめいをきいていないのだから、わかるわけがない。",
+        "romaji": "Setsumei o kiite inai no dakara, wakaru wake ga nai.",
+        "en": "Since I have not heard the explanation, there is no way I would understand."
+      }
+    ],
+    "question": {
+      "prompt": "無料（の / に / を / で）わけがない。",
+      "options": [
+        "の",
+        "に",
+        "を",
+        "で"
+      ],
+      "answer": "の",
+      "explanation": "Do not confuse with わけではない, which may only partly deny a claim. Formation: V/い-adj plain + わけがない; な-adjな / Nの + わけがない"
+    }
+  },
+  {
+    "pattern": "ものだから",
+    "meaning": "because; the reason is (explanation/excuse)",
+    "formation": "V/い-adj plain + ものだから; な-adjな / Nな + ものだから",
+    "usage": "Explain a reason, often for an inconvenient result or one’s behavior.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "Can sound apologetic or excuse-like; not a neutral technical cause in every setting.",
+    "mistake": "Present noun/な-adjective links commonly use な: 初めてなものだから.",
+    "comparison": "ので gives a comparatively neutral reason; ものだから foregrounds the explanatory justification.",
+    "examples": [
+      {
+        "jp": "道が混んでいたものだから、遅れました。",
+        "reading": "みちがこんでいたものだから、おくれました。",
+        "romaji": "Michi ga konde ita mono dakara, okuremashita.",
+        "en": "I was late because the roads were congested."
+      },
+      {
+        "jp": "初めてなものだから、やり方が分かりませんでした。",
+        "reading": "はじめてなものだから、やりかたがわかりませんでした。",
+        "romaji": "Hajimete na mono dakara, yarikata ga wakarimasen deshita.",
+        "en": "It was my first time, so I did not know how to do it."
+      },
+      {
+        "jp": "急いでいたものだから、確認し忘れました。",
+        "reading": "いそいでいたものだから、かくにんしわすれました。",
+        "romaji": "Isoide ita mono dakara, kakunin shiwasuremashita.",
+        "en": "I was in a hurry, so I forgot to check."
+      }
+    ],
+    "question": {
+      "prompt": "初めて（な / の / に / を）ものだから、分からなかった。",
+      "options": [
+        "な",
+        "の",
+        "に",
+        "を"
+      ],
+      "answer": "な",
+      "explanation": "Present noun/な-adjective links commonly use な: 初めてなものだから. Formation: V/い-adj plain + ものだから; な-adjな / Nな + ものだから"
+    }
+  },
+  {
+    "pattern": "ことから",
+    "meaning": "from the fact that; because (basis)",
+    "formation": "V/い-adj plain + ことから; な-adjな / Nである + ことから",
+    "usage": "Use an observable fact as the basis for a conclusion, reason, or name.",
+    "register": "neutral; use polite endings where appropriate",
+    "nuance": "Common in explanatory writing, including how places get names.",
+    "mistake": "The first clause should provide the factual basis, not merely a desired purpose.",
+    "comparison": "ために can express purpose; ことから explains reasoning from a fact.",
+    "examples": [
+      {
+        "jp": "形が星に似ていることから、この名前が付きました。",
+        "reading": "かたちがほしににていることから、このなまえがつきました。",
+        "romaji": "Katachi ga hoshi ni nite iru koto kara, kono namae ga tsukimashita.",
+        "en": "It got this name because its shape resembles a star."
+      },
+      {
+        "jp": "駅に近いことから、この場所を選びました。",
+        "reading": "えきにちかいことから、このばしょをえらびました。",
+        "romaji": "Eki ni chikai koto kara, kono basho o erabimashita.",
+        "en": "We chose this location because it is close to the station."
+      },
+      {
+        "jp": "電気がついていることから、誰かいると考えた。",
+        "reading": "でんきがついていることから、だれかいるとかんがえた。",
+        "romaji": "Denki ga tsuite iru koto kara, dareka iru to kangaeta.",
+        "en": "From the fact that the light was on, I thought someone was there."
+      }
+    ],
+    "question": {
+      "prompt": "駅に（近い / 近く / 近いな / 近いで）ことから、選んだ。",
+      "options": [
+        "近い",
+        "近く",
+        "近いな",
+        "近いで"
+      ],
+      "answer": "近い",
+      "explanation": "The first clause should provide the factual basis, not merely a desired purpose. Formation: V/い-adj plain + ことから; な-adjな / Nである + ことから"
+    }
+  }
+]
