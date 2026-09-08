@@ -1,8 +1,24 @@
-# Tomorrow, Once More
+<p align="center">
+  <img src="repo_assets/logo.svg" width="120" alt="Tomorrow, Once More blue cup and clock logo">
+</p>
+
+<h1 align="center">Tomorrow, Once More</h1>
+
+<p align="center"><i>A Japanese-learning drama about changing one ordinary day before it becomes too late.</i></p>
 
 An illustrated Japanese-learning drama. Aoi wakes one year before her family cafe collapses and tries to change the future. The first-hour cut teaches through Japanese speech, kana/katakana captions, English meaning, and character-led scenes.
 
-![Opening](repo_assets/screenshots/opening.png)
+![Scenic dialogue preview](repo_assets/screenshots/scenic-dialogue.png)
+
+## Watch short previews
+
+These excerpts are compact H.264 videos with Japanese audio, kana captions, English meaning, character art, and illustrated scenery.
+
+| Moment | Preview |
+| --- | --- |
+| Aoi wakes to the blue cup | [Watch the opening rewind](repo_assets/clips/opening-rewind.mp4) |
+| Rina arrives in the red scarf | [Watch the red-scarf scene](repo_assets/clips/red-scarf.mp4) |
+| Tomorrow calls back | [Watch the future-phone scene](repo_assets/clips/tomorrow-calls.mp4) |
 
 ![Dialogue](repo_assets/screenshots/dialogue.png)
 
@@ -12,9 +28,10 @@ An illustrated Japanese-learning drama. Aoi wakes one year before her family caf
 
 - A 24-scene opening-hour screenplay with Japanese in kana and English translation.
 - Japanese neural voice audio for the scene lines.
-- A finished illustrated first-hour video (`output/Tomorrow_Once_More_Hour_1.mp4`, excluded from Git because it is too large for the repository).
-- Nine character cutouts supplied from the existing character sheet, animated with speaker emphasis and listener dimming.
-- A white-background study mode and an optional scenery mode.
+- A finished 67-minute scenic video (`output/Tomorrow_Once_More_Animated_Scenic.mp4`, excluded from Git because it is too large for the repository).
+- Ten character cutouts, including Aoi, Misaki, Haru, Rina, Ren, Yui, Sato, Nao, the clerk, and a regular customer.
+- Illustrated bedroom, kitchen, cafe, station, and back-room scenery mapped across all 24 scenes.
+- A white-background study mode and a scenic mode.
 
 ## Add artwork
 
