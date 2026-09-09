@@ -33,6 +33,10 @@ These excerpts are compact H.264 videos with Japanese audio, kana captions, Engl
 - Illustrated bedroom, kitchen, cafe, station, and back-room scenery mapped across all 24 scenes.
 - A white-background study mode and a scenic mode.
 
+## Live Director launch demo
+
+The prepared [fal H3 Max Director launch kit](launch/fal-director/) turns Aoi's first scene into a 90-second interactive stream. It includes the 16:9 Aoi/cafe opening frame, three learner choices, exact prompt messages, overlay captions, and a $3 launch budget cap.
+
 ## Add artwork
 
 Put transparent PNG character art in `drama/film/characters/`. Use either the Japanese role name or its English role name: `あおい.png` / `aoi.png`, `みさき.png` / `misaki.png`, and so on. The current renderer already has art for Aoi, Misaki, Haru, Rina, Ren, Yui, Sato, the clerk, and the customer.

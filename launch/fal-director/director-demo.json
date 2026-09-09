@@ -1,0 +1,59 @@
+{
+  "title": "Tomorrow, Once More — Live Rewind Director",
+  "model": "minimax/h3-max/director",
+  "budget": {
+    "hard_cap_usd": 3.0,
+    "rate_usd_per_second": 0.02,
+    "minimum_session_seconds": 60,
+    "planned_runtime_seconds": 90,
+    "planned_cost_usd": 1.8,
+    "retry_reserve_seconds": 60,
+    "retry_reserve_usd": 1.2,
+    "stop_at_seconds": 90,
+    "resolution": "768p",
+    "note": "The client must close the session at 90 seconds. A $3 balance admits up to 150 seconds at the launch rate, but the demo itself never requests more than 90."
+  },
+  "configure": {
+    "protocol_version": 1,
+    "prompt_version": 1,
+    "type": "configure",
+    "resolution": "768p",
+    "aspect_ratio": "16:9",
+    "memory": 12,
+    "audio_bitrate": 96000,
+    "image_url": "https://raw.githubusercontent.com/ronithrashmikara/tomorrow-once-more/main/launch/fal-director/assets/aoi-cafe-opening.jpg",
+    "prompt": "Create an original continuous 2D Japanese visual-novel animation for the learning drama Tomorrow, Once More. Maintain the protagonist from the supplied opening image: Aoi is a 22-year-old Japanese woman with long black hair in a loose bun, soft blue-gray eyes, a white rolled-sleeve blouse and a dark charcoal cafe apron. She works in her mother's warm neighborhood cafe. Preserve her face, hair, wardrobe, proportions, and gentle anime-watercolor style throughout the stream. Morning sunlight, warm wood, tea cups, plants, café tables, quiet realistic body language, cinematic but calm camera movement. The story is a time-loop mystery: Aoi has awakened one year before the cafe's collapse. Keep every moment grounded, emotionally clear, and suitable for Japanese beginners. Do not show words, subtitles, speech bubbles, logos, watermarks, or readable signs in the generated frames. The application overlays accurate kana and English subtitles. Begin with a slow dolly toward Aoi as she notices a date written on a small order slip, goes still, then takes one controlled breath and looks toward the cafe door."
+  },
+  "opening_captions": [
+    {"jp": "きょうは、なんがつ なんにち？", "en": "What month and day is it today?"},
+    {"jp": "まって。これは いちねん まえ？", "en": "Wait. Is this one year ago?"}
+  ],
+  "choices": [
+    {
+      "id": "save_receipt",
+      "label_en": "Save the receipt",
+      "label_jp": "レシートを しまう",
+      "caption": {"jp": "これを しまいます。", "en": "I will put this away."},
+      "prompt": "Aoi quietly folds the dated order slip and places it in a small blue notebook under the counter. She glances at the doorway with resolve. Keep the same cafe, wardrobe, lighting, visual style, and Aoi's exact identity. The camera moves from the close-up of her hands to her determined face. No text or signage."
+    },
+    {
+      "id": "call_misaki",
+      "label_en": "Call Misaki",
+      "label_jp": "みさきに でんわする",
+      "caption": {"jp": "みさきに でんわします。", "en": "I will call Misaki."},
+      "prompt": "Aoi takes out a simple smartphone and makes a careful phone call near the cafe window. She listens, then smiles with relief and gestures toward an empty chair as if inviting her friend over. Preserve Aoi, the cafe geography, the morning light, and the hand-drawn anime watercolor style. The camera slowly orbits from a medium shot to an over-the-shoulder view. No readable phone screen, text, logos, or subtitles."
+    },
+    {
+      "id": "run_station",
+      "label_en": "Run to the station",
+      "label_jp": "えきへ いく",
+      "caption": {"jp": "えきへ いきます。", "en": "I will go to the station."},
+      "prompt": "Aoi ties her apron, exits the warm cafe, and walks quickly through a quiet Japanese shopping street toward a small local station. Make the transition continuous and believable: keep her exact face, black bun, white blouse, charcoal apron, and the same watercolor anime visual language. She stops at the station entrance as a train arrives in the distance. Gentle tracking shot, early-morning atmosphere. No readable signs, text, logos, or subtitles."
+    }
+  ],
+  "launch_recording": {
+    "path": "opening -> save_receipt -> call_misaki",
+    "target_seconds": 90,
+    "reason": "It proves context retention and live narrative steering without needing expensive retries."
+  }
+}
