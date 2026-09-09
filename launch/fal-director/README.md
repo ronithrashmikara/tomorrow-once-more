@@ -1,36 +1,41 @@
-# Live Rewind Director — launch kit
+# Tomorrow, Once More — live Director prototype
 
-This is the prepared 90-second launch demo for **Tomorrow, Once More**. It turns the existing illustrated Japanese-learning story into one continuous, viewer-directed H3 Max Director stream.
+[Watch the recorded Director demo](../../repo_assets/clips/director-live-demo.mp4) · [Launch post copy](LAUNCH_POST.md) · [Measured run report](RUN_REPORT.md)
 
-## Budget lock
+Aoi wakes one year before her family's café collapses. This Japanese-learning story lets the learner choose her next action. H3 Max Director provides continuous animated footage that accepts new directions during the session; the application adds deterministic kana/English captions and Japanese TTS.
 
-| Item | Value |
-| --- | ---: |
-| Director launch price through 14 September 2026 | $0.02 / generated second |
-| Minimum charge | 60 seconds / $1.20 |
-| Planned recorded demo | 90 seconds / $1.80 |
-| Retry reserve | 60 seconds / $1.20 |
-| Recommended balance | **$3.00** |
-| Selected resolution | 768p |
+The 9 September 2026 recording is **51.76 seconds**. It shows the opening image animated into a café scene and Aoi putting away a clue. Two directions were sent automatically during recording. The API returned generated chunks for both; the phone-call chunk arrived at the stop limit, before its playback was captured. This is a local prototype and recorded demonstration, not a hosted public interactive service. The existing longer film is an illustrated renderer and is separate from this Director demonstration.
 
-The browser must send `stop` and close the WebRTC session at 90 seconds. Do not rely on the account balance to cap the demo: it allows up to 150 seconds with $3 at the promotional rate.
+## Run locally
 
-## What is ready
+Requires Node 22+, desktop Chrome, and Python with `edge-tts` if rebuilding the three speech files. Audio assets are included. Dependencies are pinned by the lockfile.
 
-- `assets/aoi-cafe-opening.jpg` is the exact first-frame reference. It combines the project's Aoi design and family-cafe scenery into a 16:9 opening shot.
-- `director-demo.json` contains the world prompt, exact fal configure object, captions, three branch prompts, cost guardrail, and recording path.
-- The three buttons teach a simple Japanese action while changing the next live story beat.
+```powershell
+cd launch/fal-director
+npm ci --legacy-peer-deps
+node record.mjs
+```
 
-## API integration
+The default is a **free dry run**: it checks the local browser recorder without calling fal. To make one paid session, put `FAL_KEY=your-key` in a local `.env` file, which Git ignores, then run:
 
-Use `@fal-ai/client@alpha` and `@fal-ai/server-proxy@alpha`. The browser connects to a server-side `/api/fal/proxy` route and opens `minimax/h3-max/director` through WebRTC. Keep `FAL_KEY` only in the server environment; it must never be committed or placed in browser code.
+```powershell
+node --env-file=.env record.mjs --live
+```
 
-Start the session with the `configure` object in `director-demo.json`, attach the incoming audio/video MediaStream to the player, and send a choice's `prompt` text as a `{ type: "prompt", prompt_version: 1, prompt: "..." }` message. Close the session at the 90-second timer.
+The tool binds only to loopback, keeps the key server-side, authorizes proxy requests with a random per-run token, limits the proxy to Director, and admits at most one session per process. It records video and Japanese audio to `tmp/director/` at the repository root. It closes at the first of 70 reported generated seconds, 60 seconds of recording, or an 85-second watchdog. Starting the command again makes another paid attempt; do not use a retry loop. Browser limits are safeguards, not a provider-enforced dollar cap. In-flight work and the per-session minimum affect final billing.
 
-## Caption and audio approach
+## Assets and behavior
 
-Generated-video typography is unreliable for a learning product. Render `opening_captions` and the selected choice `caption` as HTML/CSS over the video: kana first, English directly below. For the launch recording, use Japanese TTS or a prerecorded Japanese dialogue track; Director accepts an `audio_url` at startup and on later prompts, so the stream can be conditioned on the exact audio. Keep caption text outside the video prompt.
+- `director-demo.json`: original 90-second planning brief and three branch prompts. The executable recorder uses the shorter limits above.
+- `assets/aoi-cafe-opening.jpg`: opening reference assembled from the existing Aoi and café art.
+- `assets/audio/`: three prerecorded Japanese TTS lines, mixed into the local recording. These are not Director-generated voices or a tested lip-sync implementation.
+- `capture.js`: canvas captions, live WebRTC receive, recorder, buttons and scripted choice timing. Captions express the chosen intent when sent; generated action can follow later.
+- `balance.mjs`: optional read-only billing check; requires a billing-capable key.
 
-## Launch proof
+For production, synchronize captions with received scene timing, use richer dialogue, and build authenticated access and persistent billing controls before hosting paid generation for visitors.
 
-Record this route: opening → **Save the receipt** → **Call Misaki**. The recording demonstrates a supplied character frame, preserved café continuity, an audience choice, and a story change in one uninterrupted session. Pair it with the public repository and a short post tagging `@fal`.
+## Pricing checked on 9 September 2026
+
+The quoted standard launch rate is $0.02 per generated second with a $1.20 minimum. Seven reported 10-second chunks imply **$1.40**, not an invoice-confirmed charge. The billing endpoint rejected this key's read permission. The current advertised session ceiling is 15 minutes, subject to balance. Promotional pricing ends around 14 September; recheck the endpoint before another run.
+
+Sources: [Director pricing](https://fal.ai/h3-max-director), [Director API](https://fal.ai/models/minimax/h3-max/director/api), [billing API](https://fal.ai/docs/platform-apis/v1/account/billing).

@@ -35,7 +35,13 @@ These excerpts are compact H.264 videos with Japanese audio, kana captions, Engl
 
 ## Live Director launch demo
 
-The prepared [fal H3 Max Director launch kit](launch/fal-director/) turns Aoi's first scene into a 90-second interactive stream. It includes the 16:9 Aoi/cafe opening frame, three learner choices, exact prompt messages, overlay captions, and a $3 launch budget cap.
+The [fal H3 Max Director prototype](launch/fal-director/) now includes a real **52-second recorded demonstration**: Aoi's café scene animates while story directions are sent during the same session. Japanese voice and kana/English captions are added by the local recorder.
+
+[Watch the Director demo](repo_assets/clips/director-live-demo.mp4) · [Read the measured run report](launch/fal-director/RUN_REPORT.md)
+
+[![Aoi in the live Director demo](repo_assets/clips/director-preview.gif)](repo_assets/clips/director-live-demo.mp4)
+
+The code, opening image, three branch prompts and recording tool are included. This is a local prototype; the run report distinguishes accepted directions from action actually captured on screen.
 
 ## Add artwork
 
