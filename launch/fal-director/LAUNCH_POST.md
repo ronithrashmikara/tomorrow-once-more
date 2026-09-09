@@ -21,4 +21,4 @@ Japanese speech and captions are added by the app for readable, controlled learn
 
 ## Status
 
-This copy is prepared for the user to publish. No social post has been sent and no credits have been awarded. Eligibility and the award amount depend on fal; the screenshot's shared credit pool is not a guaranteed individual grant.
+The creator published the main launch post with the Director video on X and shared a screenshot confirming it on 9 September 2026. This was the creator's first X post. A direct post URL has not been recorded here. The follow-up above remains suggested copy; no credit award has been confirmed.

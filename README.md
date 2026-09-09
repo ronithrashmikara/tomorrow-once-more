@@ -1,75 +1,127 @@
 <p align="center">
-  <img src="repo_assets/logo.png" width="160" alt="Tomorrow, Once More illustrated tea cup, clock, and rewind logo">
+  <img src="repo_assets/logo.png" width="150" alt="Tomorrow, Once More — tea cup, clock and rewind logo">
 </p>
 
 <h1 align="center">Tomorrow, Once More</h1>
+<p align="center"><strong>もういちど、あした</strong><br>Learn Japanese. Change Aoi’s tomorrow.</p>
 
-<p align="center"><i>A Japanese-learning drama about changing one ordinary day before it becomes too late.</i></p>
+<p align="center">
+  <a href="repo_assets/clips/director-live-demo.mp4">Watch the Director demo</a> ·
+  <a href="launch/fal-director/">Run the prototype</a> ·
+  <a href="output/pdf/Tomorrow_Once_More_Opening_Hour.pdf">Read the screenplay</a>
+</p>
 
-An illustrated Japanese-learning drama. Aoi wakes one year before her family cafe collapses and tries to change the future. The first-hour cut teaches through Japanese speech, kana/katakana captions, English meaning, and character-led scenes.
+Aoi wakes one year before her family’s café collapses. A familiar cup, a suspicious receipt, and one unexpected visitor become clues to a future she wants to change.
 
-![Scenic dialogue preview](repo_assets/screenshots/scenic-dialogue.png)
+**Tomorrow, Once More** explores learning Japanese through story: Japanese speech, kana-only Japanese captions, English meanings, and choices that give each phrase a purpose.
 
-## Watch short previews
+## See the story move
 
-These excerpts are compact H.264 videos with Japanese audio, kana captions, English meaning, character art, and illustrated scenery.
+<p align="center">
+  <a href="repo_assets/clips/director-live-demo.mp4">
+    <img src="repo_assets/clips/director-preview.gif" width="720" alt="Animated excerpt: Aoi investigates a clue in her family café">
+  </a>
+</p>
+<p align="center"><strong>Actual H3 Max Director footage</strong> · 52-second demo · Japanese voice + kana/English captions<br>
+<a href="https://raw.githubusercontent.com/ronithrashmikara/tomorrow-once-more/main/repo_assets/clips/director-live-demo.mp4">Open / download the full demo MP4</a></p>
 
-| Moment | Preview |
+The recording begins with Aoi inspecting a clue and follows her putting it away. The local recorder sends story choices during the same Director session. Japanese TTS and captions are added by the application.
+
+## Why H3 Max Director?
+
+A learner’s choice can become a new direction while the video session continues. That makes Director useful for a drama where the viewer influences the next action.
+
+| Part | What it does |
 | --- | --- |
-| Aoi wakes to the blue cup | [Watch the opening rewind](repo_assets/clips/opening-rewind.mp4) |
-| Rina arrives in the red scarf | [Watch the red-scarf scene](repo_assets/clips/red-scarf.mp4) |
-| Tomorrow calls back | [Watch the future-phone scene](repo_assets/clips/tomorrow-calls.mp4) |
+| **Opening image** | Establishes Aoi and the café using the project’s existing artwork. |
+| **Director stream** | Generates animated footage and accepts new story directions during playback. |
+| **Choice prompts** | Describe the next action: save the receipt, call Misaki, or go to the station. |
+| **Learning layer** | Adds controlled Japanese speech and readable kana + English captions. |
+| **Local recorder** | Captures the result and closes the session at its duration limits. |
 
-![Dialogue](repo_assets/screenshots/dialogue.png)
+This is a **working local prototype**. The recorded choices were triggered by a timed script; buttons are also implemented. Both directions were accepted, but the phone-call scene arrived at the stop limit and is not shown playing through in the recording. See the [measured run report](launch/fal-director/RUN_REPORT.md) for the exact results.
 
-![Lesson frame](repo_assets/screenshots/lesson.png)
+## Try the Director recorder
 
-## What is already built
-
-- A 24-scene opening-hour screenplay with Japanese in kana and English translation.
-- Japanese neural voice audio for the scene lines.
-- A finished 67-minute scenic video (`output/Tomorrow_Once_More_Animated_Scenic.mp4`, excluded from Git because it is too large for the repository).
-- Ten character cutouts, including Aoi, Misaki, Haru, Rina, Ren, Yui, Sato, Nao, the clerk, and a regular customer.
-- Illustrated bedroom, kitchen, cafe, station, and back-room scenery mapped across all 24 scenes.
-- A white-background study mode and a scenic mode.
-
-## Live Director launch demo
-
-The [fal H3 Max Director prototype](launch/fal-director/) now includes a real **52-second recorded demonstration**: Aoi's café scene animates while story directions are sent during the same session. Japanese voice and kana/English captions are added by the local recorder.
-
-[Watch the Director demo](repo_assets/clips/director-live-demo.mp4) · [Read the measured run report](launch/fal-director/RUN_REPORT.md)
-
-[![Aoi in the live Director demo](repo_assets/clips/director-preview.gif)](repo_assets/clips/director-live-demo.mp4)
-
-The code, opening image, three branch prompts and recording tool are included. This is a local prototype; the run report distinguishes accepted directions from action actually captured on screen.
-
-## Add artwork
-
-Put transparent PNG character art in `drama/film/characters/`. Use either the Japanese role name or its English role name: `あおい.png` / `aoi.png`, `みさき.png` / `misaki.png`, and so on. The current renderer already has art for Aoi, Misaki, Haru, Rina, Ren, Yui, Sato, the clerk, and the customer.
-
-Put 16:9 scenery images in `drama/film/backgrounds/` and map scene numbers to filenames in `drama/film/visuals.json`. The renderer keeps a light white overlay and a solid caption zone so the Japanese stays readable.
-
-## Render
-
-Use Python 3.12 with `Pillow`, `numpy`, and FFmpeg installed. Build or refresh speech from `drama/screenplay.json`, then render the selected scenes:
+Requires **Node.js 22+ and Google Chrome**. Run these commands from the repository root:
 
 ```powershell
+cd launch/fal-director
+npm ci --legacy-peer-deps
+node record.mjs
+```
+
+The default command is a **free local dry run**; it does not call fal.
+
+For a paid recording, create a local `.env` file inside `launch/fal-director/` containing `FAL_KEY=your-key`, then run:
+
+```powershell
+node --env-file=.env record.mjs --live
+```
+
+The key stays on the local server and the file is ignored by Git. One command admits one session; rerunning it starts another paid attempt. The recorder stops at its recording, generated-duration, or watchdog limit. These are local safeguards, not a provider-enforced dollar cap.
+
+The first run used **one paid session with no retry**. Seven reported 10-second chunks imply **about $1.40 at the launch rate**; the actual bill could not be verified with the key’s permissions. Check [fal’s current pricing](https://fal.ai/h3-max-director) before running it. Details and output locations are in the [Director guide](launch/fal-director/README.md).
+
+## The longer learning drama
+
+The project also contains an illustrated-film pipeline, separate from the Director experiment:
+
+- **24-scene opening screenplay** with kana Japanese and English translation.
+- **Bilingual screenplay PDF** and grammar planning materials.
+- **10 character cutouts** and **5 illustrated locations**.
+- Japanese TTS generation, captions, and white-background or scenic rendering.
+- A finished **67-minute scenic cut**, kept locally; short excerpts are included below.
+
+![Illustrated learning scene with Japanese and English captions](repo_assets/screenshots/scenic-dialogue.png)
+
+| Scene | Watch |
+| --- | --- |
+| Aoi wakes to the blue cup | [Opening rewind](repo_assets/clips/opening-rewind.mp4) |
+| Rina arrives in a red scarf | [Red-scarf scene](repo_assets/clips/red-scarf.mp4) |
+| A call from tomorrow | [Future-phone scene](repo_assets/clips/tomorrow-calls.mp4) |
+
+The 67-minute film uses animated still artwork. The Director demo above uses generated video. The full 67-minute MP4 is excluded from Git; the Director MP4 and these short clips are committed.
+
+## Render an illustrated scene
+
+The current renderer targets **Windows** and uses its Yu Gothic fonts. Install Python 3.12, FFmpeg (including `ffprobe`) on PATH, and the Python dependencies:
+
+```powershell
+python -m pip install Pillow numpy edge-tts
 python drama/film/tts_build.py
 python drama/film/render_anim.py --scenes 1,2 --visual-mode scenic --suffix _preview
 ```
 
-Use `--visual-mode white` for the clean teaching layout. The rendered file is written to `output/`.
+Use `--visual-mode white` for the study layout. The video is written to `output/`.
 
-## Reuse this pipeline for another story
+## Make another story
 
-1. Copy `drama/film/story_template.json` and write the new bilingual screenplay. Keep Japanese in kana/katakana if that is the learning format you want.
-2. Supply character cutouts and map any new speaker labels in `tts_build.py` and `render_anim.py`.
-3. Add scenery assets and update `visuals.json`.
-4. Run TTS, then render a short scene preview before rendering the full story.
-
-The pipeline keeps dialogue, English gloss, Japanese audio, captions, art, and timing separate. It also accepts a different screenplay and cue-sheet path:
+1. Copy [the story template](drama/film/story_template.json) and write bilingual scene blocks.
+2. Add transparent character PNGs to `drama/film/characters/` and map speakers in the TTS and renderer scripts.
+3. Add scenery to `drama/film/backgrounds/` and map scenes in [visuals.json](drama/film/visuals.json).
+4. Generate speech, then render a short preview before producing the full film.
 
 ```powershell
 python drama/film/tts_build.py --screenplay my_story.json --audio-dir build/my_story/audio --lines-out build/my_story/lines.json
 python drama/film/render_anim.py --lines build/my_story/lines.json --audio-dir build/my_story/audio --wav-dir build/my_story/wav --visual-mode scenic --suffix _my_story
 ```
+
+## Explore the repository
+
+| Folder / file | Contents |
+| --- | --- |
+| [launch/fal-director](launch/fal-director/) | Working capture code, dependencies, prompts, audio, launch copy and run report |
+| [drama/screenplay.json](drama/screenplay.json) | Editable bilingual screenplay |
+| [drama/film](drama/film/) | TTS, illustrated renderer, character art and scenery |
+| [repo_assets/clips](repo_assets/clips/) | Director demo MP4, animated preview and illustrated-film excerpts |
+| [output/pdf](output/pdf/) | Downloadable learning documents |
+
+## Next chapters
+
+- Align captions and voice with the scene that actually reaches the player.
+- Expand the short demo into richer branching conversations.
+- Add authenticated access and persistent spending controls before opening paid generation to visitors.
+- Review Japanese language quality and measure grammar coverage through the story.
+
+Built by **Ronith Rashmikara**. Shared on X as the creator’s first post in September 2026.
