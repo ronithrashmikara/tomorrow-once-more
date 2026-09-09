@@ -41,6 +41,64 @@ A learner’s choice can become a new direction while the video session continue
 
 This is a **working local prototype**. The recorded choices were triggered by a timed script; buttons are also implemented. Both directions were accepted, but the phone-call scene arrived at the stop limit and is not shown playing through in the recording. See the [measured run report](launch/fal-director/RUN_REPORT.md) for the exact results.
 
+## How the system works
+
+The Director prototype combines live generated video with a local learning layer. The proxy authenticates session setup; prompts and video then travel over the WebRTC connection. Japanese voice and captions are composed locally for the recording.
+
+```mermaid
+flowchart TB
+    subgraph inputs["Story and learning assets"]
+        story["Story prompts + learner choices<br/>director-demo.json"]
+        art["Aoi + cafe opening image"]
+        tts["Japanese TTS<br/>make_audio.py → MP3 files"]
+    end
+
+    subgraph local["Local computer — recording prototype"]
+        controls["Browser controls / timed demo<br/>capture.js"]
+        session["fal client SDK<br/>WebRTC session"]
+        proxy["Local Node proxy<br/>record.mjs"]
+        key["FAL_KEY in ignored .env<br/>Server-side only"]
+        limits["Stop controls<br/>Duration limits + watchdog"]
+        canvas["Canvas player<br/>Video + kana / English captions"]
+        mix["Web Audio<br/>Japanese voice track"]
+        recorder["MediaRecorder<br/>Canvas video + Japanese audio"]
+    end
+
+    director["fal H3 Max Director<br/>Continuous generated video"]
+    webm["Local WebM recording"]
+    export["FFmpeg export<br/>H.264 video + AAC audio"]
+    publish["Demo MP4 + animated preview<br/>GitHub README / launch post"]
+
+    story --> controls
+    controls -->|"configure + new directions"| session
+    session -.->|"session setup / signaling"| proxy
+    key -.->|"authentication"| proxy
+    proxy -.->|"authenticated setup"| director
+    art -->|"opening image URL"| director
+    session <-->|"WebRTC: directions out, video in"| director
+    session -->|"received video frames"| canvas
+    controls -->|"selected kana + English"| canvas
+    tts --> mix
+    controls -->|"play selected line"| mix
+    canvas --> recorder
+    mix --> recorder
+    limits -.->|"stop + close"| session
+    recorder --> webm --> export --> publish
+
+    classDef asset fill:#e9f1fb,stroke:#5079a5,color:#122a43
+    classDef app fill:#132a43,stroke:#6ca5dd,color:#f4f8ff
+    classDef cloud fill:#fce7e2,stroke:#c56b59,color:#492016
+    classDef output fill:#e9f5ee,stroke:#55886b,color:#153622
+    class story,art,tts asset
+    class controls,session,proxy,key,limits,canvas,mix,recorder app
+    class director cloud
+    class webm,export,publish output
+```
+
+[Editable diagram source](repo_assets/diagrams/system-architecture.mmd)
+
+The stop controls limit the local session; they are not a provider-enforced spending cap. Director's native audio is not mixed into this demo—the exported Japanese voice comes from the TTS files. The separate illustrated-film pipeline uses screenplay → TTS + character/scenery renderer → FFmpeg, without calling Director.
+
 ## Try the Director recorder
 
 Requires **Node.js 22+ and Google Chrome**. Run these commands from the repository root:
