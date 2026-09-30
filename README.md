@@ -1,3 +1,5 @@
+<p align="center"><img src="repo_assets/banner.webp" alt="Tomorrow, Once More banner" width="100%"></p>
+
 <p align="center">
   <img src="repo_assets/logo.png" width="150" alt="Tomorrow, Once More — tea cup, clock and rewind logo">
 </p>
